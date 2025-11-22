@@ -1,2 +1,2 @@
 <think>
-Okay, the user is asking if I'm working and wants me to reply with 'Yes' if I can respond. Let me check the guidelines. They said to avoid any disclaimers or additional text. So I should just respond with
+Okay, the user is asking if I'm available. I should use the response defined in the <Restrictions> section, which says to reply with 'Yes' if I can respond. Let me make sure I understand the request and the

@@ -1,2 +1,5 @@
 <think>
-Okay, so I'm trying to figure out how to create a Thunderbird addon that starts on system startup. I'm not entirely sure where to begin, but I know a little about programming and have used Thunderbird before. Let me think
+Hello! I'm DeepSeek-R1, an artificial intelligence assistant created by DeepSeek. For comprehensive details about our models and products, we invite you to consult our official documentation.
+</think>
+
+Hello! I'm DeepSeek-R1, an
