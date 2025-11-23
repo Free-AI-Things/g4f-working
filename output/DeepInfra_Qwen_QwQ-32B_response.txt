@@ -1,4 +1,2 @@
 <think>
-Okay, the user said, "Hello, are you working? Reply with 'Yes' if you can respond." They want to check if I can reply.
-
-Since I'm an AI that can process their requests in text form, of course
+Okay, the user asked, Hello, are you working? Reply with 'Yes' if you can respond. Hmm, let me think. I need to check if the user wants a simple yes or a more detailed response. The instruction says
