@@ -1,4 +1,4 @@
 <think>
-Okay, the user just asked, "Hello, are you working? Reply with 'Yes' if you can respond." Let me break this down.
+Okay, the user said, "Hello, are you working? Reply with 'Yes' if you can respond." They want to check if I can reply.
 
-First, they're checking if Qwen is online and able to respond. This is a
+Since I'm an AI that can process their requests in text form, of course
