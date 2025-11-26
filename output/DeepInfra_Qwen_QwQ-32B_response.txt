@@ -1,2 +1,4 @@
 <think>
-Okay, the user asked, "Hello, are you working? Reply with 'Yes' if you can respond." Let me break this down. First, they're checking if the AI is active and operational. My role is to respond thought
+Okay, the user is asking if I'm working and wants me to reply with 'Yes' if I can respond. Let me break this down.
+
+First, they're testing if I'm active or having issues. I need to confirm I
