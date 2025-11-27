@@ -1,2 +1,2 @@
 <think>
-Okay, the user is starting a conversation with me, which makes me feel that they might be asking about my current status or need help with something. First of all, I need to confirm that they want a simple answer, "yes",
+Okay, the user sent Hello, are you working? I need to respond with Yes if you can reply. As Qwen, I need to confirm if I can respond. First, I should confirm that the system is working properly and can
