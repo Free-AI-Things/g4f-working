@@ -1,0 +1,2 @@
+<think>
+Okay, so I need to figure out how to determine the value of \( x \) in the equation \( \sqrt{x} + \sqrt{x + 2} = 3 \). Hmm, let's break this down step by

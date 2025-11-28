@@ -1,4 +1,4 @@
 <think>
-Okay, the user is asking, "Hello, are you working? Reply with 'Yes' if you can respond." Let me think about how to handle this.
+Okay, the user just said, Hello, are you working? Reply with 'Yes' if you can respond.
 
-First, I need to acknowledge their greeting. They want to know if I
+First, I need to understand what the user is asking. They're checking if I'm functioning and if I can respond,
