@@ -1,4 +1,4 @@
 <think>
-Okay, so the user wants me to explain how I arrived at the answer "Yes" when they asked if I was working. Hmm, let me think through this step by step. 
+Okay, the user just started our conversation with "Hello, are you working? Reply with 'Yes' if you can respond." Hmm, how should I approach this? I need to figure out what they're asking.
 
-First, the user greeted me with "Hello,
+So they're asking

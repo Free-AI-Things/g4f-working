@@ -1,2 +1,4 @@
 <think>
-Okay, the user greeted me and asked if I'm working, asking to reply with 'Yes' if I can respond. First, I need to confirm whether they want a simple affirmation or further interaction. Since the instruction says to answer in
+Okay, the user said, Hello, are you working? Reply with 'Yes' if you can respond. Let me parse this.
+
+First, they're checking if I'm working. Since I always have to respond as long as I'm
