@@ -1,4 +1,4 @@
 <think>
-Okay, the user said, Hello, are you working? Reply with 'Yes' if you can respond. Let me parse this.
+Okay, the user sent a message asking if I'm working and wants a reply with 'Yes' if I can respond. Let me start by understanding their request.
 
-First, they're checking if I'm working. Since I always have to respond as long as I'm
+First, they might be testing if I'm online or functional, or maybe

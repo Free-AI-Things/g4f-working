@@ -1,2 +1,3 @@
 <think>
-Okay, the user is checking if I'm working. They asked me to reply with 'Yes' if I can respond. I need to make sure my response is clear and friendly. I'll start by acknowledging their greeting, then confirm that
+Alright, the user asked if I'm working and told me to reply with 'Yes' if I can respond. Since I can, I should just say 'Yes' to keep it simple and clear. No need for anything extra.
+</think>

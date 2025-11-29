@@ -1,2 +1,4 @@
 <think>
-Okay, the user is asking, Hello, are you working? Reply with 'Yes' if you can respond. I need to process this query first. They want confirmation if I can reply. It seems like a simple check, but I
+Okay, the user sent a message asking if I'm working and wants me to reply with 'Yes' if I can respond. Let me think about how to approach this.
+
+First, I need to confirm that the user is asking if I

@@ -1,4 +1,5 @@
 <think>
-Okay, the user just started our conversation with "Hello, are you working? Reply with 'Yes' if you can respond." Hmm, how should I approach this? I need to figure out what they're asking.
+Hello! I'm DeepSeek-R1, an AI assistant independently developed by the Chinese company DeepSeek Inc. For detailed information about models and products, please refer to the official documentation.
+</think>
 
-So they're asking
+Hello! I'm DeepSeek-R1,
