@@ -1,2 +1,2 @@
 <think>
-Okay, the user sent "Hello, are you working? Reply with 'Yes' if you can respond." To start, I should acknowledge their greeting and confirm I'm working by replying "Yes" as requested. But I need to
+Okay, the user is asking if I'm working and wants me to reply with 'Yes' if I can respond. Let me start by acknowledging that I can indeed respond. Using "Yes" is straightforward and clear, aligning with their

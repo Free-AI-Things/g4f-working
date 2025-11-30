@@ -1,2 +1,2 @@
 <think>
-Okay, so I need to figure out how to respond to the initial message where someone wrote, "Hello, are you working? Reply with 'Yes' if you can respond." Then, in the responses, the assistant just wrote "Yes
+Alright, I received a message. It says, "Hello, are you working? Reply with 'Yes' if you can respond." I need to figure out the best way to respond. Since the instruction is to reply with just 'Yes
