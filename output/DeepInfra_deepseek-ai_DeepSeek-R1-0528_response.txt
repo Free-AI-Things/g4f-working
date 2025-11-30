@@ -1,4 +1,0 @@
-<think>
-Hmm, the user just asked if I'm working with a specific instruction to reply "Yes" if I can respond. 
-
-Okay, this seems like a simple availability check - probably testing if I'm online or checking response capabilities. The
