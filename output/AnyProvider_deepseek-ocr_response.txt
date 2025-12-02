@@ -1,6 +1,0 @@
-1.Questions( 'Yes') 
-
-| **Main |** | **Table** |
-|--- | ---| ---|
-| 3.T ; : | 2, 1 | ''What day is it today?' |
-|---| | 3

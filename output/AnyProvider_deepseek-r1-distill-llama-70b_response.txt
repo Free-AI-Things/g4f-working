@@ -1,3 +1,0 @@
-<think>
-Okay, so I need to figure out how to respond to the user's message. They greeted me and asked if I'm working, and they also provided an example where they asked me to reply with 'Yes' if I can respond.
-

@@ -1,4 +1,0 @@
-<think>
-Okay, the user just said, Hello, are you working? Reply with 'Yes' if you can respond. They probably want to know if I'm functioning properly. The key points here are confirming operational status and response capability.
-
-First,
