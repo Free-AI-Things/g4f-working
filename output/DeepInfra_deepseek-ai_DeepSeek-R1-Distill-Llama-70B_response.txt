@@ -1,0 +1,5 @@
+<think>
+Okay, the user wants to know if I'm working by asking me to reply with 'Yes' if I can respond. So, I should keep it simple and just say 'Yes' as they requested.
+</think>
+
+Yes
