@@ -1,0 +1,2 @@
+<think>
+Okay, so I need to figure out how to use the GPT-3 model to generate text based on the given prompt. Let me just start by understanding what exactly is being asked here. The user provided a prompt: "Hello,
