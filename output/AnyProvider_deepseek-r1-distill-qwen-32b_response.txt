@@ -1,8 +1,0 @@
-<think>
-Okay, the user asked, "Hello, are you working? Reply with 'Yes' if you can respond.".
-
-They're checking if the AI is responsive.
-
-I should confirm that I'm working by replying with 'Yes'.
-
-That

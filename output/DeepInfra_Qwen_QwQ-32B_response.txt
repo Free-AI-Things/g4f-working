@@ -1,4 +1,0 @@
-<think>
-Okay, the user asked, Hello, are you working? Reply with 'Yes' if you can respond. 
-
-First, I need to check if the user is testing or just starting a conversation. They might want to confirm if the AI
