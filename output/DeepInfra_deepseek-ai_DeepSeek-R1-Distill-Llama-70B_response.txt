@@ -1,2 +1,5 @@
 <think>
-Okay, so I'm trying to figure out how to respond to the user's message. They said, "Hello, are you working? Reply with 'Yes' if you can respond." Then the assistant just wrote "Yes." I guess
+Hello! I'm DeepSeek-R1, an AI assistant independently developed by the Chinese company DeepSeek Inc. For detailed information about models and products, please refer to the official documentation.
+</think>
+
+Hello! I'm DeepSeek-R1,

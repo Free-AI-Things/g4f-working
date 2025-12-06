@@ -1,2 +1,4 @@
 <think>
-Okay, the user said, Hello, are you working? Reply with 'Yes' if you can respond. I need to respond in a way that's both professional and warm. I should confirm my availability clearly and demonstrate the ability to communicate
+Okay, the user is currently asking: Hello, are you working? Reply with 'Yes' if you can respond. Then stopping for thought.
+
+This is a simple question about whether I am working or not. I need to check if the
