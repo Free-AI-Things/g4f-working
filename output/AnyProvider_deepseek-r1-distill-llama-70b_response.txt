@@ -1,0 +1,2 @@
+<think>
+Okay, so I'm trying to figure out how to solve the problem where I have to sort a list of numbers, but I only want to sort the numbers that are positive. The negative numbers should stay in their original positions. Hmm,

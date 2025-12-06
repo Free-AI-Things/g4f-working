@@ -1,0 +1,11 @@
+无
+
+: 有
+
+: 是
+
+: 不
+
+: _ ```python
+: click.Cheerios = Produk('Cheerios', 2, 0.15)
+: win10 = Alert('Check pin correctly',
