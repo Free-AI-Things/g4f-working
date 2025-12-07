@@ -1,2 +1,2 @@
 <think>
-Okay, so I need to figure out how to solve 3/4 of 16. Hmm, let me think about this. I remember that "of" in math usually means multiplication. So, 3/4 of 16
+Okay, so I need to figure out how to solve this problem: "A snail is at the bottom of a 20-foot well. Each day, it climbs up 3 feet, but at night, it slips back 2

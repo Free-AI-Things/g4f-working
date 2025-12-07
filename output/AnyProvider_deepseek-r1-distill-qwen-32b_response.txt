@@ -1,5 +1,2 @@
 <think>
-Alright, the user asked "Hello, are you working?" and then said to reply with 'Yes' if I can respond. So they want a confirmation.
-
-I should keep it simple and just respond with 'Yes' as they requested.
-
+Okay, so I just received this message: "No." Hmm, I wonder why that happened. I was testing to see if the AI is working by asking it to reply with 'Yes' if it can respond. But it responded with

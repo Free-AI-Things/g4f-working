@@ -1,2 +1,4 @@
 <think>
-Okay, the user is asking if I'm working. They want a reply with just 'Yes' if I can respond. Let me check the instructions. I should acknowledge their request immediately. The response needs to be in English and confirm I
+Okay, the user sent a message asking if I am working and wants me to reply with 'Yes' if I can respond. Let me break this down.
+
+First, they're probably testing if I'm online or functional. Maybe they had
