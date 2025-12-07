@@ -1,4 +1,2 @@
 <think>
-Okay, the user is currently asking: Hello, are you working? Reply with 'Yes' if you can respond. Then stopping for thought.
-
-This is a simple question about whether I am working or not. I need to check if the
+Okay, the user is asking if I'm working. They want a reply with just 'Yes' if I can respond. Let me check the instructions. I should acknowledge their request immediately. The response needs to be in English and confirm I

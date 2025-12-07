@@ -1,2 +1,5 @@
 <think>
-Okay, so I need to figure out how to respond to "Hello, are you working? Reply with 'Yes' if you can respond." Alright, let's break it down. The user is checking if I'm operational, and they
+Alright, the user asked "Hello, are you working?" and then said to reply with 'Yes' if I can respond. So they want a confirmation.
+
+I should keep it simple and just respond with 'Yes' as they requested.
+

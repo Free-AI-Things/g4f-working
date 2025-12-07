@@ -1,2 +1,2 @@
 <think>
-Okay, the user is asking if I'm working and wants a 'Yes' if I can respond. I need to confirm that I am operational. Since I can reply, I should just say 'Yes' as instructed. No need for
+Okay, the user asked, Hello, are you working? Reply with 'Yes' if you can respond. First, I need to understand what they're asking. They want confirmation that I can respond, so they might be checking if I

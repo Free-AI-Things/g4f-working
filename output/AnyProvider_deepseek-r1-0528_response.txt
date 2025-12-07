@@ -1,4 +1,4 @@
 <think>
-Hmm, the user just asked if I'm working and wants a simple 'Yes' reply if I can respond. 
+Hmm, the user just asked if I'm working and wants me to reply with "Yes" if I can respond. 
 
-Okay, let me break this down. The greeting "Hello" suggests they're being polite, but the query itself
+Okay, this seems like a simple check to confirm I'm operational. The user might be testing if I'm

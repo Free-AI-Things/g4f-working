@@ -1,2 +1,5 @@
 <think>
-Greetings! I'm here and ready to assist you. How can I help you today? If you have any questions or need information on a specific topic, feel free to ask. I'm happy to provide support or discuss any subject you're
+Hello! I'm here and ready to help. How can I assist you today?
+</think>
+
+Hello! I'm here and ready to help. How can I assist you today?
