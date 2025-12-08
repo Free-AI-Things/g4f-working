@@ -1,4 +1,4 @@
 <think>
-Okay, the user sent a message asking, "Hello, are you working? Reply with 'Yes' if you can respond." My task is to generate the reasoning that leads to the final answer.
+Okay, the user asked, "Hello, are you working? Reply with 'Yes' if you can respond." Let me think about how to respond.
 
-First, I need to understand the user
+First, I need to acknowledge that I'm working. The user wants a simple '

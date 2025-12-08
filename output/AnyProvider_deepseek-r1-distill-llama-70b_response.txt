@@ -1,2 +1,2 @@
 <think>
-Okay, the user sent "Hello, are you working? Reply with 'Yes' if you can respond." and I responded with "Yes". Now I need to figure out what they really need beyond that simple response. They might be checking
+Okay, so I received this message where someone asked, "Hello, are you working? Reply with 'Yes' if you can respond." And they got the response "Yes." I need to figure out how to respond if I were in

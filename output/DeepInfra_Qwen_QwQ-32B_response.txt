@@ -1,2 +1,2 @@
 <think>
-Okay, the user is asking if I can respond by replying with 'Yes'. I need to confirm that I'm working. But wait, the instruction says to reply with 'Yes' if I can respond. Since I'm supposed to
+Okay, the user is asking if I'm working and wants me to reply with 'Yes' if I can respond. I need to make sure I follow their instruction correctly. They probably just want a simple confirmation that I'm online and able

@@ -1,1 +1,4 @@
-Yes
+<think>
+Okay, the user greeted me and asked if I'm working. They want me to reply with 'Yes' if I can respond. I need to determine the appropriate response based on the user's request.
+
+First, the user's instruction is
