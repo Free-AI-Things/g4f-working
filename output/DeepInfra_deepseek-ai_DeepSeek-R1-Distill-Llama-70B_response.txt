@@ -1,2 +1,2 @@
 <think>
-Okay, so I need to figure out how to solve this problem: "A snail is at the bottom of a 20-foot well. Each day, it climbs up 3 feet, but at night, it slips back 2
+Okay, so I'm trying to figure out how to solve this problem where I need to calculate the number of syllables in a given text. The user provided a text, and they want to determine the number of syllables. I'm

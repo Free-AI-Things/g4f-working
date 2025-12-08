@@ -1,2 +1,2 @@
 <think>
-Okay, so I just received this message: "No." Hmm, I wonder why that happened. I was testing to see if the AI is working by asking it to reply with 'Yes' if it can respond. But it responded with
+Okay, the user just asked, "Hello, are you working? Reply with 'Yes' if you can respond." So they want to know if I'm functioning. I need to respond as instructed. I should just say "Yes"

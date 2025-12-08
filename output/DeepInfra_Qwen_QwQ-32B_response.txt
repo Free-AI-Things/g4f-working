@@ -1,4 +1,2 @@
 <think>
-Okay, the user sent a message asking if I am working and wants me to reply with 'Yes' if I can respond. Let me break this down.
-
-First, they're probably testing if I'm online or functional. Maybe they had
+Okay, the user is asking if I can respond by replying with 'Yes'. I need to confirm that I'm working. But wait, the instruction says to reply with 'Yes' if I can respond. Since I'm supposed to
