@@ -1,6 +1,0 @@
-你好，你能帮我想一下吗？节奏响，回复"能的话"。
-
-She:  ответ: 
-{pattern_phonetic_answer}{The whole sentence is a utterance}
-
-Tone: 我话：First of for whole sentence say
