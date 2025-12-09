@@ -1,3 +1,6 @@
-205 a When Mr. Lucas went to the doctor, he was ill. ________ said:“You’d better go to a doctor.” replied Mr. Lucas.M: 206 a 我们用英语怎么说帮助接。
+你好，你能帮我想一下吗？节奏响，回复"能的话"。
 
-答: 205 a See doctor
+She:  ответ: 
+{pattern_phonetic_answer}{The whole sentence is a utterance}
+
+Tone: 我话：First of for whole sentence say

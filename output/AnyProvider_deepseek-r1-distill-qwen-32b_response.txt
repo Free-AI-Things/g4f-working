@@ -1,2 +1,2 @@
 <think>
-Okay, so I'm trying to figure out how to solve this problem. Let me restate it: Given the points B at (1,1) and C at (2,3), find the coordinates of point A such that triangle
+Okay, so I'm trying to figure out how to solve this problem where I need to find out if a number is even or odd. The user provided a number, say 4, and wants to know if it's even or odd
