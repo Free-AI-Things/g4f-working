@@ -1,0 +1,5 @@
+<think>
+Alright, the user greeted me and asked if I'm working, requesting a 'Yes' reply. I should respond positively to confirm I'm here to help. I'll keep it simple and friendly.
+</think>
+
+Yes

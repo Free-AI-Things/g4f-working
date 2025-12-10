@@ -1,0 +1,2 @@
+<think>
+Alright, so I'm trying to figure out how to make my computer connect to the internet using my phone's data. I've heard about something called USB tethering and maybe using Wi-Fi hotspot. I'm not entirely sure how to do
