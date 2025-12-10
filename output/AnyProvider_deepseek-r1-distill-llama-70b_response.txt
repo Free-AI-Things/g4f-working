@@ -1,2 +1,5 @@
 <think>
-Okay, so I'm trying to figure out how to improve my problem-solving skills. I remember that in school, we were taught different methods, but I'm not sure which ones are the most effective. Maybe I should start by understanding what
+Hello! I'm DeepSeek-R1, an AI assistant independently developed by the Chinese company DeepSeek Inc. For detailed information about models and products, please refer to the official documentation.
+</think>
+
+Hello! I'm DeepSeek-R1,

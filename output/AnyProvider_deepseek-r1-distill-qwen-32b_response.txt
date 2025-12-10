@@ -1,5 +1,5 @@
 <think>
-Alright, the user greeted me and asked if I'm working, requesting a 'Yes' reply. I should respond positively to confirm I'm here to help. I'll keep it simple and friendly.
+Hello! I'm here and ready to help. How can I assist you today?
 </think>
 
-Yes
+Hello! I'm here and ready to help. How can I assist you today?

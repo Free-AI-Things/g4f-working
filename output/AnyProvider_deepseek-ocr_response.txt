@@ -1,17 +1,9 @@
-1 (draw a tree. They live for many years, full many times.
+是的,我是員工 (Yes, I am a staff)
 
-： 1
+:
 
-： 2
+: Are you smoking? Resp: yes, I am using (Yes, I am smoking)
 
-： 3
+Main: Are you English speaking?
 
-： 4
-
-： 5 : 6
-
-： 7
-
-： 8
-
-： 9
+: Yes,Like english Yes,English speaking (

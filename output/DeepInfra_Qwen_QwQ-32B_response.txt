@@ -1,2 +1,2 @@
 <think>
-Okay, the user asked, Hello, are you working? Reply with 'Yes' if you can respond. Alright, I need to figure out how to respond. The user wants confirmation that I'm working, and instructed to reply with '
+Okay, I need to respond to the user. They asked, "Hello, are you working? Reply with 'Yes' if you can respond." Let me make sure I understand what they're asking. They want me to confirm if I

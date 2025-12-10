@@ -1,1 +1,4 @@
-Yes! Hello, how can I assist you today? 😊
+<think>
+Okay, the user is asking, "Hello, are you working? Reply with 'Yes' if you can respond." Let me think about how to handle this.
+
+First, the user is likely testing if I'm actually online and able to
