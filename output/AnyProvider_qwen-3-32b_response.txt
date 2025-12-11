@@ -1,2 +1,4 @@
 <think>
-Okay, the user is asking if I'm working and wants a reply with 'Yes' if I can respond. Hmm, I need to make sure I understand what they're looking for. They might be testing if I'm online or functional
+Okay, the user greeted and asked if I'm working, and if I can respond, to reply 'Yes'. Let me think about how to approach this...
+
+First, the greeting is straightforward. I should respond politely and confirm that I'm

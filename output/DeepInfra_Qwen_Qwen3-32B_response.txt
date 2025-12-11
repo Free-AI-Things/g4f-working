@@ -1,4 +1,2 @@
 <think>
-Okay, the user is asking if I'm working and wants me to reply with 'Yes' if I can respond. Let me think.
-
-First, I need to understand the context. This greeting is straightforward, possibly testing if the AI is
+Okay, the user is asking if I'm working and wants me to reply with 'Yes' if I can respond. Let me make sure I understand correctly. They want confirmation that I'm online and able to communicate. Since I can respond

@@ -1,4 +1,0 @@
-<think>
-Hmm, a simple greeting asking if I'm operational. The user seems polite with "Hello" and a straightforward request for confirmation.  
-
-This appears to be a basic system check - they might be testing connectivity or confirming the chat interface works

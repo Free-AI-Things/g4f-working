@@ -1,2 +1,4 @@
 <think>
-Okay, the user asked, "Hello, are you working? Reply with 'Yes' if you can respond." I need to check if I can respond. The instructions say to reply "Yes" if possible. So I should just say
+Okay, the user just sent a greeting and is checking if I'm available. They clearly want to start a conversation and confirm that I can respond.
+
+I should give a simple 'Yes' first to let them know I'm here. Then
