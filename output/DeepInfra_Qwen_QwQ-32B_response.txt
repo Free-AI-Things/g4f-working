@@ -1,2 +1,2 @@
 <think>
-Okay, I need to respond to the user. They asked, "Hello, are you working? Reply with 'Yes' if you can respond." Let me make sure I understand what they're asking. They want me to confirm if I
+Okay, the user asked, "Hello, are you working? Reply with 'Yes' if you can respond." I need to check if I can respond. The instructions say to reply "Yes" if possible. So I should just say
