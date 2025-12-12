@@ -1,5 +1,0 @@
-<think>
-Okay, the user said "Yes." So the system is operational. I should respond to confirm I'm working.
-</think>
-
-Yes.
