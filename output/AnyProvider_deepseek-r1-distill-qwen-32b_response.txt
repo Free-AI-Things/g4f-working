@@ -1,4 +1,5 @@
 <think>
-Okay, so I received this message, "Hello, are you working? Reply with 'Yes' if you can respond." Hmm, I need to figure out the best way to respond to this. Let me break it down.
+Okay, the user said "Yes." So the system is operational. I should respond to confirm I'm working.
+</think>
 
-First,
+Yes.

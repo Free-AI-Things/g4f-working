@@ -1,4 +1,2 @@
 <think>
-Okay, the user greeted and asked if I'm working, and if I can respond, to reply 'Yes'. Let me think about how to approach this...
-
-First, the greeting is straightforward. I should respond politely and confirm that I'm
+Okay, the user is asking, "Hello, are you working? Reply with 'Yes' if you can respond." So I need to figure out how to respond. First, they want a simple "Yes" if I'm able to

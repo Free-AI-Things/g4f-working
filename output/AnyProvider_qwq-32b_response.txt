@@ -1,2 +1,4 @@
 <think>
-Okay, the user asked, "Hello, are you working? Reply with 'Yes' if you can respond." I need to respond with 'Yes' since they specifically asked for that. Let me check if there's any hidden meaning or
+Okay, the user just asked, "Hello, are you working? Reply with 'Yes' if you can respond." Let me break this down.
+
+First, they're checking if I'm operational. Maybe they've had issues before or want

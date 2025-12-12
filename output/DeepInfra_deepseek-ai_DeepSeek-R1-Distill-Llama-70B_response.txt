@@ -1,2 +1,2 @@
 <think>
-Okay, so I'm trying to figure out how to approach this problem. The user asked, "Hello, are you working? Reply with 'Yes' if you can respond." And then there's the response, "'Yes'". I
+Okay, so I need to figure out how to solve this problem: Determine whether the following function is increasing or decreasing on the interval \((-2, 2)\). The function is given by \( f(x) = 5x +
