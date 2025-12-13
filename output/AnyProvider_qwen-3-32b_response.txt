@@ -1,4 +1,2 @@
 <think>
-Okay, the user sent me a message asking, "Hello, are you working? Reply with 'Yes' if you can respond." I need to figure out the best way to reply.
-
-First, I should acknowledge their greeting and confirm that
+Okay, let me figure out how to respond to the user's message. They asked, "Hello, are you working? Reply with 'Yes' if you can respond." So the user is checking if I'm active and able to communicate

@@ -1,4 +1,2 @@
 <think>
-Okay, the user just sent "Hello, are you working?" and asked me to reply with 'Yes'. I should respond simply with 'Yes' as instructed.
-
-I need to make sure my reply is exactly 'Yes' without any extra
+Okay, so I'm trying to figure out how to solve this problem. The question is about whether I'm working and to reply with 'Yes' if I can respond. Well, I'm an AI, so I'm always ready to

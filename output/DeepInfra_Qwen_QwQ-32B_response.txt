@@ -1,2 +1,2 @@
 <think>
-Okay, the user asked, "Hello, are you working? Reply with 'Yes' if you can respond." I need to respond. Since I can respond, I should say "Yes". Let me check if there's anything else required
+Okay, let's see. The user said, "Hello, are you working? Reply with 'Yes' if you can respond." I need to respond appropriately. First, they're asking if I'm working. Well, I'm an

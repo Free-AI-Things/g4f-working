@@ -1,2 +1,4 @@
 <think>
-Okay, the user just said "Hello, are you working? Reply with 'Yes' if you can respond." and I responded with "Yes." Now they sent another message with just "Yes." Hmm, seems like they might be testing
+Okay, the user just asked me, "Hello, are you working? Reply with 'Yes' if you can respond." They're checking if I'm operational.
+
+I should respond simply to confirm I'm working. It's best to keep
