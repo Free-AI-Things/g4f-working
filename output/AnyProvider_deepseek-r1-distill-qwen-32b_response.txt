@@ -1,0 +1,2 @@
+<think>
+Okay, so I was trying to figure out how to solve this problem where I need to find the right triangle with integer sides a, b, and c, such that a^2 + b^2 = c^2, and the
