@@ -1,3 +1,4 @@
 <think>
-We are given a simple greeting and a request to confirm if we are working by replying 'Yes' if we can respond.
- The user's message: "Hello, are you working? Reply with 'Yes' if you can respond."
+Hmm, the user just asked if I'm working and wants me to reply with "Yes" if I can respond. 
+
+Okay, this seems like a simple check to see if I'm active. The user might be testing the connection

@@ -1,4 +1,2 @@
 <think>
-Okay, the user just asked me, "Hello, are you working? Reply with 'Yes' if you can respond." They're checking if I'm operational.
-
-I should respond simply to confirm I'm working. It's best to keep
+Okay, so I need to figure out how to solve this equation: x/5 = 3/7. Hmm, where do I start? I remember that when you have a fraction equal to another fraction, you can cross-multiply

@@ -1,2 +1,2 @@
 <think>
-Okay, let me figure out how to respond to the user's message. They asked, "Hello, are you working? Reply with 'Yes' if you can respond." So the user is checking if I'm active and able to communicate
+Okay, the user just asked if I'm working and wants me to reply with 'Yes' if I can respond. Let me think about how to approach this. First, I need to acknowledge their message. Since they specified 'Yes'
