@@ -1,2 +1,4 @@
 <think>
-Okay, so I need to figure out how to respond to the user's message. They said, "Hello, are you working? Reply with 'Yes' if you can respond." I just replied with 'Yes', so that's good
+Alright, the user greeted me with "Hello, are you working? Reply with 'Yes' if you can respond." So, I should respond positively to acknowledge I'm functioning.
+
+I need to keep it friendly and concise. Maybe say "
