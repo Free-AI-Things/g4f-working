@@ -1,2 +1,7 @@
 <think>
-Okay, so I'm trying to figure out how to reply to this message. It says, "Hello, are you working? Reply with 'Yes' if you can respond." Hmm, that's a bit confusing. Let me break it
+Okay, the user is checking if I'm working. They want a 'Yes' if I can respond.
+I should keep it simple and clear.
+Just reply with 'Yes' as they requested.
+</think>
+
+Yes

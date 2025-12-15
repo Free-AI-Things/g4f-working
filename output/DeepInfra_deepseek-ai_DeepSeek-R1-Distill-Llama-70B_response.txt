@@ -1,4 +1,5 @@
 <think>
-Alright, the user greeted me with "Hello, are you working?" and asked me to reply with 'Yes' if I can respond. So, I should first respond with a simple 'Yes' as they requested.
+Okay, the user asked if I'm working and to reply with 'Yes'. I responded, so that should cover their request.
+</think>
 
-But I should also
+Yes

@@ -1,4 +1,2 @@
 <think>
-Alright, the user greeted me with "Hello, are you working? Reply with 'Yes' if you can respond." So, I should respond positively to acknowledge I'm functioning.
-
-I need to keep it friendly and concise. Maybe say "
+Okay, so I need to figure out how to solve the system of equations given. The user didn't specify the equations, but since I'm just thinking aloud, I can just assume some example equations to work through my thought process. Let
