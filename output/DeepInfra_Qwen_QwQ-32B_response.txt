@@ -1,2 +1,4 @@
 <think>
-Okay, the user asked, "Hello, are you working? Reply with 'Yes' if you can respond." I need to make sure I properly respond and comply with the user's request. The user might just want to test if I
+Okay, the user sent a message asking if I'm working. They want me to reply with 'Yes' if I can respond. Let me process this step by step.
+
+First, I need to understand the intent behind the message. It

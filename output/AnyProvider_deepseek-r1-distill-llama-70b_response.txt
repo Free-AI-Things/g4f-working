@@ -1,2 +1,2 @@
 <think>
-Okay, so I need to figure out how to solve the system of equations given. The user didn't specify the equations, but since I'm just thinking aloud, I can just assume some example equations to work through my thought process. Let
+Okay, the user just asked if I'm working and to reply with 'Yes' if I can respond. That seems straightforward. I should make sure to follow their instruction and keep it simple. Replying with 'Yes' is the best
