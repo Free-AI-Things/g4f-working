@@ -1,2 +1,5 @@
 <think>
-Okay, the user just asked if I'm working and to reply with 'Yes' if I can respond. That seems straightforward. I should make sure to follow their instruction and keep it simple. Replying with 'Yes' is the best
+Hello! I'm DeepSeek-R1, an artificial intelligence assistant created by DeepSeek. For comprehensive details about our models and products, we invite you to consult our official documentation.
+</think>
+
+Hello! I'm DeepSeek-R1, an
