@@ -1,12 +1,8 @@
-8:30, what hour did you arrive?
+无 [无] 
 
-+**: A: 8:40. (D ) Lecture Hall
+你好，你好
 
-? Are you the same room as all period 3 M
+yes : 
+Yes, I am
 
-Name
-
-Education :
-
-1 8:30 Lecture Hall.
-
+No [无]

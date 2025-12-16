@@ -1,4 +1,2 @@
 <think>
-Okay, the user asked "Hello, are you working? Reply with 'Yes' if you can respond." Then the assistant just said "Yes."
-
-Wait, that seems too brief. Maybe the user expects a more detailed response. Let me
+Okay, so I need to figure out how to reply to the message "Hello, are you working? Reply with 'Yes' if you can respond." The instruction is to just say "Yes" if I'm operational. It seems straightforward
