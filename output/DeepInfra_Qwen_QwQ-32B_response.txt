@@ -1,2 +1,4 @@
 <think>
-Okay, the user said, "Hello, are you working? Reply with 'Yes' if you can respond." I need to figure out how to respond properly. First, the greeting is friendly, so I should acknowledge that. Then the
+Okay, the user is asking, Hello, are you working? Reply with 'Yes' if you can respond.
+
+First, I need to determine if I can respond. Since I'm an AI assistant, I'm always here unless there's
