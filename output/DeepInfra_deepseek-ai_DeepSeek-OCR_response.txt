@@ -1,8 +1,1 @@
-无 [无] 
-
-你好，你好
-
-yes : 
-Yes, I am
-
-No [无]
+控件 facinoid(): ^ Labula Initializer ($ 1 - Control) (1 项输入，出错提示 '' 输入数字，出错提示 ')' } f: 循环前进 循环后凹 回： 对代码的
