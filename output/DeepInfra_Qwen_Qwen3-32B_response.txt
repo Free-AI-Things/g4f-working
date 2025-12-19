@@ -1,4 +1,4 @@
 <think>
-Okay, the user said, "Hello, are you working? Reply with 'Yes' if you can respond." Let me break this down.
+Okay, the user is asking if I'm working and wants me to reply with 'Yes' if I can respond. Let me check.
 
-First, they're asking if I'm working, which probably means if I'm operational and can
+First, I need to confirm if the requirement is that I must reply exactly 'Yes' when I

@@ -1,2 +1,0 @@
-<think>
-Okay, the user just greeted me with "Hello, are you working?" and asked for a 'Yes' reply if I can respond. Hmm, seems like a simple connectivity check - maybe they're testing if the system is live or

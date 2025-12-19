@@ -1,4 +1,2 @@
 <think>
-Okay, the user is asking if I'm working. I need to reply with 'Yes' if I can respond. Let me check the guidelines.
-
-The user’s main request is to confirm my online status. The rules say the response must
+Okay, the user asked if I am working and wants me to reply with 'Yes' if I can respond. Let me think. First, I need to acknowledge their request. The user is probably testing if I'm active or having issues
