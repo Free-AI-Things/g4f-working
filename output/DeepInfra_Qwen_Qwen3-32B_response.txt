@@ -1,2 +1,4 @@
 <think>
-Okay, the user greeted me with "Hello, are you working? Reply with 'Yes' if you can respond." First, I need to confirm if they're asking if I'm operational. The user wants a simple 'Yes' response
+Okay, the user said, "Hello, are you working? Reply with 'Yes' if you can respond." Let me break this down.
+
+First, they're asking if I'm working, which probably means if I'm operational and can

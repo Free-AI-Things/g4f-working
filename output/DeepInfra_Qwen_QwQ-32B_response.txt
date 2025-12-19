@@ -1,2 +1,4 @@
 <think>
-Okay, the user said, "Hello, are you working? Reply with 'Yes' if you can respond." Hmm, let me break this down. They're checking if I'm functional and want a simple 'Yes' as a response
+Okay, the user is asking if I'm working. I need to reply with 'Yes' if I can respond. Let me check the guidelines.
+
+The user’s main request is to confirm my online status. The rules say the response must
