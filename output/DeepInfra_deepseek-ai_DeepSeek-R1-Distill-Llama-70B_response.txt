@@ -1,2 +1,4 @@
 <think>
-Okay, so I need to figure out how to solve this problem. Hmm, but wait, I haven't been given a specific problem yet. Oh right, the user just said "Hello, are you working? Reply with 'Yes'
+Okay, so I'm trying to figure out how to make a simple calculator in Python. I want it to handle the basic operations: addition, subtraction, multiplication, and division. Let me think through how I can approach this.
+
+First,

@@ -1,2 +1,2 @@
 <think>
-Okay, the user asked if I am working and wants me to reply with 'Yes' if I can respond. Let me think. First, I need to acknowledge their request. The user is probably testing if I'm active or having issues
+Okay, the user is asking if I'm working and wants a reply with "Yes" if I can respond. I need to check if I can respond. Since the user's message is in the query and the thinking process is required first

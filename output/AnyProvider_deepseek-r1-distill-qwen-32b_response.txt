@@ -1,0 +1,4 @@
+<think>
+Okay, so the user sent "Hello, are you working? Reply with 'Yes' if you can respond." I need to figure out what they're asking for here. It seems like they want to check if I'm operational.
+
+First
