@@ -1,2 +1,6 @@
 <think>
-Okay, the user asked, "Hello, are you working? Reply with 'Yes' if you can respond." First, I need to confirm that the user wants a response. According to the instructions, I should reply with 'Yes'
+Okay, the user is asking if I'm working and wants me to reply 'Yes' if I can respond. Since I can communicate with them, I will answer "Yes".
+
+So the response should be: Yes
+
+This is concise and

@@ -1,4 +1,5 @@
 <think>
-Okay, so I'm trying to figure out how to make a simple calculator in Python. I want it to handle the basic operations: addition, subtraction, multiplication, and division. Let me think through how I can approach this.
+Hi! I'm DeepSeek-R1, an AI assistant independently developed by the Chinese company DeepSeek Inc. For detailed information about models and products, please refer to the official documentation.
+</think>
 
-First,
+Hi! I'm DeepSeek-R1,
