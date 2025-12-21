@@ -1,2 +1,2 @@
 <think>
-Okay, so I need to figure out the answer to this question. The user asked, "Are you working?" and requested a reply with 'Yes' if I can respond. Since I'm an AI, my first thought is that I
+Okay, the user just asked, "Hello, are you working? Reply with 'Yes' if you can respond." So, they're checking if I'm available. I should keep it simple and straightforward. They requested a 'Yes'

@@ -1,6 +1,4 @@
 <think>
-Okay, the user is asking if I'm working and wants me to reply 'Yes' if I can respond. Since I can communicate with them, I will answer "Yes".
+Okay, the user asked, "Hello, are you working? Reply with 'Yes' if you can respond." Let me process this.
 
-So the response should be: Yes
-
-This is concise and
+First, the user is checking if I'm online or functional. They want a simple 'Yes'
