@@ -1,4 +1,4 @@
 <think>
-Okay, the user asked, "Hello, are you working? Reply with 'Yes' if you can respond." Let me process this.
+Okay, the user is asking if I'm working. They want a reply of 'Yes' if I can respond. Let me check the instructions. The user might be testing if I'm online or just starting a conversation.
 
-First, the user is checking if I'm online or functional. They want a simple 'Yes'
+I need to

@@ -1,2 +1,2 @@
 <think>
-Okay, the user just asked, "Hello, are you working? Reply with 'Yes' if you can respond." So, they're checking if I'm available. I should keep it simple and straightforward. They requested a 'Yes'
+Okay, so I need to figure out how to solve the equation \( x^2 - 5x + 6 = 0 \). Hmm, I remember from algebra that quadratic equations can often be solved by factoring, completing the

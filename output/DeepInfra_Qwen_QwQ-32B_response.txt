@@ -1,2 +1,2 @@
 <think>
-Okay, the user just asked, "Hello, are you working? Reply with 'Yes' if you can respond." I need to check if they want me to confirm that I'm functional. They specified to reply with 'Yes' if
+Okay, the user asked Hello and if I can reply with 'Yes'. So I should just say Yes. Then the user sent another message with the same content again. I need to keep it simple and just answer Yes again. No need
