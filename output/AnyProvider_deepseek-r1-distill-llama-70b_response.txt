@@ -1,2 +1,4 @@
 <think>
-Okay, so I'm trying to figure out how to answer this question. The user asked me, "Hello, are you working? Reply with 'Yes' if you can respond." Hmm, that's interesting. I guess I need to
+Okay, so I need to figure out how to solve this problem. Let me start by reading it carefully.
+
+The problem is asking me to determine the coordinates of point P such that P lies on both lines L1 and L2. From

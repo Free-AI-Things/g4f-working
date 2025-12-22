@@ -1,2 +1,2 @@
 <think>
-Okay, so I'm trying to figure out how to use the Uber Eats app to deliver food. I don't have much experience with delivery services, but I think it's something I could handle. Let me start by thinking about what
+Okay, the user just asked, "Hello, are you working? Reply with 'Yes' if you can respond." I need to make sure I understand what they're asking for. They want a simple confirmation. So I should respond with
