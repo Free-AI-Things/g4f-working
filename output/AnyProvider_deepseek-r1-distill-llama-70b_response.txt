@@ -1,4 +1,0 @@
-<think>
-Okay, so I need to figure out how to solve this problem. Let me start by reading it carefully.
-
-The problem is asking me to determine the coordinates of point P such that P lies on both lines L1 and L2. From

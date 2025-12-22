@@ -1,4 +1,1 @@
-<think>
-Okay, the user sent a message asking "Hello, are you working? Reply with 'Yes' if you can respond." Let me break down how to handle this.
-
-First, I need to check if the user is testing my availability.
+Yes.

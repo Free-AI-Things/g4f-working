@@ -1,2 +1,4 @@
 <think>
-Okay, the user greeted me and asked if I'm working. They want a 'Yes' reply. I need to confirm my responsiveness. First, acknowledge their greeting, then reply with 'Yes' as requested. Keep it simple and friendly
+Okay, the user is asking, "Hello, are you working? Reply with 'Yes' if you can respond." Let me break this down.
+
+First, the user is checking if I'm functioning properly. They want a confirmation. The
