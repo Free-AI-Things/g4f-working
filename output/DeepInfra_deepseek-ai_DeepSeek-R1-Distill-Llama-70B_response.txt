@@ -1,0 +1,2 @@
+<think>
+Okay, so I'm trying to figure out how to make a simple to-do list in Python. I remember from my classes that we covered some basic programming concepts, but I'm a bit rusty on the details. Let's see, I

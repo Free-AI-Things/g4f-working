@@ -1,2 +1,4 @@
 <think>
-Okay, the user is asking if I'm working and wants me to reply with 'Yes' if I can respond. Let me see. I need to make sure I follow their instructions correctly. They want a direct response, so I should
+Okay, the user sent a message asking, Hello, are you working? Reply with 'Yes' if you can respond. Let me parse this.
+
+First, the greeting is "Hello," which is standard. Then they're checking if I

@@ -1,0 +1,2 @@
+<think>
+Okay, the user called me "Hello, are you working? Reply with 'Yes' if you can respond." So, they want me to respond with just 'Yes'. I should keep it simple and direct. No need for extra info

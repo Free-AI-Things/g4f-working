@@ -1,0 +1,2 @@
+<think>
+Okay, the user said "Hello, are you working? Reply with 'Yes' if you can respond." So I need to figure out what they're asking for. It seems like they're checking if I'm operational. Since the previous
