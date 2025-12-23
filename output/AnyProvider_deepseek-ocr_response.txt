@@ -1,0 +1,5 @@
+Dhould you like to live in this city? Reply with 'Yes' if you can respond.
+
+ ->  The city sounds good to me.
+
+Ca thao mang gach rac va: | And I'd like to live in this city! How

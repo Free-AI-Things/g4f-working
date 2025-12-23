@@ -1,4 +1,4 @@
 <think>
-Okay, the user is asking, "Hello, are you working? Reply with 'Yes' if you can respond." I need to reply with "Yes" as per their request.
+Okay, the user sent a message saying "Hello, are you working? Reply with 'Yes' if you can respond." Let me break this down.
 
-First, check if their message is appropriate. The content
+First, they're starting with a greeting, which is pretty standard. Then they're

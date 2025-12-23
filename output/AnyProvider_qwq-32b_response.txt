@@ -1,0 +1,4 @@
+<think>
+Okay, the user sent a message asking if I'm working and wants me to reply with 'Yes' if I can respond. I need to make sure I follow their instruction correctly.
+
+First, I should acknowledge their message, but they specifically
