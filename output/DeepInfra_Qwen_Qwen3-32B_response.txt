@@ -1,4 +1,4 @@
 <think>
-Okay, the user greeted me with 'Hello, are you working? Reply with 'Yes' if you can respond.' Let me process this step by step.
+Okay, the user is asking if I'm working. I need to reply with 'Yes' if I can respond. Let me make sure they're just checking my availability.
 
-First, the user is checking if the AI is active and able to respond.
+I should keep it simple and confirm that I can respond. No

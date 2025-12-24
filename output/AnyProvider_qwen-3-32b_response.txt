@@ -1,2 +1,1 @@
-<think>
-Okay, the user wants me to acknowledge their message and confirm if I'm active. Let me start by checking if their request is valid. They asked to reply with 'Yes' if I can respond. Since I am functional and ready to
+Yes

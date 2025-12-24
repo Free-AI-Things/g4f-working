@@ -1,2 +1,2 @@
 <think>
-Okay, so I need to figure out how to solve 2x2 systems of linear equations. Hmm, I remember that a system of equations means you have two or more equations with the same variables, and you need to find values for
+Okay, so I need to figure out how to solve the equation \( x^2 + 4 = 0 \). Hmm, let me start by recalling what happens when you have an equation like this. I remember that solving quadratic equations

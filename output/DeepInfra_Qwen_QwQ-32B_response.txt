@@ -1,2 +1,2 @@
 <think>
-Okay, the user is asking, "Hello, are you working? Reply with 'Yes' if you can respond." I need to confirm if I'm functioning properly. Since they want a reply of "Yes", I should start with that
+Okay, the user sent, "Hello, are you working? Reply with 'Yes' if you can respond." First, I need to understand what they're asking. They're probably checking if I'm connected or operational. Since my role
