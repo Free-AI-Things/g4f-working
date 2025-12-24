@@ -1,2 +1,2 @@
 <think>
-Okay, the user called me "Hello, are you working? Reply with 'Yes' if you can respond." So, they want me to respond with just 'Yes'. I should keep it simple and direct. No need for extra info
+Okay, so I need to figure out how to solve this problem: "If a two-digit number is divided by the sum of its digits, the result is 9. What is the two-digit number?" Hmm, let's break this
