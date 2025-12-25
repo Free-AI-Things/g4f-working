@@ -1,2 +1,5 @@
 <think>
-Okay, so I need to figure out the answer to the question "Hello, are you working? Reply with 'Yes' if you can respond." Hmm, let's break this down step by step. First, the greeting is "Hello
+Alright, the user is asking if I'm working and wants a 'Yes' if I can respond. I should keep it simple and just say 'Yes.' to confirm.
+</think>
+
+Yes.

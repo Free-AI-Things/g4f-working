@@ -1,2 +1,0 @@
-This model is only available for pay-as-you-go users.
-Please enable pay-as-you-go and add balance in your dashboard: https://panel.api.airforce/dashboard

@@ -1,2 +1,2 @@
 <think>
-Alright, the user greeted me with "Hello" and asked if I'm working, asking to reply with 'Yes' if I can respond. First, I need to determine the user's main intention. They might be testing if I'm
+Okay, the user is asking if I'm working and wants me to reply with 'Yes' if I can respond. Let me parse that. They probably want confirmation that I'm active and able to communicate. Since I'm an AI,

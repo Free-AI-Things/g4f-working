@@ -1,4 +1,4 @@
 <think>
-Hmm, the user just asked if I'm working and wants a simple 'Yes' reply if I can respond. Okay, this seems like a basic functionality check - maybe they've had bad experiences with unresponsive assistants before? 
+Hmm, the user is asking if I'm working and wants me to reply with 'Yes' if I can respond. 
 
-The
+Okay, this seems like a simple check to see if I'm operational. The user might be testing the system
