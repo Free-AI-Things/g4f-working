@@ -1,2 +1,0 @@
-<think>
-Okay, let me see. The user said, "Hello, are you working? Reply with 'Yes' if you can respond." So, they want me to confirm if I'm functioning by replying with 'Yes'. But I need

@@ -1,2 +1,2 @@
 <think>
-Okay, so I need to figure out how to solve the equation \( x^2 + 4 = 0 \). Hmm, let me start by recalling what happens when you have an equation like this. I remember that solving quadratic equations
+Okay, so I'm trying to figure out how to solve this problem where I need to move files based on their type into specific folders. Hmm, let me see. I have a bunch of files in a directory, and I want to
