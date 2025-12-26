@@ -1,2 +1,7 @@
 <think>
-Okay, so I'm trying to figure out how to solve this problem. I'm not exactly sure what the problem is about because the user only sent a greeting and a specific instruction. They said, "Hello, are you working? Reply
+Alright, the user is asking if I'm working and wants a 'Yes' response. I should keep it simple and direct.
+
+I'll just respond with 'Yes' as they requested. No need for extra words here.
+</think>
+
+Yes

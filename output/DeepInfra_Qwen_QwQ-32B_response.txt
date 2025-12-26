@@ -1,2 +1,2 @@
 <think>
-Okay, the user asked, Hello, are you working? Reply with 'Yes' if you can respond. I need to make sure I answer correctly. The main point here is to confirm whether I can provide a response. Since I am
+Okay, the user said, Hello, are you working? Reply with 'Yes' if you can respond. They want to know if I'm functioning properly right now. Let me check my systems... All systems are operational. I can definitely
