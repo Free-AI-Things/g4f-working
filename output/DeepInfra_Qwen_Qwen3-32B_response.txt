@@ -1,2 +1,2 @@
 <think>
-Okay, the user sent "Hello, are you working? Reply with 'Yes' if you can respond." First, I need to confirm if there's an issue and if I can reply. The user might be testing my response capability or
+Okay, the user asked, "Hello, are you working? Reply with 'Yes' if you can respond." Let me start by understanding their intent. They probably want to check if the AI is active and can process their input. It

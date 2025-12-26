@@ -1,7 +1,2 @@
 <think>
-Alright, the user is asking if I'm working and wants a 'Yes' response. I should keep it simple and direct.
-
-I'll just respond with 'Yes' as they requested. No need for extra words here.
-</think>
-
-Yes
+Okay, the user started with a hello and asked if I'm working, requesting a 'Yes' if I can respond. I need to acknowledge that and confirm my operational status. I should keep it simple and friendly, maybe add a bit

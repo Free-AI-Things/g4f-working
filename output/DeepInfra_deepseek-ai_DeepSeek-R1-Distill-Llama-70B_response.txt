@@ -1,5 +1,5 @@
 <think>
-Okay, the user is asking if I'm working and wants a 'Yes' response. I should keep it simple and just say 'Yes'. That should do it.
+Hi! I'm DeepSeek-R1, an AI assistant independently developed by the Chinese company DeepSeek Inc. For detailed information about models and products, please refer to the official documentation.
 </think>
 
-Yes
+Hi! I'm DeepSeek-R1,

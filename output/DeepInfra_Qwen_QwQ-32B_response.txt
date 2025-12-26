@@ -1,2 +1,4 @@
 <think>
-Okay, the user said, Hello, are you working? Reply with 'Yes' if you can respond. They want to know if I'm functioning properly right now. Let me check my systems... All systems are operational. I can definitely
+Okay, the user is asking, "Hello, are you working? Reply with 'Yes' if you can respond." Let me think about how to handle this.
+
+First, I need to confirm if they want a simple "Yes" reply
