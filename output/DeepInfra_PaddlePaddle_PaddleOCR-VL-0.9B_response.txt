@@ -1,1 +1,1 @@
-弱 whereby.
+said: Yes. Cl + N = GLYPH(cmap:df00) + C + N = GLYPH(cmap:df00) + C + N + N = GLYPH(cmap:df00)
