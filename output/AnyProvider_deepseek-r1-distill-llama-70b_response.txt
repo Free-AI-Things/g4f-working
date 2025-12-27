@@ -1,2 +1,2 @@
 <think>
-Okay, the user started with a hello and asked if I'm working, requesting a 'Yes' if I can respond. I need to acknowledge that and confirm my operational status. I should keep it simple and friendly, maybe add a bit
+Okay, so I need to figure out how to solve this problem. The user mentioned a calculator that's not responding and provided a JavaScript function called `compute` that's part of a larger system. The function takes an expression as a string

@@ -1,4 +1,2 @@
 <think>
-Okay, the user is asking, "Hello, are you working? Reply with 'Yes' if you can respond." Let me think about how to handle this.
-
-First, I need to confirm if they want a simple "Yes" reply
+Okay, the user sent a greeting and wants to know if I'm online. I should respond according to their request. First, I need to determine if they want a simple confirmation. Based on the query, they want a clear 'Yes

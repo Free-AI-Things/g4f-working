@@ -1,2 +1,4 @@
 <think>
-Okay, the user asked, "Hello, are you working? Reply with 'Yes' if you can respond." Let me start by understanding their intent. They probably want to check if the AI is active and can process their input. It
+Okay, the user asked, "Hello, are you working? Reply with 'Yes' if you can respond." Let me break this down.
+
+First, the user is checking if I'm operational. They want a confirmation, specifically a "
