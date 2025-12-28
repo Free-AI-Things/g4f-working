@@ -1,2 +1,2 @@
 <think>
-Okay, the user is asking if I'm working and wants a reply of 'Yes' if I can respond. Let me see. They might be testing if the AI is active or if there's a response expected. The instruction is to
+Okay, the user sent a message saying, "Hello, are you working? Reply with 'Yes' if you can respond." First, I need to understand their intent. They are likely testing if the assistant is active and can respond.

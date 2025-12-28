@@ -1,2 +1,2 @@
 <think>
-Okay, so I need to figure out how to solve this math problem: 7 times 9. Hmm, let me think. I know that multiplication is basically repeated addition, so 7 times 9 means adding 7 to itself
+Okay, the user just said hello and asked if I'm working, and they want a 'Yes' if I can respond. I should definitely say 'Yes' first to confirm. I need to keep it friendly and open for further questions

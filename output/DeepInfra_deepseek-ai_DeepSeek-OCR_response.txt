@@ -1,14 +1,8 @@
-1. Yes
+你是...
+: 你好，你能回答我的... \
+: 是的\
+: 的话
 
-: (It's out)
+_tip:_ If you want to reply to everybody pretty quickly, you should say 'No, I ...
 
-: 2.
-
-: 3. Yes
-
-: 4. Is it an epidemic? (Table 1)
-
-: 5.
-
-: 6a 6b (Table 2)
-
+_tip:_ For other questions, like doggy

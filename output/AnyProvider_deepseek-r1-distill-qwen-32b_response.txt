@@ -1,2 +1,2 @@
 <think>
-Okay, the user just asked, "Hello, are you working? Reply with 'Yes' if you can respond." I responded with "Yes." Now their latest message is just "Thank you." I should probably acknowledge their gratitude. Maybe
+Okay, so I just received a message from an unknown number. The message reads: "Hello, are you working? Reply with 'Yes' if you can respond." Hmm, that's a bit strange. Let me try to figure out
