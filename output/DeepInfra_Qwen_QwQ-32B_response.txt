@@ -1,2 +1,4 @@
 <think>
-Okay, the user sent a message saying, "Hello, are you working? Reply with 'Yes' if you can respond." First, I need to understand their intent. They are likely testing if the assistant is active and can respond.
+Okay, the user asked, "Hello, are you working? Reply with 'Yes' if you can respond." I need to make sure I respond correctly.
+
+First, the user is checking if the model is functioning properly. They want a
