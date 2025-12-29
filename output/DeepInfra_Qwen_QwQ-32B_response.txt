@@ -1,4 +1,2 @@
 <think>
-Okay, the user asked, "Hello, are you working? Reply with 'Yes' if you can respond." I need to make sure I respond correctly.
-
-First, the user is checking if the model is functioning properly. They want a
+Okay, the user is asking, "Hello, are you working? Reply with 'Yes' if you can respond." First, I need to confirm that I'm currently able to respond. Since I'm an AI model, I'm always

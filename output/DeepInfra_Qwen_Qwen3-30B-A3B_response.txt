@@ -1,4 +1,4 @@
 <think>
-Okay, the user is asking if I'm working and wants me to reply with 'Yes' if I can respond. Let me make sure I understand correctly. They want a simple confirmation.
+Okay, the user is asking if I'm working and wants me to reply with 'Yes' if I can respond. Let me check the current status.
 
-First, I need to check if I'm able
+First, I need to confirm if my system is operational. Since I'm an AI

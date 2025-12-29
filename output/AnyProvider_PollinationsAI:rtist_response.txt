@@ -1,4 +1,9 @@
-# Rtist [ small 	extcolor{#00FF00}{	extsf{	extbf{FREE}}} ]
+# Rtist [ small 	
+extcolor{#00FF00}{
+	extsf{
+		extbf{FREE}
+	}
+]
 ## Features 🔓
 
 * Perfect image generation
@@ -7,4 +12,4 @@
 
 * Image Captioning
 
-* Character
+*

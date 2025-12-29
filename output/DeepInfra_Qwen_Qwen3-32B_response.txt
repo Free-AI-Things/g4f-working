@@ -1,4 +1,2 @@
 <think>
-Okay, the user asked, "Hello, are you working? Reply with 'Yes' if you can respond." I need to figure out the best way to respond. Let me break this down.
-
-First, the user is greeting me and
+Okay, so the user just said, "Hello, are you working? Reply with 'Yes' if you can respond." I need to figure out the best way to respond here. First, I should acknowledge their greeting. They're probably
