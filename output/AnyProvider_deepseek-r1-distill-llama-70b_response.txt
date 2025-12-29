@@ -1,4 +1,0 @@
-<think>
-Alright, the user greeted me with "Hello, are you working?" and asked to reply with 'Yes' if I can respond. They also mentioned to keep it in the same format as the previous message.
-
-Hmm, so in the last

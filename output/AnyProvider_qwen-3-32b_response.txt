@@ -1,8 +1,0 @@
-<think>
-Okay, the user greeted me.
-
-They asked if I'm working and want me to reply 'Yes' if I can respond. 
-
-I need to ensure I'm available and can communicate properly.
-
-A straightforward 'Yes' confirms my active status
