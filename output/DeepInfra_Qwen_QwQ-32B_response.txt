@@ -1,4 +1,2 @@
 <think>
-Okay, the user just asked, "Hello, are you working? Reply with 'Yes' if you can respond." I need to figure out how to respond appropriately. Let me break it down.
-
-First, the user is likely trying to
+Okay, the user is asking if I'm working and wants a 'Yes' reply if I can respond. I should follow the instructions from the previous example where I was supposed to be concise and respond in 'Yes' only. The user

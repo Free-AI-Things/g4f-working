@@ -1,4 +1,0 @@
-<think>
-We are given a user message: "Hello, are you working? Reply with 'Yes' if you can respond."
- The user asks for a reply of 'Yes' if we are working and can respond.
- Since we are indeed working and
