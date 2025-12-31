@@ -1,0 +1,4 @@
+<think>
+Okay, the user asked, "Hello, are you working? Reply with 'Yes' if you can respond." Let me parse that.
+
+They probably want to check if I'm online or if I can communicate. They specified to reply with
