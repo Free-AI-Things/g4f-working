@@ -1,2 +1,4 @@
 <think>
-Okay, the user is asking if I'm working and wants a 'Yes' reply if I can respond. I should follow the instructions from the previous example where I was supposed to be concise and respond in 'Yes' only. The user
+Okay, the user said, "Hello, are you working? Reply with 'Yes' if you can respond." Let me process this.
+
+First, the user is checking if I'm active and able to reply. They might have used me

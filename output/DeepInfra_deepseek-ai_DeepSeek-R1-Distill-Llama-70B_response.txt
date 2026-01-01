@@ -1,7 +1,2 @@
 <think>
-Okay, so I need to figure out how to solve the system of equations:
-
-1. \( x + y = 5 \)
-2. \( 2x + y = 9 \)
-
-Hmm, let me think. I remember
+Okay, the user sent "Hello, are you working? Reply with 'Yes' if you can respond." I need to respond according to their instructions. They mentioned to reply with 'Yes' if I'm able to respond. So I
