@@ -1,2 +1,2 @@
 <think>
-Okay, the user is asking if I'm working and wants a 'Yes' reply if I can respond. I need to check if I'm functional. Since I can process this query and generate a response, I should reply with 'Yes
+Okay, the user is asking if I'm working and wants a reply of 'Yes' if I can respond. Let me start by confirming that I can respond, so the immediate answer is "Yes". But maybe they want more context?
