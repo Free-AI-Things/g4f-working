@@ -1,0 +1,5 @@
+<think>
+Okay, I need to respond to the user's greeting and confirm I'm working. I'll keep it simple and friendly.
+</think>
+
+Hello! Yes, I'm here and ready to help.

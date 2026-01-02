@@ -1,2 +1,2 @@
 <think>
-Okay, the user greeted me and asked if I'm working, asking to reply with 'Yes' if I can respond. I should respond as requested. The user might want to confirm if I'm working properly, so I'll reply with
+Okay, the user just asked, "Hello, are you working? Reply with 'Yes' if you can respond." Let me think about how to handle this. First, the user is checking if I'm online and able to respond.

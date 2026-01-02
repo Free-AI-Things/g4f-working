@@ -1,2 +1,2 @@
 <think>
-Okay, the user is asking if I'm working and wants a reply of 'Yes' if I can respond. Let me start by confirming that I can respond, so the immediate answer is "Yes". But maybe they want more context?
+Okay, the user asked, "Hello, are you working? Reply with 'Yes' if you can respond." I need to make sure I follow their instruction correctly. They want a confirmation that I'm operational, so the appropriate response is

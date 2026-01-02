@@ -1,0 +1,4 @@
+<think>
+Okay, the user send a request. I need to first understand its intent. The user may be testing whether I can respond.
+
+Now look at the history record,You only asked one question this time with no new information. My task is

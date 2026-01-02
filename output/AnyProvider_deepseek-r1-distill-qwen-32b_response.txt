@@ -1,0 +1,2 @@
+<think>
+Okay, so I need to figure out how to use this programming language called Ascot. I've heard it's a multiparadigm language, which probably means it supports different programming styles like object-oriented, functional, etc. But I

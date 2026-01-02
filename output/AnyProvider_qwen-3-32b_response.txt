@@ -1,1 +1,4 @@
-Yes
+<think>
+Okay, let's see. The user started with "Hello, are you working? Reply with 'Yes' if you can respond." Hmm, they want a straightforward confirmation.
+
+First, I need to check if I can respond. Since I
