@@ -1,2 +1,0 @@
-<think>
-Okay, the user just asked "Hello, are you working? Reply with 'Yes' if you can respond." I see they want a simple confirmation. They included an example where the assistant should reply with "Yes" when functional. So

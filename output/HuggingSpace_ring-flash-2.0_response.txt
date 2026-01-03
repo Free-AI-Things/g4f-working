@@ -1,3 +1,6 @@
 **💍️ Ring-flash-2.0**
 
 Yes
+
+```
+The user asked &quot;Hello, are you working? Reply with &#x27;Yes&#x27; if you can respond.&quot; As Bailing, an AI assistant developed by Ant Group, I am operational and capable of responding. Following the user&#x27;s explicit instruction to reply
