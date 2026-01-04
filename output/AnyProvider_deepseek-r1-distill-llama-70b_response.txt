@@ -1,0 +1,2 @@
+<think>
+Okay, so I need to figure out how to solve this problem where I have to find the number of integers between 100 and 500 that are divisible by either 5 or 7, but not both. Hmm, that sounds like
