@@ -1,0 +1,4 @@
+<think>
+Okay, the user is asking, "Hello, are you working? Reply with 'Yes' if you can respond." Let me break this down. They want a confirmation that I'm functioning properly.
+
+First, I need to acknowledge their greeting

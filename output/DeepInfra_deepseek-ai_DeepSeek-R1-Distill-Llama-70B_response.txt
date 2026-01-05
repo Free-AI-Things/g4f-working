@@ -1,0 +1,2 @@
+<think>
+Okay, so I'm trying to figure out how to approach this problem. The user wrote a simple Python program that takes a number as input, checks if it's even or odd using a ternary operator, and then prints the result.

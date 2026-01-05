@@ -1,0 +1,11 @@
+0I can FedDCity0FCCC1I can speak French.
+
+Reply with 'Yes' or 'No'.
+
+: 1. Are you Italian?
+
+2. Are you French?
+
+3. Are you Hispanic?
+
+4. Do you speak Arabic
