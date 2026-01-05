@@ -1,6 +1,0 @@
-213 I 'Yes No ': 'Do you have a printer in your classroom? 'yes' is response. ': 'Yes' is for a printer, reply. :
-
-: 213 I
-
-: '55' No: '5890e
-

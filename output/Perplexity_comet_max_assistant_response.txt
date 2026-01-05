@@ -1,4 +1,1 @@
-Yes.
-
-## Status
-The assistant is fully operational and ready to respond to queries using available tools for accurate, cited information.
+Yes

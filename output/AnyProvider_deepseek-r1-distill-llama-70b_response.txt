@@ -1,8 +1,0 @@
-<think>
-Okay, the user greeted me and asked if I'm working, and instructed me to reply with 'Yes' if I can respond.
-
-I should comply with their request.
-
-I'll simply respond with 'Yes' as they specified.
-</think>
-
