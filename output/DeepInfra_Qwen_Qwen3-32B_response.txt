@@ -1,2 +1,0 @@
-<think>
-Okay, the user is asking, "Hello, are you working? Reply with 'Yes' if you can respond." So I need to confirm that I can reply. Since the user wants a 'Yes' response, I should keep it
