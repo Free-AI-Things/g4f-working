@@ -1,0 +1,2 @@
+<think>
+Okay, let's see. The user just sent a message asking, "Hello, are you working? Reply with 'Yes' if you can respond." So first, I need to make sure I understand the request correctly. They want to
