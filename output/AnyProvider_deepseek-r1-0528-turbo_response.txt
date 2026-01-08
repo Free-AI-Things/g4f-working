@@ -1,4 +1,0 @@
-<think>
-Okay, the user just greeted and asked if I'm working, requesting a simple 'Yes' reply if available. 
-
-Hmm, this seems like a connectivity test or a quick availability check. The phrasing feels polite but slightly formal - maybe
