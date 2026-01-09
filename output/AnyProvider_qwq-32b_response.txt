@@ -1,1 +1,5 @@
+<think>
+Okay, the user greeted me and asked if I'm working. I should acknowledge their greeting first and confirm my availability. The simplest and most direct way is to respond 'Yes'.
+</think>
+
 Yes

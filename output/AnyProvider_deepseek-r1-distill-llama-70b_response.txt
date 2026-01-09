@@ -1,0 +1,5 @@
+<think>
+Hello! I'm DeepSeek-R1, an artificial intelligence assistant created by DeepSeek. For comprehensive details about our models and products, we invite you to consult our official documentation.
+</think>
+
+Hello! I'm DeepSeek-R1, an
