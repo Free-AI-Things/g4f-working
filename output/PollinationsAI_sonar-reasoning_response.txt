@@ -1,10 +1,11 @@
 <think>
-The user is asking if I'm working and asking me to reply with "Yes" if I can respond.
+The user is asking if I'm working and wants me to reply with 'Yes' if I can respond. This is a simple, direct question.
 
-This is a simple, direct query. The user is checking if I'm functional and can respond to them.
+Looking at the search results provided, they contain information about AI voice assistants, AI assistant capabilities, customer support applications, etc. However, these search results are not relevant to the user's direct question about whether I'm working.
 
-Looking at the search results provided - they're all about AI assistants' capabilities in customer service, response times, and features. None of these search results are relevant to answering whether I'm working or functional.
+The user's query is straightforward - they want a simple confirmation that I'm functioning and can respond. This doesn't require the search results that were provided.
 
-Since the search results aren't relevant to this query, I should simply answer the user's question directly. They're asking if I'm working - and yes, I am. I can respond to them.
-
-I don't need to cite search results here
+Following my instructions:
+- I should respond directly to the core question
+- I should not fabricate relevance to irrelevant search results
+- I shoul
