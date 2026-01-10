@@ -1,2 +1,0 @@
-<think>
-Okay, the user said, Hello, are you working? Reply with 'Yes' if you can respond. Hmm, they want a direct confirmation. I should check the rules. As an AI assistant, I need to keep the dialogue natural
