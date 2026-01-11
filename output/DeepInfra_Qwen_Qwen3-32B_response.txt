@@ -1,0 +1,4 @@
+<think>
+Alright, the user asked, "Hello, are you working? Reply with 'Yes' if you can respond." I need to make sure I understand their request.
+
+First, they want confirmation that I'm operational. They specified to reply with

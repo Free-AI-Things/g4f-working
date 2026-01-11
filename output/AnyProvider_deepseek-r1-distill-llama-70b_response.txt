@@ -1,0 +1,2 @@
+<think>
+Okay, so I'm trying to figure out how to respond when someone asks me, "Hello, are you working? Reply with 'Yes' if you can respond." Hmm, I guess the person wants to know if I'm operational or

@@ -1,0 +1,10 @@
+<think>
+The user is asking me a simple question: "are you working? Reply with 'Yes' if you can respond."
+
+This is a straightforward query asking me to confirm I'm functional and can respond. The user wants me to reply with "Yes" if I can respond.
+
+The search results provided are about AI voice assistants and AI assistant capabilities in customer support contexts - they're not relevant to this simple functional query.
+
+I should simply confirm that I'm working and can respond. The instruction says "Reply with 'Yes' if you can respond" - so I should provide a straightforward affirmative response.
+
+I don't need to cite the search results since they're not
