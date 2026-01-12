@@ -1,4 +1,0 @@
-<think>
-Okay, so the user is asking, Hello, are you working? Reply with 'Yes' if you can respond. Alright, let me break this down.
-
-First, the user is initiating a conversation by asking if I am working. The

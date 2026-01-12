@@ -1,2 +1,1 @@
-This model requires 5 requests per use and must be enabled in your dashboard first.
-Please go to https://panel.api.airforce/dashboard to enable it.
+Yes

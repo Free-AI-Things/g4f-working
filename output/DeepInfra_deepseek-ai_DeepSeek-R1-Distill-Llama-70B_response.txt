@@ -1,2 +1,0 @@
-<think>
-Alright, I just saw the user's greeting and the question they asked. They said, "Hello, are you working? Reply with 'Yes' if you can respond." Hmm, that's an interesting way to check if I'm operational

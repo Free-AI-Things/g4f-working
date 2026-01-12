@@ -1,2 +1,0 @@
-<think>
-Okay, the user just said "Hello, are you working? Reply with 'Yes' if you can respond." They're probably starting a conversation. I should make sure I respond in a friendly and helpful way. Since they asked to reply
