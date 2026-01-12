@@ -1,2 +1,4 @@
 <think>
-Okay, the user is asking if I'm working and wants me to reply with 'Yes' if I can respond. Let me think. First, the user says "Hello, are you working?" So they're checking if I'm online
+Okay, the user asked, Hello, are you working? They want me to reply with 'Yes' if I can respond.
+
+First, I need to confirm that I'm operational and ready to communicate. The user is likely testing if I
