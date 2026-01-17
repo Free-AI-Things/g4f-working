@@ -1,1 +1,3 @@
-Yes
+<audio controls></audio>
+
+Yes, I'm here and ready to respond! How can I assist you today?
