@@ -1,1 +1,2 @@
-Yes
+The model does not exist in https://api.airforce
+discord.gg/airforce
