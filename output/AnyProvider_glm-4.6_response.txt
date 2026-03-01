@@ -1,8 +1,0 @@
-<think>
-
-1.  **Analyze the user's request:** The user is asking a direct, simple question: "Hello, are you working?".
-2.  **Identify the core instruction:** The user has provided a very specific instruction
-</think>
-
-
-Need proxies cheaper than the 
