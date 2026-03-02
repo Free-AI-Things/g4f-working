@@ -1,7 +1,9 @@
 <think>
-Okay, the user asked a simple yes/no question: "Hello, are you working? Reply with 'Yes' if you can respond." They want confirmation that I'm operational and can reply. The instruction is clear—just respond with "Yes"
+Okay, the user just asked if I'm working and wants a simple 'Yes' as confirmation if I can respond. This is a straightforward query with a clear instruction.
+
+I can definitely respond, so the answer is 'Yes'. The user might
 </think>
 
 
 Need proxies cheaper than the market?
-ht
+h
