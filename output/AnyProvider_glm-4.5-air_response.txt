@@ -1,9 +1,0 @@
-<think>
-
-Okay, the user just asked if I'm working and wants a simple "Yes" confirmation if I can respond. 
-
-Hmm, this feels like a very basic functional check - probably testing if I'm active or available. Maybe they've
-</think>
-
-
-Need proxies cheaper than the 

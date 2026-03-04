@@ -1,5 +1,7 @@
 <think>
-Hmm, the user is asking if I'm operational and requests a specific confirmation. A simple greeting followed by a direct "Yes" satisfies both the query and the instruction. No need to elaborate since the prompt explicitly asks for a single-word
+Hmm, the user is asking if I'm functioning and wants a confirmation. The query is straightforward with clear instruction to reply 'Yes' if operational. 
+
+Okay, the reply requirements are simple: acknowledge operational status in specified format. No need
 </think>
 
 
