@@ -1,5 +1,7 @@
 <think>
-Okay, the user asked if I'm working and wants a 'Yes' if I can respond. This is a simple check to see if the system is active. The user likely wants confirmation that the service is functional before proceeding with
+Okay, the user is asking if I'm working and wants a 'Yes' reply if I can respond. This is a straightforward check to see if the system is active. 
+
+The user likely just wants confirmation that the assistant is operational.
 </think>
 
 
