@@ -1,9 +1,0 @@
-<think>
-
-1.  **Analyze the User's Request:**
-    *   The user asks a very simple, direct question: "Hello, are you working?"
-    *   Then, they give a very specific, constrained instruction: "
-</think>
-
-
-Need proxies cheaper than the 
