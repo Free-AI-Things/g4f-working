@@ -1,7 +1,9 @@
 <think>
-Okay, the user sent a simple greeting and asked if I'm working, requesting a 'Yes' as a reply if I can respond. This seems like a basic check to see if I'm operational. The user likely wants confirmation that I'm active
+First, the user said: "Hello, are you working? Reply with 'Yes' if you can respond."
+
+The instruction is clear: I need to reply with 'Yes' if I can respond. As an AI assistant
 </think>
 
 
 Need proxies cheaper than the market?
-h
+htt

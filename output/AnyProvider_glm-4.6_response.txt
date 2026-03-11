@@ -1,7 +1,5 @@
 <think>
-1.  **Analyze the User's Input:** The user greeted with "Hello, are you working?" and provided a specific instruction: "Reply with 'Yes' if you can respond."
-
-2.  **Determine the Intent:**
+The user is asking a simple question about my status: "Hello, are you working?" They want me to reply with just 'Yes' if I can respond. This is a basic functionality check, so I should confirm my availability as requested
 </think>
 
 
