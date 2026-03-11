@@ -1,0 +1,8 @@
+<think>
+1.  **Analyze the User's Input:** The user greeted with "Hello, are you working?" and provided a specific instruction: "Reply with 'Yes' if you can respond."
+
+2.  **Determine the Intent:**
+</think>
+
+
+Need proxies cheaper than the 

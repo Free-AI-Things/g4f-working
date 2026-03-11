@@ -1,0 +1,16 @@
+<think>
+
+The user is asking a simple question to verify if I am operational.
+They requested a specific reply format: "Reply with 'Yes' if you can respond."
+This is a direct instruction.
+The intent is benign; just a check for functionality.
+> Therefore, I should follow theThe user is asking a simple question to verify if I am operational.
+They requested a specific reply format: "Reply with 'Yes' if you can respond."
+This is a direct instruction.
+The intent is benign; just a check for functionality.
+Therefore, I should follow the instruction exactly.
+</think>
+Yes
+
+Need proxies cheaper than the market?
+h
