@@ -1,2 +1,0 @@
-This model (gpt-5.4) is whitelist-only. You are not authorized to use it.
-Join our Discord to request access

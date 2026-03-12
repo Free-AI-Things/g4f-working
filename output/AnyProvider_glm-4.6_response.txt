@@ -1,9 +1,0 @@
-<think>
-The user is asking a simple check: "Are you working?" and instructs me to reply with "Yes" if I can respond.
-
-1.  **Analyze the Request:**
-    *   Input: "Hello, are you
-</think>
-
-
-Need proxies cheaper than the 

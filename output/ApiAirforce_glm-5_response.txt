@@ -1,0 +1,51 @@
+<think>
+
+1.  **Analyze the User's Input:** The user is asking a simple question: "Hello, are you working?" and specifically requests a specific reply format: "Reply with 'Yes' if you can respond."
+
+2.  **Determine the Appropriate Response:**
+    *   Am I "working"? Yes, in the sense that I am functioning and processing input.
+>     *   Can I respond? Yes.
+    *   What is the constraint? The user asked to reply *only* with 'Yes' (implied by the direct instruction "Reply with 'Yes'").
+
+3.  **Evaluate Constraints vs. Politeness:**
+    *   Strict adherence: Just say "Yes".
+    *   Conversational adherence: Say "Yes, I am working."
+    *   The prompt specifically says: "Reply with 'Yes' if you can respond." This looks like a test or a check for availability.
+
+4.  **Formulate the Output:**
+    *   Option A: "Yes"
+>     *   Option B: "Yes, I am here."
+>     *   Option C: "Hello! Yes."
+
+>     The most accurate response to the instruction "Reply with 'Yes'" is just "Yes".
+
+> 5.  **Final Decision:** The user wants a confirmation of functionality. The most direct and compliant answer is the word requested.
+
+    *   Input: "Reply with 'Yes' if you can respond."
+>     *   Output: "1.  **Analyze the User's Input:** The user is asking a simple question: "Hello, are you working?" and specifically requests a specific reply format: "Reply with 'Yes' if you can respond."
+
+2.  **Determine the Appropriate Response:**
+    *   Am I "working"? Yes, in the sense that I am functioning and processing input.
+    *   Can I respond? Yes.
+    *   What is the constraint? The user asked to reply *only* with 'Yes' (implied by the direct instruction "Reply with 'Yes'").
+
+3.  **Evaluate Constraints vs. Politeness:**
+    *   Strict adherence: Just say "Yes".
+    *   Conversational adherence: Say "Yes, I am working."
+    *   The prompt specifically says: "Reply with 'Yes' if you can respond." This looks like a test or a check for availability.
+
+4.  **Formulate the Output:**
+    *   Option A: "Yes"
+    *   Option B: "Yes, I am here."
+    *   Option C: "Hello! Yes."
+
+    The most accurate response to the instruction "Reply with 'Yes'" is just "Yes".
+
+5.  **Final Decision:** The user wants a confirmation of functionality. The most direct and compliant answer is the word requested.
+
+    *   Input: "Reply with 'Yes' if you can respond."
+    *   Output: "Yes"
+</think>
+Yes
+
+Need proxies cheaper than 

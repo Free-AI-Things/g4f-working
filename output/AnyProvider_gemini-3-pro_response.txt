@@ -1,2 +1,7 @@
-This model (gemini-3-pro) is whitelist-only. You are not authorized to use it.
-Join our Discord to request access
+⚠️ **IMPORTANT NOTICE** ⚠️
+
+The Pollinations legacy text API is being deprecated for **authenticated users**.
+
+Please migrate to our new service at https://enter.pollinations.ai for better performance and access to all the latest models.
+
+Note: Anonymous requests to text.pollinations.ai are NOT affected and will continue to work normally.
