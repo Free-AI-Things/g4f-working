@@ -1,8 +1,0 @@
-<think>
-1.  **Analyze the user's input:** The user asked "Hello, are you working? Reply with 'Yes' if you can respond."
-
-2.  **Identify the constraint:** The user explicitly requested a specific response format
-</think>
-
-
-Need proxies cheaper than the 
