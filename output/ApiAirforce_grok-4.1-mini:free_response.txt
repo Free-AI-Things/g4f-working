@@ -1,2 +1,2 @@
 <think>
-Responding to query- You confirm I'm active
+Checking user query- You asked if I'm work

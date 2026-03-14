@@ -1,0 +1,7 @@
+⚠️ **IMPORTANT NOTICE** ⚠️
+
+The Pollinations legacy text API is being deprecated for **authenticated users**.
+
+Please migrate to our new service at https://enter.pollinations.ai for better performance and access to all the latest models.
+
+Note: Anonymous requests to text.pollinations.ai are NOT affected and will continue to work normally.
