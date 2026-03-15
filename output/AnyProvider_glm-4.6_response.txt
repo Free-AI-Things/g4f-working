@@ -1,0 +1,9 @@
+<think>
+The user is asking a simple availability check.
+The instruction is to reply with 'Yes' if I can respond.
+I am capable of responding.
+Therefore, the correct response is 'Yes'.
+</think>
+Yes
+
+Need proxies cheaper than the 
