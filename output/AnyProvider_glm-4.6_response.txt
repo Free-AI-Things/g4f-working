@@ -1,8 +1,7 @@
 <think>
-The user has just initiated a conversation and is asking if I can respond.
-
 1.  **Analyze the user's input:** "Hello, are you working? Reply with 'Yes' if you can respond."
-2.  **Ident
+
+2.  **Identify the intent:** The user wants a simple confirmation that I am operational and
 </think>
 
 
