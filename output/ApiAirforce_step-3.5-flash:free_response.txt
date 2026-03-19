@@ -1,9 +1,9 @@
 <think>
-Hmm, the user is asking a simple yes/no question to confirm if I'm operational. They specifically want a 'Yes' response if I can reply. 
+Okay, the user asked if I'm working and requested a 'Yes' reply if I can respond. This is a simple status check. The user wants a clear confirmation of my operational status.
 
-This is straightforward - I'm clearly functioning since I'm processing their message. The instruction
+I should keep it minimal since they specifically
 </think>
 
 
 Need proxies cheaper than the market?
-h
+ht
