@@ -1,7 +1,5 @@
 <think>
-Hmm, the user is asking if I'm working and wants a simple 'Yes' as confirmation. This seems like a test or a quick check to see if the system is active. 
-
-The user's instruction is very clear and minimal - just
+Okay, the user asked a straightforward yes/no question: "Hello, are you working? Reply with 'Yes' if you can respond." The intention is clear—they want a simple confirmation of operational status. No complex analysis needed here
 </think>
 
 

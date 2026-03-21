@@ -1,8 +1,0 @@
-<think>
-The user is asking a simple question to check if I'm operational. They want a specific response format: 'Yes' if I can respond.
-
-This is a straightforward request to confirm my availability. There's no complex query or sensitive content here
-</think>
-
-
-Need proxies cheaper than the 
