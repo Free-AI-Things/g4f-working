@@ -1,7 +1,0 @@
-<think>
-Okay, the user asked a straightforward yes/no question: "Hello, are you working? Reply with 'Yes' if you can respond." The intention is clear—they want a simple confirmation of operational status. No complex analysis needed here
-</think>
-
-
-Need proxies cheaper than the market?
-h
