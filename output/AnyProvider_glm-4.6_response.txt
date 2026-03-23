@@ -1,7 +1,9 @@
 <think>
-The user is asking a simple question to check if I'm available or responsive. They want me to reply with "Yes" if I can respond.
+1.  **Analyze the User's Request:**
+    *   The user asks, "Hello, are you working?"
+    *   The user provides a specific instruction: "Reply with 'Yes' if you can respond."
 
-This is a straightforward request, and I am indeed working and available to respond. I'll
+2
 </think>
 
 

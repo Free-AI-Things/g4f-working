@@ -1,0 +1,6 @@
+<think>
+The user asks: "Hello, are you working? Reply with 'Yes' if you can respond." We must reply with "Yes". No other content. Probably just "Yes". Ensure comply.
+</think>
+Yes
+
+Need proxies cheaper than the
