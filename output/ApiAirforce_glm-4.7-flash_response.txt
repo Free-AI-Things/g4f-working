@@ -1,8 +1,8 @@
 <think>
-The user is asking if I am working and wants a simple confirmation.
-1.  **Analyze the input:** "Hello, are you working? Reply with 'Yes' if you can respond."
-2.  **Identify the intent:** The
+1.  **Analyze the user's request:**
+    *   Check my "working status" (do I have access to tools/systems to process input and generate output?).
+    *   Rule: Reply with 'Yes' if I
 </think>
 
 
-Need proxies cheaper than the 
+Need proxies cheaper than the m

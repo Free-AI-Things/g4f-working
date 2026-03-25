@@ -1,6 +1,0 @@
-<think>
-We need to respond with 'Yes' only, as per instruction: "Reply with 'Yes' if you can respond." So answer with Yes.
-</think>
-Yes
-
-Need proxies cheaper than the mar
