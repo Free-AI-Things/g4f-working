@@ -1,8 +1,0 @@
-<think>
-1.  **Analyze the user's request:**
-    *   Check my "working status" (do I have access to tools/systems to process input and generate output?).
-    *   Rule: Reply with 'Yes' if I
-</think>
-
-
-Need proxies cheaper than the m

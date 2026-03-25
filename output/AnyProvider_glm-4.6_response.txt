@@ -1,9 +1,7 @@
 <think>
-The user is asking a simple, direct question to check my availability or functionality.
-The prompt also includes a specific instruction: "Reply with 'Yes' if you can respond."
+1.  **Analyze the user's request:** The user is asking, "Hello, are you working?" and gives a specific instruction: "Reply with 'Yes' if you can respond."
 
-1.  **Analyze the request:**
-    *  
+2.  **Determine my current
 </think>
 
 

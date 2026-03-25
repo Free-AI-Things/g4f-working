@@ -1,3 +1,0 @@
-Okay, the user is asking if I'm working and wants a simple 'Yes' response. Let me check the constraints.
-
-First, the user's instruction is very clear: they want a reply of 'Yes' if I can respond. No extra

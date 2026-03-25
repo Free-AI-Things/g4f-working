@@ -1,8 +1,10 @@
 <think>
-The user is asking if I'm working and wants a simple 'Yes' response if I can respond. This is a straightforward request - they're just checking if I'm available to respond.
+The user is asking me to confirm that I'm working by replying with "Yes" if I can respond. I should respond affirmatively.
 
-I should reply with 'Yes' as requested.
 </think>
+
+
 Yes
 
-Need proxies cheaper than th
+Need proxies cheaper than the market?
+ht
