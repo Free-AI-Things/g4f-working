@@ -1,10 +1,8 @@
 <think>
-The user is asking me to confirm that I'm working by replying with "Yes" if I can respond. I should respond affirmatively.
+The user asks: "Hello, are you working? Reply with 'Yes' if you can respond."
 
+We need to answer "Yes". It's simple. There's no policy violation. So we just reply "Yes".
 </think>
-
-
 Yes
 
-Need proxies cheaper than the market?
-ht
+Need proxies cheaper than th

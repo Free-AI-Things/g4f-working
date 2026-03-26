@@ -1,7 +1,9 @@
 <think>
-1.  **Analyze the user's request:** The user is asking, "Hello, are you working?" and gives a specific instruction: "Reply with 'Yes' if you can respond."
+The user is asking a simple question: "Hello, are you working? Reply with 'Yes' if you can respond."
 
-2.  **Determine my current
+My instructions are:
+1. Acknowledge the user's greeting ("Hello").
+2. Answer the specific question about availability
 </think>
 
 

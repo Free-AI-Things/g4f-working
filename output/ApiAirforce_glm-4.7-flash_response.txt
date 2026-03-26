@@ -1,0 +1,9 @@
+<think>
+The user wants to know if I am operational and able to respond.
+I am an AI model maintained by Z.ai.
+As a current active instance of the Large Language Model, I am processing information and generating text.
+Therefore, the answer is
+</think>
+
+
+Need proxies cheaper than the 
