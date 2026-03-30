@@ -1,7 +1,1 @@
-⚠️ **IMPORTANT NOTICE** ⚠️
-
-The Pollinations legacy text API is being deprecated for **authenticated users**.
-
-Please migrate to our new service at https://enter.pollinations.ai for better performance and access to all the latest models.
-
-Note: Anonymous requests to text.pollinations.ai are NOT affected and will continue to work normally.
+[![Hello, are you working? Reply with 'Yes' if you can respond.](https://black-forest-labs-flux-1-dev.hf.space/gradio_api/file=/tmp/gradio/12303aef1fb665374c86d6dd22eb0bc71e6a2bee99b11fad29eaa9c431b51316/image.webp)](https://black-forest-labs-flux-1-dev.hf.space/gradio_api/file=/tmp/gradio/12303aef1fb665374c86d6dd22eb0bc71e6a2bee99b11fad29eaa9c431b51316/image.webp)
