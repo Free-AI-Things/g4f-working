@@ -1,1 +1,0 @@
-We need to respond with 'Yes' if can respond. User asks "Hello, are you working? Reply with 'Yes' if you can respond." The instruction says respond with 'Yes' if can respond. So we comply: output "Yes

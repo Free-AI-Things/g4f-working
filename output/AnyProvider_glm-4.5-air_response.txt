@@ -1,8 +1,8 @@
 <think>
 
-Hmm, the user just asked if I'm working and wants a simple 'Yes' response if I can reply. This seems like a straightforward check for availability. 
+Hmm, the user is asking if I'm working and wants a simple "Yes" reply if I can respond. 
 
-The user might be testing if I'm responsive or if they can interact
+This seems like a basic check-in or test message. The user might be verifying if the service is active or just
 </think>
 
 
