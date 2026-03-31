@@ -1,0 +1,9 @@
+<think>
+1.  **Analyze the User's Input:**
+    *   The user is asking a direct question: "Hello, are you working?"
+    *   The user provides a specific instruction for the reply
+</think>
+
+
+Need proxies cheaper than the market?
+htt

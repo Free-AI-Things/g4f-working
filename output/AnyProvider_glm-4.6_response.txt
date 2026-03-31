@@ -1,0 +1,9 @@
+<think>
+The user is asking a simple check-in question ("Hello, are you working?") and providing a specific constraint for the reply ("Reply with 'Yes' if you can respond.").
+
+1.  **Analyze the request:**
+   
+</think>
+
+
+Need proxies cheaper than the 

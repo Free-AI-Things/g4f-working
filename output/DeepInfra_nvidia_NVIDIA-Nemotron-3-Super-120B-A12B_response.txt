@@ -1,0 +1,1 @@
+The user asks: "Hello, are you working? Reply with 'Yes' if you can respond." We need to respond with 'Yes'. Should we just output "Yes"? Ensure no extra text? The instruction: "Reply with 'Yes'
