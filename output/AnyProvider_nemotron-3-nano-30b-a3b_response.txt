@@ -1,1 +1,0 @@
-The user asks: "Hello, are you working? Reply with 'Yes' if you can respond." They want a response of 'Yes' if can respond. We can respond with 'Yes'. There's no conflict. So answer 'Yes'.
