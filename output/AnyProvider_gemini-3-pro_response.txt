@@ -1,0 +1,2 @@
+This model (gemini-3-pro) is whitelist-only. You are not authorized to use it.
+Join our Discord to request access
