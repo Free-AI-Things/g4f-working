@@ -1,6 +1,7 @@
 <think>
-1.  **Analyze the user's input:** "Hello, are you working? Reply with 'Yes' if you can respond."
-2.  **Identify the core request:** The user wants to know if I am available/
+1.  **Analyze the user's request:** The user is asking if I am "working" and specifically instructs me to reply with 'Yes' if I can respond.
+
+2.  **Determine my state:** I am
 </think>
 
 
