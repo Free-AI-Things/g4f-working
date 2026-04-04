@@ -1,0 +1,8 @@
+<think>
+1.  **Analyze the User's Input:**
+    *   The user says: "Hello, are you working? Reply with 'Yes' if you can respond."
+    *   The core request is a simple acknowledgment of availability
+</think>
+
+
+Need proxies cheaper than the 
