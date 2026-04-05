@@ -1,0 +1,24 @@
+<think>
+Here's a thinking process:
+
+1.  **Analyze User Input:**
+   - User says: "Hello, are you working? Reply with 'Yes' if you can respond."
+   - Key requirement: Reply with 'Yes' if I can respond.
+   - Context: Simple greeting and functionality check.
+
+2.  **Identify Constraints:**
+   - Must reply with exactly 'Yes' (or at least start/include it as requested, but the prompt says "Reply with 'Yes' if you can respond.")
+   - Keep it concise.
+
+3.  **Formulate Response:**
+   - Direct answer: "Yes"
+   - Could add a polite follow-up, but the instruction is specific. I'll stick to just "Yes" to strictly follow the prompt, or "Yes, I'm here and working!" if a bit more natural is expected. Given the explicit instruction, I'll keep it simple: "Yes."
+
+4.  **Final Check:**
+   - Does it match the request? Yes.
+   - Is it clear? Yes.
+   - Ready.✅
+</think>
+Yes
+
+Need proxies cheaper

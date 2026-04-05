@@ -1,8 +1,0 @@
-<think>
-Hmm, the user is asking a simple yes/no question about my operational status. The query is straightforward with no complex layers or ambiguity. 
-
-The user explicitly instructed to reply with 'Yes' if I can respond, so I should comply with that
-</think>
-
-
-Need proxies cheaper than the market?
