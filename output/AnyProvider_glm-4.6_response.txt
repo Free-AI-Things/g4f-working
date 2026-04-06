@@ -1,7 +1,7 @@
 <think>
-1.  **Analyze the user's request:** The user is asking if I am working and wants a specific reply ('Yes') if I am capable of responding.
-
-2.  **Determine my state:** I am an AI model
+1.  **Analyze the User's Input:**
+    *   Input: "Hello, are you working? Reply with 'Yes' if you can respond."
+    *   Intent: The user wants to check if the AI is
 </think>
 
 
