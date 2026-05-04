@@ -1,7 +1,7 @@
 <think>
-Hmm, the user is asking if I'm working and wants a 'Yes' reply if I can respond. This is a simple status check. The user likely wants confirmation that the system is active and functional.  
+Hmm, the user is asking if I'm working and wants a simple 'Yes' as a confirmation. This is a straightforward check to see if I'm operational. 
 
-I can definitely respond, so
+The user likely wants to ensure I'm responsive before proceeding with further queries.
 
 Need proxies cheaper than the market?
 https://op.wtf
