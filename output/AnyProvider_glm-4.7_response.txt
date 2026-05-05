@@ -1,35 +1,7 @@
-<think>
+⚠️ **IMPORTANT NOTICE** ⚠️
 
-The user is asking a simple question about my status and giving a specific instruction for the response.
+The Pollinations legacy text API is being deprecated for **authenticated users**.
 
-1.  **Analyze the input:**
->     *   "Hello, are you working?" -> This is a standard greeting/availability check.
-    *   "Reply with 'Yes' if you can respond." -> This is a direct constraint/instruction on the output format.
+Please migrate to our new service at https://enter.pollinations.ai for better performance and access to all the latest models.
 
-2.  **Determine the intent:** The user wants to verify if the AI is active and functioning correctly.
-
-3.  **Formulate the response:** The user explicitly requested the response to be 'Yes'. Even though I can say more (e.g., "Yes, I'm working. How can I help?"), sticking to the specific constraint is the most precise way to follow instructions.
-
-> 4.  **Check safety/policy:** There is nothing harmful, illegal, or sensitive about this request. It's a standard ping.
-
-5.  **Final Output Generation:** Just the word "Yes".The user is asking a simple question about my status and giving a specific instruction for the response.
-
-1.  **Analyze the input:**
-    *   "Hello, are you working?" -> This is a standard greeting/availability check.
-    *   "Reply with 'Yes' if you can respond." -> This is a direct constraint/instruction on the output format.
-
-2.  **Determine the intent:** The user wants to verify if the AI is active and functioning correctly.
-
-3.  **Formulate the response:** The user explicitly requested the response to be 'Yes'. Even though I can say more (e.g., "Yes, I'm working. How can I help?"), sticking to the specific constraint is the most precise way to follow instructions.
-
-4.  **Check safety/policy:** There is nothing harmful, illegal, or sensitive about this request. It's a standard ping.
-
-5.  **Final Output Generation:** Just the word "Yes".
-</think>
-Yes
-
-Need proxies cheaper than the market?
-https://op.wtf
-Upgrade your plan to remove this message at
-https://api.airforce
-discord.gg/airforce
+Note: Anonymous requests to text.pollinations.ai are NOT affected and will continue to work normally.
