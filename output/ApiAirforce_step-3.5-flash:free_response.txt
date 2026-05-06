@@ -1,7 +1,5 @@
 <think>
-Hmm, the user is asking if I'm working and wants a simple 'Yes' as a reply if I can respond. The query is straightforward with low complexity. 
-
-I need to confirm my operational status clearly. Since I'm fully functional and
+Okay, the user is asking if I'm working and wants a 'Yes' as a reply if I can respond. This seems straightforward—they're checking if I'm operational. I should confirm that I'm active and able to assist. The instruction
 
 Need proxies cheaper than the market?
 https://op.wtf
