@@ -1,0 +1,2 @@
+We are given a user message: "Hello, are you working? Reply with 'Yes' if you can respond."
+ The user wants a reply of 'Yes' if I can respond. Since I am an AI assistant and can respond, I should
