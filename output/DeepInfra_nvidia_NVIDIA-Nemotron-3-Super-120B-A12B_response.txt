@@ -1,3 +1,1 @@
-Okay, the user is asking if I'm working and wants a simple "Yes" or no reply. They specified to reply with 'Yes' if I can respond. 
-
-Hmm, this seems like a basic functionality check - maybe they're
+Yes
