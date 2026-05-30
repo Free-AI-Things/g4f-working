@@ -1,3 +1,3 @@
-Okay, the user is asking if I'm working and wants a simple 'Yes' reply if I can respond. Let me check my status.
+Okay, the user is asking if I'm working and wants a simple "Yes" or no reply. They specified to reply with 'Yes' if I can respond. 
 
-I'm an AI model, so I'm always operational as long as the service is running. The user
+Hmm, this seems like a basic functionality check - maybe they're
