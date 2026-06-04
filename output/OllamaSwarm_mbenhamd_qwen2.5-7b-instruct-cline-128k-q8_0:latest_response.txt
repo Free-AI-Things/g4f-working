@@ -1,1 +1,1 @@
-{"name": "ask_followup_question", "arguments": {"question": "Are there any specific programming tasks or questions you need help with today?"}}
+{"name": "tool_name", "arguments": {"arg1": "value1"}}

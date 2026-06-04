@@ -1,2 +1,2 @@
 <think>
-Okay, let me process this. The user is asking if I'm working and wants a simple confirmation. Based on the system instructions, I need to verify my operational status and respond concisely. The instruction explicitly mentions that a reply of
+The user is asking me if I'm working and wants me to reply with 'Yes' if I can respond. This is a simple query that doesn't require any technical analysis or code examination. I should answer directly and concisely.

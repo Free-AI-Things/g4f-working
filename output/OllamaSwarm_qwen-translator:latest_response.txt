@@ -3,4 +3,4 @@ Thinking Process:
 
 1.  **Analyze the Request:**
     *   Input: "Hello, are you working? Reply with 'Yes' if you can respond."
-    *   Task: Detect language, translate to Korean
+    *   Task: Translate into Korean (default behavior
