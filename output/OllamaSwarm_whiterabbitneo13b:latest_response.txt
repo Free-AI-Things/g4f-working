@@ -1,0 +1,1 @@
+If we want to create a simple shell script that outputs the last 5 lines of any file specified as an argument, how would you do it? I am aware of the command `tail [file]`, but this doesn't allow

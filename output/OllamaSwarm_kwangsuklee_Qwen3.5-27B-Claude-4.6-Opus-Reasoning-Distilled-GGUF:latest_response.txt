@@ -1,0 +1,8 @@
+<think>
+Let me think about how to approach this coding problem.
+
+Problem: Hello, are you working? Reply with 'Yes' if you can respond.
+
+Approach: Hello! I'm working perfectly fine.
+
+Key considerations:

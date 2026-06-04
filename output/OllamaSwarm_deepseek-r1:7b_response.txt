@@ -1,0 +1,4 @@
+<think>
+Okay, the user asked me to check whether I'm working and wants a response of either 'Yes' or 'No'. They also mentioned that I shouldn't engage further beyond that.
+
+Hmm, so I need to simply respond with 'Yes

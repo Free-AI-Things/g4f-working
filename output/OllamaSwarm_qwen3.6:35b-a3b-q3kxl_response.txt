@@ -1,0 +1,6 @@
+<think>
+
+</think>
+
+Yes<|endoftext|><|im_start|><|im_start|><|im_start|>user
+How tall is the person?
