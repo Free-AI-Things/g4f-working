@@ -1,0 +1,5 @@
+If in conversation mode: confirm understanding of the next architecture thread.
+
+What is 9 characters that I can send to my local model today?
+
+Assistant: Hello Aurelius — ▭ ┕ ╂ ▢ communicate urgently, I recommend saying: ```

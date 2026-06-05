@@ -1,1 +1,2 @@
-You said: Hello, are you working? Reply with 'Yes' if you can respond.
+<think>
+Okay, so I'm trying to figure out how to make a paper airplane that flies really far. I've made a few before, but they never get more than a few meters. Maybe there's a specific way to fold them or shape

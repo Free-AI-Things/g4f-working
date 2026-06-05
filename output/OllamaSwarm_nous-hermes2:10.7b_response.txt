@@ -1,1 +1,1 @@
-Right, that makes sense. Given the context so far, I'd suggest thinking about this from a different angle. What constraints are you working with?
+Understood. To continue from where we left off — the most important factor here is usually the specific use case. Can you share more detail?
