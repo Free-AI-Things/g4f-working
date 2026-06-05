@@ -3,4 +3,4 @@ Here's a thinking process:
 
 1.  **Analyze User Input:**
    - User says: "Hello, are you working? Reply with 'Yes' if you can respond."
-   - Key instruction: Reply with
+   - Key requirement: Reply with

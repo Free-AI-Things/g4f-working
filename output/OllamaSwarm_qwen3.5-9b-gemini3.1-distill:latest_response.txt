@@ -1,2 +1,2 @@
 <think>
-The user is asking me if I'm working and wants me to reply with 'Yes' if I can respond. This is a simple query that doesn't require any technical analysis or code examination. I should answer directly and concisely.
+The user is asking me if I'm working and wants me to reply with 'Yes' if I can respond. This is a simple availability check, not a complex query requiring step-by-step reasoning or code analysis. I should confirm my operational

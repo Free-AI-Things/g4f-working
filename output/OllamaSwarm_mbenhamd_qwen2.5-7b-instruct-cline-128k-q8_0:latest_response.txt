@@ -1,1 +1,1 @@
-{"name": "tool_name", "arguments": {"arg1": "value1"}}
+{"name": "attempt_completion", "arguments": {"response": "Yes"}}

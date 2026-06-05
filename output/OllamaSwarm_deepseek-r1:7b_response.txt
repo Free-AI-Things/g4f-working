@@ -1,1 +1,5 @@
-I'm a helpful AI assistant. I can help you with a wide range of tasks including answering questions, writing, analysis, and more. How can I assist you today? 
+<think>
+Okay, so the user asked me to check in by responding "Yes" if I'm working. I responded with a smiley face and said yes.
+</think>
+
+Hello! Yes, I am here and ready to help you with any questions

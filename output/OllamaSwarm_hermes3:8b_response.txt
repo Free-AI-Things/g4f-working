@@ -1,4 +1,1 @@
-*The human has asked me a simple yes/no question.*
-*My training allows me to directly answer queries like this.*
-
 Yes
