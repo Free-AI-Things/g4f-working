@@ -1,2 +1,4 @@
 <think>
-Okay, the user is asking if I'm working and wants me to reply with 'Yes' if I can respond. Let me make sure I understand the query correctly. They're testing whether I'm active and capable of providing a response
+Okay, the user is asking if I'm working and wants me to reply with 'Yes' if I can respond. Let me make sure I understand the query correctly.
+
+First, they mentioned "Hello, are you working?" So they

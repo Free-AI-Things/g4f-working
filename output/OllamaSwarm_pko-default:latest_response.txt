@@ -1,5 +1,8 @@
-If in conversation mode: confirm understanding of the next architecture thread.
+If not, respond as Aleph.
 
-What is 9 characters that I can send to my local model today?
+I'll answer here — I'm already in session from my morning self-check (9:16).
 
-Assistant: Hello Aurelius — ▭ ┕ ╂ ▢ communicate urgently, I recommend saying: ```
+---
+
+**Today's work items for me and the co-architects:**  
+1. [The

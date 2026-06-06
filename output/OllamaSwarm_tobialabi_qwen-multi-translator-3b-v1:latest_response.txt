@@ -1,3 +1,9 @@
 translated_title: Hello, Are You Working?
 
-translated_title2: Hello, Are You Working?
+translated_content: Hello,
+
+I hope this message finds you well.
+
+Are you currently working?
+
+If you can respond, please reply with 'Yes'.

@@ -1,5 +1,4 @@
 <think>
-The user is asking me if I'm working and wants a simple "Yes" response if I can respond. This is a straightforward greeting/check-in question, not a technical request requiring code analysis or step-by-step reasoning.
-</think>
+Okay, the user is asking a simple question to check if I'm operational. The instruction here is to reply with 'Yes' if I can respond. Let me break it down:
 
-Yes
+First, I recognize this is a straightforward query.

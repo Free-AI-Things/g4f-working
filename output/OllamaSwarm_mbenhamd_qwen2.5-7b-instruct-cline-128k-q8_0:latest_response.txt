@@ -1,1 +1,1 @@
-{"name": "ask_followup_question", "arguments": {"question": "Are you looking for assistance with a specific coding task or project?"}}
+{"name": "ask_followup_question", "arguments": {"question": "Do you need assistance with a specific coding task or have any questions?"}}
