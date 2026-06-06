@@ -1,2 +1,3 @@
-Yes<|endoftext|><|im_start|>user
-I have a list of tasks. I need to know if each task is a **single** task or a **multi-t**
+If not, reply with 'No'.
+
+Yes<|endoftext|><|im_start|>

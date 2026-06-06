@@ -1,6 +1,6 @@
 <think>
-Let me think through this carefully.
+The user is simply checking if I'm functional and requesting confirmation. This is a basic availability check, not a problem requiring solution or analysis.
 
-The question/task: Hello, are you working? Reply with 'Yes' if you can respond.
-
-My reasoning: This appears to be a straightforward test to verify that I'm functioning properly and
+The request is straightforward:
+1. Confirm I'm working/responding
+2. Reply

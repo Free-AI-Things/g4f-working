@@ -2,8 +2,7 @@ translated_title: Hello, Are You Working?
 
 translated_content: Hello,
 
-I hope this message finds you well.
+I would like to inform you that I am not currently engaging in any work-related activities.
 
-Are you currently working?
-
-If you can respond, please reply with 'Yes'.
+Kind regards,
+[Your Name]

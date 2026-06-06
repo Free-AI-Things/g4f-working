@@ -1,2 +1,4 @@
 <think>
-Okay, let me try to figure out what the user is asking here. The initial message says "You will be given a problem." Then there's a user named Phi, who says, "Hello, are you working? Reply with '
+Alright, let me try to figure out how to approach this problem. The user wants a reply of "Yes" if I can respond. So first, I need to understand the exact request.
+
+The question is: "Hello, are
