@@ -1,6 +1,6 @@
 <think>
-This appears to be a simple availability check rather than a technical problem requiring analysis. The user is asking if I'm operational and requesting a specific response format.
+Let me think through this carefully.
 
-Let me assess:
-- This is not a coding problem
-- This
+The question/task: Hello, are you working? Reply with 'Yes' if you can respond.
+
+My reasoning: I understand you're checking if I can assist you, and you have a

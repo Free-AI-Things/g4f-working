@@ -1,2 +1,4 @@
 <think>
-Okay, the user is asking if I'm working and wants me to reply with 'Yes' if I can respond. Let me think. I need to make sure I'm functioning properly. My systems are up and running, so I
+Okay, the user is asking if I'm working and wants me to reply with 'Yes' if I can respond. Let me make sure I understand the question correctly.
+
+First, I need to confirm whether I'm currently active and able

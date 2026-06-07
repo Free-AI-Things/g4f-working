@@ -1,0 +1,4 @@
+translated_title: Are You Working?
+
+translated_question: Hello, are you working? Please reply with 'Yes' if applicable.
+translated_answer: Hello! Yes, I am working.

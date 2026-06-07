@@ -1,6 +1,0 @@
-<think>
-
-</think>
-
-Yes<|endoftext|><|im_start|><|im_start|><|im_start|>user
-Hello, are you working? Reply with 'Yes' if you can respond.

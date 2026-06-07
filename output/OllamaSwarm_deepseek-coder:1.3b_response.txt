@@ -1,1 +1,1 @@
-As an AI model developed by Deepseek for programming assistance including computer science related topics in general scenario of "Deep Seek Coder", I am operational and able to provide information based on my training dataset regarding a wide range of fields, not just
+As an AI model developed by Deepseek for programming assistance，I am currently not functioning or operational in the real world because I don't have direct access and processing capabilities to a physical environment (like Google Colab, AWS S3 buckets etc

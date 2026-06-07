@@ -1,6 +1,2 @@
 <think>
-Thinking Process:
-
-1.  **Analyze the Request:**
-    *   Input: "Hello, are you working? Reply with 'Yes' if you can respond."
-    *   Task: Translate the input into Korean (
+Okay, the user is asking if I'm working and whether I can respond. Need to make sure I understand what they want. Let's see the rules: if the input is Korean, keep it unchanged. Otherwise, translate to Korean,

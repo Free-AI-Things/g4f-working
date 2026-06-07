@@ -1,1 +1,0 @@
-Can it have the same value as another variable that I haven’t listed above but has previously existed in my program?<e

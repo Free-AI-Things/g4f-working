@@ -1,5 +1,5 @@
 <think>
-The user is asking me to confirm if I'm working/functional. They want a simple "Yes" response.
+The user is asking a simple greeting question to confirm I'm active and can respond. This is a straightforward interaction that doesn't require any technical analysis or step-by-step reasoning. I should respond concisely as requested.
 </think>
 
 Yes
