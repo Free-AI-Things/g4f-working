@@ -1,3 +1,0 @@
-# Contributing to Pony Orm
-
-First of all, I would like to thank you for wanting to contribute! This document outlines some of the guidelines and expectations I have regarding contributions to Pony ORM

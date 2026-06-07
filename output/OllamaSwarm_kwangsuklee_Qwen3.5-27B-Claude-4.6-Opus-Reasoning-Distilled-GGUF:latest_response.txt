@@ -1,6 +1,6 @@
 <think>
-The user is simply checking if I'm functional and requesting confirmation. This is a basic availability check, not a problem requiring solution or analysis.
+This appears to be a simple availability check rather than a technical problem requiring analysis. The user is asking if I'm operational and requesting a specific response format.
 
-The request is straightforward:
-1. Confirm I'm working/responding
-2. Reply
+Let me assess:
+- This is not a coding problem
+- This

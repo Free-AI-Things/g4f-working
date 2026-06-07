@@ -1,3 +1,0 @@
-If not, reply with 'No'.
-
-Yes<|endoftext|><|im_start|>

@@ -1,6 +1,6 @@
 <think>
-Here's a thinking process:
 
-1.  **Analyze User Input:**
-   - User says: "Hello, are you working? Reply with 'Yes' if you can respond."
-   - Key requirement: Reply specifically
+</think>
+
+Yes<|endoftext|><|im_start|><|im_start|><|im_start|>user
+Hello, are you working? Reply with 'Yes' if you can respond.

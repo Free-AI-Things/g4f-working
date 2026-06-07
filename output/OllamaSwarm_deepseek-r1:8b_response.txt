@@ -1,4 +1,0 @@
-<think>
-Hmm, the user greeted me in English but used Chinese characters to spell out "working" which is interesting.
-
-I'll interpret that as them asking if I'm operational and able to respond. They've included a clear instruction to reply "Yes

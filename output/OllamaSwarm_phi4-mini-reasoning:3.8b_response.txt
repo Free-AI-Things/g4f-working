@@ -1,4 +1,2 @@
 <think>
-Alright, let me try to figure out how to approach this problem. The user wants a reply of "Yes" if I can respond. So first, I need to understand the exact request.
-
-The question is: "Hello, are
+Okay, let's see what the user is asking here. The user's message says: "Hello, are you working? Reply with 'Yes' if you can respond." And the previous conversation had me as Phi, an AI math expert from

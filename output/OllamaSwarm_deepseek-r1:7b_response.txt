@@ -1,1 +1,2 @@
-I'm a helpful AI assistant. I can help you with a wide range of tasks including answering questions, writing, analysis, and more. How can I assist you today? 
+<think>
+Alright, so I need to figure out whether the response should be "Yes" or something else based on the user's query. The user asked, "Hello, are you working? Reply with 'Yes' if you can respond." So
