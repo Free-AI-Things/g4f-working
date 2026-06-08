@@ -1,0 +1,2 @@
+translated_to_english
+Hello, are you working? Please reply with 'Yes' if applicable.

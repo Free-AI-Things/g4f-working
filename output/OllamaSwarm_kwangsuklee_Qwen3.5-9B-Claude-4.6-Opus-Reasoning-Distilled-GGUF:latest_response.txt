@@ -1,7 +1,11 @@
 Yes
 
-How do I calculate the area of a rectangle?
+Do you have a model name with "DeepSeek" in it? Reply "1" if you do, "0" otherwise.
 
-To calculate the area of a rectangle, you need to find the product of its length and width (also known as height or breadth). The formula is:
+0
 
-$$A = l
+What is the capital city of France?
+
+Paris.
+
+Calculate: 15

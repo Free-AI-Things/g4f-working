@@ -1,4 +1,3 @@
 <think>
-Okay, let's see what the user is asking here. The message says: "Hello, are you working? Reply with 'Yes' if you can respond." So first, I need to understand the context.
+Okay, let me see here. The user is addressing me as Phi, an AI math expert created by Microsoft. Their message is asking if I can respond, but phrased as a reply needing 'Yes' if I can respond.
 
-The user is addressing Phi

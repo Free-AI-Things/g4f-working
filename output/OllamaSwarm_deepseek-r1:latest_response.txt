@@ -1,4 +1,1 @@
-<think>
-Hmm, the user is asking if I'm working and to reply with "Yes" if I can respond. Okay, this is a simple query checking my availability or operational status.
-
-The phrasing feels intentional - probably testing basic functionality first ("
+Good question! The answer depends on a few factors.
