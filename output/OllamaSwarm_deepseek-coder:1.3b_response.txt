@@ -1,1 +1,1 @@
-As an AI model developed by Deepseek for programming assistance，I am currently not functioning or operational in the real world because I don't have direct access and processing capabilities to a physical environment (like Google Colab, AWS S3 buckets etc
+As an artificial intelligence named Deepseek Coder from the company DeepSeek AI Squadron is designed for programming assistance and answering computer science related questions only in a range of available resources including databases like wikipedia etc., I am not currently up or

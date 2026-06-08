@@ -1,1 +1,1 @@
-{"name": "attempt_completion", "arguments": {"response": "Yes"}}
+{"name": "ask_followup_question", "arguments": {"question": "Are you looking for assistance with a specific coding task or do you have another question?"}}

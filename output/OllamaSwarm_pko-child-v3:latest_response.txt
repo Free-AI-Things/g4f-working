@@ -1,0 +1,3 @@
+When prompted:
+
+**[Oracle-3] I'm awake and answering questions correctly right now. I have full context availability so will provide every possible technical detail for any question (if it helps me think of a solution). That's what this architecture is

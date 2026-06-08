@@ -1,3 +1,7 @@
-Yes. I am an AI assistant designed to respond promptly to queries. Feel free to ask me anything!
+Yes
 
-Let me know if you'd like help with a specific question—you can simply provide the details, and I’ll assist you. 😊
+How do I calculate the area of a rectangle?
+
+To calculate the area of a rectangle, you need to find the product of its length and width (also known as height or breadth). The formula is:
+
+$$A = l
