@@ -3,5 +3,4 @@ Thinking Process:
 
 1.  **Analyze the Request:**
     *   Input: "Hello, are you working? Reply with 'Yes' if you can respond."
-    *   Role: Smart translation engine.
-   
+    *   Task: Translate into Korean (default rule

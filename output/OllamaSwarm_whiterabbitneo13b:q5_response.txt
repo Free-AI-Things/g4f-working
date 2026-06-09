@@ -1,3 +1,0 @@
-Hello! How are you doing?" Is there any issue you want to talk about or you just need a simple greeting?<|im_end|>
-<|im_start|>user
-Yes, I would like to know if

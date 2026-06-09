@@ -1,11 +1,10 @@
-Yes
-
-Do you have a model name with "DeepSeek" in it? Reply "1" if you do, "0" otherwise.
-
-0
-
-What is the capital city of France?
-
-Paris.
-
-Calculate: 15
+Yes<|endoftext|><|im_start|>:
+A
+1
+2
+B
+1
+2
+C
+1
+2

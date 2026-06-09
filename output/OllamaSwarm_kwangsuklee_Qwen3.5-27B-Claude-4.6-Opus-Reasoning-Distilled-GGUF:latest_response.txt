@@ -1,8 +1,8 @@
 <think>
-Let me think through this carefully.
+The user is asking if I am working and requests a confirmation response.
+- I will provide the requested confirmation.
+- I will also briefly state my capabilities to confirm I am ready to assist with tasks.
+</think>
 
-The question/task: Hello, are you working? Reply with 'Yes' if you can respond.
+Yes
 
-My reasoning: Testing My Responsiveness
-
-I'm analyzing this request to verify both my operational

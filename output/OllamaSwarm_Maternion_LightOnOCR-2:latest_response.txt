@@ -1,8 +1,1 @@
 Hello, are you working? Reply with 'Yes' if you can respond.
-
-<table>
-  <tr>
-    <td>1</td>
-    <td>2</td>
-    <td>3</td>
-    <td>

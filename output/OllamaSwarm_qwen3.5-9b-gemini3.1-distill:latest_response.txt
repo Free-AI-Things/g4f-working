@@ -1,2 +1,2 @@
 <think>
-Okay, the user is asking if I'm working and wants a 'Yes' as confirmation. Now, let me break down the process to figure this out. First, I need to recognize the request. My role is to answer accurately and
+Okay, the user is asking if I'm "working" and wants a simple "Yes" reply. Let me break this down. First, I need to recognize this as a system check or status confirmation, probably to make sure I'm
