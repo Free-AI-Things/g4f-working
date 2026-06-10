@@ -1,8 +1,0 @@
-<think>
-The user is asking if I am working and requests a confirmation response.
-- I will provide the requested confirmation.
-- I will also briefly state my capabilities to confirm I am ready to assist with tasks.
-</think>
-
-Yes
-

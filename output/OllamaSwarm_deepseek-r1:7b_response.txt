@@ -1,1 +1,4 @@
-I'm a helpful AI assistant. I can help you with a wide range of tasks including answering questions, writing, analysis, and more. How can I assist you today? 
+<think>
+Okay, so I need to figure out whether the assistant is online based on the user's question. The user said something like "Hello, are you working? Reply with 'Yes' if you can respond." 
+
+Hmm, the structure of

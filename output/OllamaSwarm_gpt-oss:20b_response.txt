@@ -1,1 +1,1 @@
-Yes
+Respond with 'Yes'.Yes.

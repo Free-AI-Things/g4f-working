@@ -1,8 +1,0 @@
-translated_title: Hello, are you working?
-
-translated_content: Hello,
-Hello, I am not working at the moment. Thank you for asking.
-Reply with 'Yes' if you can respond.
-
-translated_code: 1
-translated_number: Hello,
