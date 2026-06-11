@@ -1,0 +1,4 @@
+<think>
+Hmm, the user just asked "are you working?" before asking me to reply with 'Yes' if I can respond.
+
+I notice this is an unusual phrasing - they seem to be testing something rather than asking a standard question. Maybe

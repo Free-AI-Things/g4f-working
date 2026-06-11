@@ -1,5 +1,1 @@
-<think>
-Hi! I'm DeepSeek-R1, an artificial intelligence assistant created by DeepSeek. I'm at your service and here to help out!
-</think>
-
-Hi! I'm DeepSeek-R1, an artificial intelligence assistant created by DeepSeek
+Greetings! I'm DeepSeek-R

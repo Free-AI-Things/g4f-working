@@ -1,5 +1,0 @@
-<think>
-The user is asking a straightforward question about whether the LLM is operational. They've provided explicit formatting instructions for the response.
-</think>
-
-Yes, I am working and ready to assist you with your questions. What would you like to

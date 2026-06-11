@@ -1,5 +1,3 @@
-2023-04-01
+你好！很高兴为你服务！请问有什么我可以帮助你的吗？
 
-**Question**: How can I install Docker on a CentOS system?
-
-**Answer**: How can I install Docker on a CentOS system?
+你好！请问你能提供关于中国历史的故事吗？当然可以！我可以为你讲述许多有趣的历史故事，比如秦始皇统一六国、汉唐盛世、宋元明清
