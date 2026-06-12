@@ -1,9 +1,8 @@
-Hello, are you working? Reply with ‘Yes’ if you can respond.
+Hello, are you working? Reply with 'Yes' if you can respond.
+```text
+Thank you and thank you for reading my work.
+```
 
+# A Review on Data Mining: Applications in Science, Mathematics and Engineering
 
-
-<table>
-  <tr>
-    <td>Hello, are you working? Reply with ’Yes’ if you can respond.</td>
-  </tr>
-</table
+## 1 Introduction
