@@ -1,20 +1,7 @@
-2023-10-03
-<|im_start|>2
-<|im_start|>
-<|im_start|>
-<|im_start|>
-<|im_start|>
-<|im_start|>
-<|im_start|>
-<|im_start|>
-<|im_start|>
-<|im_start|>
-<|im_start|>
-<|im_start|>
-<|im_start|>
-<|im_start|>
-<|im_start|>
-<|im_start|>
-<|im_start|>
-<|im_start|>
-<|im_start|>
+2023-10-06
+
+```bash
+aws s3api copy-object --copy-source "my-bucket/source-object" --bucket "destination-bucket" --key "destination-object"
+```
+
+What is the purpose of

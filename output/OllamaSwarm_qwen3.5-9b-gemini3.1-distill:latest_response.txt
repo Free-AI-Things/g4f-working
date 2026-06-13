@@ -1,0 +1,4 @@
+<think>
+The user is starting with a simple greeting and asking if I'm working/responding. This is a straightforward test message. I should keep my response concise and professional, following the established pattern.
+
+Let me think about what they need:

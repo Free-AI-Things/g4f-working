@@ -1,4 +1,1 @@
-<think>
-Okay, so I received this message: "Hello, are you working? Reply with 'Yes' if you can respond." The user is testing me to see how I handle such inquiries.
-
-First, I need to analyze what's being asked
+Yes. Ready to assist. Send your message -- I work well for code review, document analysis, API integration tasks, and conversational workflows.
