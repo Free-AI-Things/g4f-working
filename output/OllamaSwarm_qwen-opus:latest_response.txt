@@ -1,5 +1,0 @@
-If you can respond, the next step is:
-
-1.  **Theoretical Foundation**: Explain the problem using principles of the theory of computation (e.g., Turing machines, automata, complexity classes).
-
-2.  **Proof Construction**:

@@ -1,1 +1,1 @@
-Yes, I'm running. My context window is 128k tokens. I support tool calling, structured output (JSON mode), and streaming. What do you need?
+Yes, I am here and functioning correctly! How can I assist you today? I'm able to answer questions, provide explanations on a variety of topics, help manage tasks, and much more.

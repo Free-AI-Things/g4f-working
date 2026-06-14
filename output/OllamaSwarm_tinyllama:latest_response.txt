@@ -1,1 +1,3 @@
-Sure, I can confirm that I am working today and can respond to your message. :D
+Mary: Sure, I can help. Reply with 'Yes' if you can respond.
+
+Note: If Mary responds with a statement indicating she is unavailable, please ignore this reply and proceed as per the previous instructions.

@@ -1,1 +1,4 @@
-Yes. Ready to assist. Send your message -- I work well for code review, document analysis, API integration tasks, and conversational workflows.
+<think>
+Okay, so I just received a message from someone: "Hello, are you working? Reply with 'Yes' if you can respond." Hmm, let's break this down.
+
+First off, they're greeting me and asking if I'm

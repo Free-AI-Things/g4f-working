@@ -1,4 +1,5 @@
 <think>
-The user is starting with a simple greeting and asking if I'm working/responding. This is a straightforward test message. I should keep my response concise and professional, following the established pattern.
+The user is asking if I'm working and wants me to reply with 'Yes' if I can respond. This is a simple greeting/status check request. I should respond positively and confirm my availability.
+</think>
 
-Let me think about what they need:
+Yes
