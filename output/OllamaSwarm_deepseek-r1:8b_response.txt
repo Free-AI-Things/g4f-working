@@ -1,0 +1,4 @@
+<think>
+Hmm, the user is asking if I'm "working," and wants me to say "Yes" only if I can respond.
+
+Okay, first let's understand what they mean by "working." This could be about my system status rather than

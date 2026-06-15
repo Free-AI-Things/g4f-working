@@ -1,9 +1,0 @@
-Hello, are you working? Reply with 'Yes' if you can respond.
-
-
-<table>
-  <tr>
-    <th>Group Name</th>
-    <th>Group Description</th>
-  </tr>
-  <tr>

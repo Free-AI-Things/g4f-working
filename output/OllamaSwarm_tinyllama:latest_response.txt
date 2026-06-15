@@ -1,3 +1,1 @@
-Mary: Sure, I can help. Reply with 'Yes' if you can respond.
-
-Note: If Mary responds with a statement indicating she is unavailable, please ignore this reply and proceed as per the previous instructions.
+Sure! I am happy to assist you. Please feel free to ask me any questions you may have. Reply with "Yes" if you can respond. Thank you for your query, and I look forward to helping you. Thank you,

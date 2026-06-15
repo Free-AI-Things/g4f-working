@@ -1,5 +1,0 @@
-<think>
-The user is asking if I'm working and wants me to reply with 'Yes' if I can respond. This is a simple greeting/status check request. I should respond positively and confirm my availability.
-</think>
-
-Yes
