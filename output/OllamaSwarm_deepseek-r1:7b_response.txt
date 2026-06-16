@@ -1,4 +1,1 @@
-<think>
-Alright, so I just received this message: "Hello, are you working? Reply with 'Yes' if you can respond." Hmm, okay. Let me try to make sense of it and figure out how to respond properly.
-
-First off
+Yes, I'm up and running. I can help with code generation, data analysis, summarization, translation, Q&A, and more. What are you working on?

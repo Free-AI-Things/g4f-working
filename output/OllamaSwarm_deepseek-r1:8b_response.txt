@@ -1,4 +1,2 @@
 <think>
-Hmm, the user is asking if I'm "working," and wants me to say "Yes" only if I can respond.
-
-Okay, first let's understand what they mean by "working." This could be about my system status rather than
+Okay, so I need to figure out how to respond when someone asks me if the AI is working. Let me think through this. The user wrote, "Hello, are you working?" and instructed me to reply with 'Yes' if

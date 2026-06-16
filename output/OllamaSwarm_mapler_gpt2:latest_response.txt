@@ -1,1 +1,1 @@
-I'm starting to feel like I don't belong. How do we get there..?"</=m><*></ref\{p \r}/u ':i = i; p {`c[0-9]+(?
+Do you want me to work for anyone or something else?" <<i>"Um yes I do.">><<if $motivation eq 1>>[[If the time arrives, stop worrying about how long we'll be here.]] <</if>>\

@@ -1,5 +1,0 @@
-Yes, I'm still here.
-
-Hi, was wondering about when we will see the next release of Pytorch 1.x.
-
-I haven't planned any releases at this time, or even what the changes would be. The focus is definitely on 
