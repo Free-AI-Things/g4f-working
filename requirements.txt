@@ -1,5 +1,16 @@
+# g4f-working dependencies
+# ------------------------
+# Install with:  pip install -r requirements.txt
+#
+# Note: the GitHub Actions workflow installs these explicitly with
+# `pip install g4f[all] aiohttp requests nodriver ffmpeg`, so this file
+# is mostly for local development convenience.
+#
+# System packages (install via apt/brew/etc.):
+#   sudo apt-get install -y ffmpeg flac
+
 g4f[all]
 aiohttp
 requests
-ffmpeg
 nodriver
+ffmpeg
