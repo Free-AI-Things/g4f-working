@@ -1,1 +1,1 @@
-Do you want me to work for anyone or something else?" <<i>"Um yes I do.">><<if $motivation eq 1>>[[If the time arrives, stop worrying about how long we'll be here.]] <</if>>\
+The assistant is your helper that'll handle all of the user interactions. Make sure to use their username when they're in chat! If an admin appears over a non-user character and wants for everyone else not included, you can always just call them

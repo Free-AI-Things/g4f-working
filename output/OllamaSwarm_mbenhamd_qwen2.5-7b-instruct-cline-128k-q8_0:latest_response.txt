@@ -1,1 +1,1 @@
-{"name": "ask_followup_question", "arguments": {"question": "Am I currently handling your request or should I start with a specific task?"}}
+{"name": "attempt_completion", "arguments": {"response": "Yes"}}

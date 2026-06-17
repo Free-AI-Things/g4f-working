@@ -1,3 +1,0 @@
-<div aria-live="polite" class="sb-spinner-message">
-    <svg class="icon sb-icon" focusable="false" viewBox="0 0 16 16">
-     

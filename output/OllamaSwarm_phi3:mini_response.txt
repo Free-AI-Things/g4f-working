@@ -1,1 +1,3 @@
-Yes, I am here and ready to assist you! How may I help you today? Please provide your details so I know how best to interact with you. In return for which prompt should users expect responses from me under a different alias or identity at
+```plaintextstatic
+1. Detect the instruction format and scope from "Hello" prompt.  
+2. Assess context relevance: The question relates to capability of response in a human-like conversation, fitting for an A

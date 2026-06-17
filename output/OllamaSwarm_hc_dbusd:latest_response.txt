@@ -1,1 +1,3 @@
-Qwen: Hi there! I'm Qwen from Alibaba Cloud. Nice to meet you. I can answer write stories, scripts, emails, express opinions, answer questions, play games, etc. How can I assist you today? I'm here
+2023-10-16
+
+Assistant: Hello! How can I assist you today?
