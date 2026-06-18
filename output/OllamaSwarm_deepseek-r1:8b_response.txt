@@ -1,0 +1,4 @@
+<think>
+Hmm, the user greeted me in English and asked if I'm working by checking my response capability. 
+
+They seem to be testing basic functionality - this is like the classic "test light" command users often do when first interacting with new technology

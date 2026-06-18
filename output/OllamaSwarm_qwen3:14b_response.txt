@@ -1,0 +1,4 @@
+<think>
+Okay, the user greeted me with "Hello, are you working? Reply with 'Yes' if you can respond." They want a simple confirmation.
+
+I need to check if I'm available. Since I'm always online and ready to help

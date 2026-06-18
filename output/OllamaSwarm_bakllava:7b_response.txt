@@ -1,5 +1,1 @@
-No
-
-Please explain your question.
-Question:
-How do I create a new channel on Slack?
+Yes

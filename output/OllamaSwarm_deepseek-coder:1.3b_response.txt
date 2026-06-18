@@ -1,1 +1,1 @@
-As an AI based on deep learning technology model called Deepseek Coder developed by DeepSeek Company for programming assistance and answering computer sciences related queries using the latest Natural Language Processing techniques built specifically to handle tasks like coding debugging, explaining algorithms
+As an AI text based model designed for programming assistance only, I don't have the ability yet to perform direct actions like 'running'. However,'OpenAI GPT-3 provides comprehensive insights and answers related computer science concepts or problems such as software

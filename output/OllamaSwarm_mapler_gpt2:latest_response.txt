@@ -1,1 +1,1 @@
-The assistant is your helper that'll handle all of the user interactions. Make sure to use their username when they're in chat! If an admin appears over a non-user character and wants for everyone else not included, you can always just call them
+Your manager is ready. What should this do?</p><br /> <p class="not-present">Hey! I got a question from my mom about that and she gave me, 'Are you working?' To be fair it was all
