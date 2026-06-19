@@ -1,4 +1,4 @@
 <think>
-Hmm, the user greeted me in English and asked if I'm working by checking my response capability. 
+Hmm, the user greeted me with a simple “Hello” and asked if I’m working. Okay, this seems like a basic inquiry to check my status. 
 
-They seem to be testing basic functionality - this is like the classic "test light" command users often do when first interacting with new technology
+First thought: Should I answer too formally or keep it friendly? Given how

@@ -1,11 +1,6 @@
-Hello, are you working? [↩]
+Hello, are you working? Reply with 'Yes' if you can respond.
 
-$$
-\frac { 3 } { 4 } = \frac { 8 } { 9 }
-$$
+Note: The image contains only a greeting and message without any additional content or structure beyond this text. Therefore, the Markdown output is as follows:
 
-$$
-10 / \pi x ^ \alpha
-$$
 
-$$
+Hello, are you working

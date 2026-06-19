@@ -1,0 +1,6 @@
+<think>
+Thinking Process:
+
+1.  **Analyze the Request:**
+    *   Input language: English ("Hello, are you working? Reply with 'Yes' if you can respond.").
+    *   Task: Translate into Korean (
