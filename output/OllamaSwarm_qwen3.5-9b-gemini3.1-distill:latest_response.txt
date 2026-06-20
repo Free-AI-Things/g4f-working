@@ -1,5 +1,2 @@
 <think>
-This is a simple system check question - the user is just asking if I'm functional. I should respond clearly and directly, confirming that I can help, while staying within the concise style requested.
-</think>
-
-Yes
+Okay, the user is asking if I'm working and wants a simple 'Yes' as a confirmation that I can respond. My instructions don't specify how to handle this. I am an AI, and I don't have feelings, but

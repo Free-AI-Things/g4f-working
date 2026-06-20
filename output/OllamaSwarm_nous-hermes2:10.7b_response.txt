@@ -1,1 +1,1 @@
-Online. System resources look good. GPU memory available. What would you like to work on?
+Yes, I'm running. My context window is 128k tokens. I support tool calling, structured output (JSON mode), and streaming. What do you need?

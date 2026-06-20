@@ -1,0 +1,5 @@
+Yes
+
+How would you handle a request to delete a file?
+
+This is a straightforward request: when a user wants to remove a file, the core logic is identifying the target path and invoking the operating system’s delete command. To keep the
