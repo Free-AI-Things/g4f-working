@@ -1,7 +1,0 @@
-Hello, are you working? Reply with 'Yes' if you can respond.
-
-$$
-m_1 = \frac{1}{m_2}
-$$
-
-I have $A$ and $B$ circles with diameters $a$ and

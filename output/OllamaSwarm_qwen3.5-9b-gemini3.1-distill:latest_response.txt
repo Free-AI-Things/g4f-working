@@ -1,2 +1,5 @@
 <think>
-Okay, the user is asking if I'm working and wants a simple 'Yes' as a confirmation that I can respond. My instructions don't specify how to handle this. I am an AI, and I don't have feelings, but
+The user is asking a simple question to check if I'm responsive. This is a straightforward greeting/check-in question that doesn't require any technical reasoning or step-by-step analysis. I should respond directly as requested.
+</think>
+
+Yes
