@@ -1,4 +1,0 @@
-<think>
-Okay, so I need to figure out how to respond to the message "Hello, are you working?" with a 'Yes' because the user wants me to reply in a specific way. Let's break this down step by step.
-
-First

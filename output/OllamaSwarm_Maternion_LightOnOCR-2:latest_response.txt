@@ -1,0 +1,7 @@
+Hello, are you working? Reply with 'Yes' if you can respond.
+
+<table>
+  <tr>
+    <th>Column 1</th>
+    <th>Column 2</th>
+    <th>Column 3</

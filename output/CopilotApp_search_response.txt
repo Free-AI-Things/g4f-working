@@ -1,12 +1,12 @@
-**Yes — I am working and able to respond.** GitHub Copilot services are currently operational with no reported outages or disruptions. [[0]](https://www.githubstatus.com/) [[1]](https://statusgator.com/services/github/copilot) [[2]](https://isdown.app/status/github-copilot) [[3]](https://tickerr.ai/status/github-copilot) [[4]](https://downforai.com/github-copilot)
+**Yes — I am working and able to respond. GitHub Copilot services are currently operational with no reported outages.** [[0]](https://incidenthub.cloud/status/github/copilot) [[1]](https://isdown.app/status/github-copilot) [[2]](https://statusgator.com/services/github/copilot) [[3]](https://ai-watch.dev/is-github-copilot-down) [[4]](https://tickerr.ai/status/github-copilot)
 
 ---
 
-### Current Status of Copilot
-- **Operational:** Multiple independent monitors confirm GitHub Copilot is running normally.
-- **Uptime:** Over the past 24 hours, uptime has been reported at **99.9–100%**, with no major incidents.
-- **Response Times:** Average latency is low (around 93–133 ms median response times), meaning the service is responsive.
-- **Recent Outages:** The last notable disruptions occurred on June 17, 2026, but they were resolved within about an hour. Since then, no new incidents have been reported.
+### Current Status
+- **Operational:** Multiple independent monitoring services confirm GitHub Copilot is up and running.
+- **Recent checks:** As of June 22, 2026, Copilot was verified operational within the last few minutes.
+- **Uptime:** Copilot maintains a **99.5–99.9% uptime** over the past 90 days, showing strong reliability.
 
-### Why This Matters
-- **Reliability:** Copilot has maintained strong uptime (above 99.5%) over the last 90 days, which
+### Incident History
+- **Minor disruptions:** On June 16–17, 2026, Copilot experienced short-lived outages (30–90 minutes) affecting code suggestions and availability. These were quickly resolved.
+- **Broader GitHub issues:** Some incidents overlap with GitHub infrastructure problems (e.g., Actions, Codespaces), which can temporarily

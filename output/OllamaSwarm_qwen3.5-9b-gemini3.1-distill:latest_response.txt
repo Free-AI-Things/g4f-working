@@ -1,5 +1,5 @@
 <think>
-The user is asking a simple question to check if I'm responsive. This is a straightforward greeting/check-in question that doesn't require any technical reasoning or step-by-step analysis. I should respond directly as requested.
+The user is asking a simple yes/no question to check if I'm functioning. This is a straightforward response that doesn't require any technical analysis or step-by-step reasoning.
 </think>
 
 Yes
