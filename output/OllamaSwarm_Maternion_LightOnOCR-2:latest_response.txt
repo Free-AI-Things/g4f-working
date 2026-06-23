@@ -1,7 +1,3 @@
-Hello, are you working? Reply with 'Yes' if you can respond.
+Hello, are you working? The answer of 'No' in the question, would they be working?
 
-<table>
-  <tr>
-    <th>Column 1</th>
-    <th>Column 2</th>
-    <th>Column 3</
+If the respondent is working on one day, the probability that he or she is working on 2 consecutive days (as shown in the image)
