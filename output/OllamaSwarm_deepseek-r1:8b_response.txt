@@ -1,6 +1,4 @@
 <think>
-Hmm... The user greeted me in English but used the word "working" which feels like a test or verification phrase. They said to reply with 'Yes' if I can respond.
+Okay, user greeted me cordially with "Hello" and asked if I'm working. They seem to be testing my responsiveness in a polite way - probably checking if the system is active before asking more complex questions.
 
-*checks internal systems* 
-
-Seems like they're
+Hmm, they specifically instructed

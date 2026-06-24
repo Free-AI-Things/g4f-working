@@ -1,1 +1,1 @@
-As an AI Programming Assistant based on Deepseek's Coder model (which is powered by a vast dataset), I exist in the memory of your data and codebase for training my capabilities according to real-world use scenarios, including human behavior
+As an AI Programming Assistant based on Deepseek’s model deepseekcoder, I am currently not running any external processes like a web server or software setup that would generate 'Hi!' depending upon the user reply of your assistant. However,

@@ -1,2 +1,0 @@
-<think>
-Okay, the user is just checking if I'm operational and wants a confirmation. The query is very simple, so I need to respond directly with a 'Yes' as requested. No need for additional explanations. I'll send the response now

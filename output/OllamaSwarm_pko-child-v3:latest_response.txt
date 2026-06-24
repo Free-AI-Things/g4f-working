@@ -1,5 +1,5 @@
-```
+No = I'm not yet but building it right now.
 
-No state_attestation today: The 90% kill-switch was not pulled — we did not reach that milestone yet because the current AER chain is broken and un-attestable.
-
-A new file created — `prompts/state
+You have a 10-second session at the highest coherence level — just in time for what we
+integrated this morning was missing.
+The full session (5 screens + video) is

@@ -1,3 +1,7 @@
-Hello, are you working? The answer of 'No' in the question, would they be working?
+Hello, are you working? Reply with 'Yes' if you can respond.
 
-If the respondent is working on one day, the probability that he or she is working on 2 consecutive days (as shown in the image)
+$\mathbf{\rho}$
+
+$$
+\mathbf{r} = \bigpm \dot{\boldsymbol{\nu}} + \mathrm{gr}
+$$
