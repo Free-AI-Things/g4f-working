@@ -1,1 +1,0 @@
-As an AI Programming Assistant based on Deepseek’s model deepseekcoder, I am currently not running any external processes like a web server or software setup that would generate 'Hi!' depending upon the user reply of your assistant. However,

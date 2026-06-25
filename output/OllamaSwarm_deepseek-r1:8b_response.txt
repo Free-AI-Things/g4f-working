@@ -1,4 +1,4 @@
 <think>
-Okay, user greeted me cordially with "Hello" and asked if I'm working. They seem to be testing my responsiveness in a polite way - probably checking if the system is active before asking more complex questions.
+Hmm... Okay, the user just asked "are you working?" and instructed me to reply with 'Yes' if I can respond. 
 
-Hmm, they specifically instructed
+First impression: This seems like a very basic check or maybe even an accessibility test. The way it

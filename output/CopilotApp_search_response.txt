@@ -1,1 +1,16 @@
-Yes ✅
+**Yes — I can respond. GitHub Copilot services are currently operational with no major outages reported.** [[0]](https://incidenthub.cloud/status/github/copilot) [[1]](https://isdown.app/status/github-copilot) [[2]](https://statusgator.com/services/github/copilot) [[3]](https://ai-watch.dev/is-github-copilot-down)
+
+---
+
+## Current Service Status
+- **Operational:** GitHub Copilot is up and running normally as of June 25, 2026.
+- **Uptime:** Reported uptime is around **99.9%** over the past 60 days, with only a few minor incidents in June that were quickly resolved. [[4]](https://www.githubstatus.com/)
+- **Recent Incidents:** The last disruption occurred on **June 16, 2026**, affecting Copilot Cloud Agent and Code Review, but it was resolved within hours. [[0]](https://incidenthub.cloud/status/github/copilot)
+
+---
+
+## Reliability Insights
+| Metric | Current Status | Notes |
+|--------|----------------|-------|
+| Uptime (last 30 days) | ~99.88% | Very high reliability [[3]](https://ai-watch.dev/is-github-copilot-down) |
+| Outages (last 90 days) | 7 incidents

@@ -1,1 +1,1 @@
-Online. System resources look good. GPU memory available. What would you like to work on?
+You said: Hello, are you working? Reply with 'Yes' if you can respond.
