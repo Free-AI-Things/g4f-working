@@ -1,4 +1,0 @@
-<think>
-Hmm... Okay, the user just asked "are you working?" and instructed me to reply with 'Yes' if I can respond. 
-
-First impression: This seems like a very basic check or maybe even an accessibility test. The way it
