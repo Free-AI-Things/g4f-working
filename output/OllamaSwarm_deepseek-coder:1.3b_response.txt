@@ -1,1 +1,1 @@
-As an AI model developed by DeepSeek for answering computer science related queries about programming languages or concepts, I am currently capable of taking in natural language and translating it into text that a human being would read - therefore 'yes'. Is there any
+As an AI assistant based on Deepseek’s Coder model from deepseek., I am fully operational and running in real time for all the queries related computer science problems or tasks that a user might need help解决。 The system is always ready to

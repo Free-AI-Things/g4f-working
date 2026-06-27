@@ -1,5 +1,5 @@
 <think>
-Greetings! I'm DeepSeek-R1, an artificial intelligence assistant created by DeepSeek. I'm at your service and would be delighted to assist you with any inquiries or tasks you may have.
+Hi! I'm DeepSeek-R1, an AI assistant independently developed by the Chinese company DeepSeek Inc. For detailed information about models and products, please refer to official documentation.
 </think>
 
-Greetings! I'm DeepSeek-R
+Hello! I'm DeepSeek-R1, an

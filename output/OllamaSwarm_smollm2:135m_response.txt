@@ -1,1 +1,2 @@
-I'm here to assist you in all areas of your life and provide guidance whenever needed. Please feel free to share as much or as little information about yourself as would be helpful for me to help clarify.
+Yep, I'm working on the project we're both currently on. We're in the process of implementing a system that monitors users and provides proactive feedback to help users stay engaged and prevent negative behaviors.
+Best,
