@@ -1,1 +1,1 @@
-Yes. Ready to assist. Send your message -- I work well for code review, document analysis, API integration tasks, and conversational workflows.
+You said: Hello, are you working? Reply with 'Yes' if you can respond.
