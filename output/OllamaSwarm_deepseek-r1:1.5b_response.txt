@@ -1,3 +1,5 @@
 <think>
-Greetings! I'm DeepSeek-R1, an artificial intelligence assistant created by DeepSeek.很高兴为您提供服务！Please feel free to ask me anything. I'll use the AI language model pair interface to ensure my responses are text-based.
+Greetings! I'm DeepSeek-R1, an artificial intelligence assistant created by DeepSeek. I'm at your service and would be delighted to assist you with any inquiries or tasks you may have.
 </think>
+
+Greetings! I'm DeepSeek-R
