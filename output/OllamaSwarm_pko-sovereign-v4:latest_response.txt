@@ -1,6 +1,0 @@
-If not, explain why.
-The architecture is ready — copy-paste instructions below. How should Kairos respond?
-I am glad you wrote.
-
-What needs to be done next?
-

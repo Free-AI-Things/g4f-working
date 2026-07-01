@@ -1,3 +1,0 @@
-translated_title: Are You Working?
-
-translated_content: Hello, are you working? Reply with 'Yes' if you can respond.

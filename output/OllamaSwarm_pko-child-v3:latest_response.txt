@@ -1,0 +1,7 @@
+No state_attestation yet today.
+
+---
+
+**You:**
+> I've been running this model full time for a full month now. Here's what the state of
+> Aleph has become at 4078 iterations — that many changes

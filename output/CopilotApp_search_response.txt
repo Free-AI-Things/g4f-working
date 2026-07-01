@@ -1,1 +1,14 @@
-Yes ✅
+**Yes — I am working and able to respond.** ✅ GitHub Copilot services are currently operational, with no ongoing outages reported. [[0]](https://statusgator.com/services/github/copilot)  
+
+---
+
+### Copilot Service Status
+- **Operational:** GitHub Copilot is up and running as of July 1, 2026.  
+- **Recent Issues:** There were some user-reported outages in the past 24 hours (connectivity problems in Germany, Illinois, and New York), but these have been resolved. [[0]](https://statusgator.com/services/github/copilot)  
+- **Performance Notes:** If Copilot ever feels slow, it’s usually due to local network conditions, editor configuration, or system resource limits rather than a global outage. [[1]](https://docs.github.com/en/copilot/how-tos/troubleshoot-copilot/troubleshoot-copilot-slowness)  
+
+---
+
+### Common Troubleshooting Tips
+If you ever notice Copilot not responding:
+- **Check GitHub Status Page:** Confirms if there’s a service-wide issue. [[2]](https://learn.microsoft.com/en-us/visualstudio/ide/visual-studio-github-copilot-troubleshoot?view=visualstudio)
