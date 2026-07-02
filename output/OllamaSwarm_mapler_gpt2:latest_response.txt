@@ -1,1 +1,1 @@
-So that's the 'yes' of a reply. If it isn't <inserting any response', I'm using my own address instead.[/api/4] You need to ask for me first before asking [name, email]. Reply with
+I'm sorry I got distracted. Please do answer once my phone starts ringing or call me back later tomorrow after 11PM''. <pause> <<tries to use the headset>><<if _ISC == 0>>you're not listening.<endif

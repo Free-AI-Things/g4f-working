@@ -1,4 +1,4 @@
 <think>
-Okay, the user is asking if I'm working. They want me to reply with 'Yes' if I can respond. Let me check the instructions again.
+Okay, the user is asking, "Hello, are you working? Reply with 'Yes' if you can respond." Let me think.
 
-The user specified: "Reply with 'Yes' if you can respond."
+First, I need to check if I can respond. Since I'm an AI, I can

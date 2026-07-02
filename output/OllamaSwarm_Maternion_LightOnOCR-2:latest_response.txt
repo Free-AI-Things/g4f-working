@@ -1,12 +1,5 @@
 Hello, are you working? Reply with 'Yes' if you can respond.
 
----
+I am 78 years old and have my first aid kit ready for use.
 
-**Hello, [Name]**
-
-<table>
-  <tr>
-    <td>2</td>
-    <td></td>
-  </tr>
-</table
+My last resort is a car seat to accommodate the entire patient and others who need it
