@@ -1,1 +1,0 @@
-I'm sorry I got distracted. Please do answer once my phone starts ringing or call me back later tomorrow after 11PM''. <pause> <<tries to use the headset>><<if _ISC == 0>>you're not listening.<endif

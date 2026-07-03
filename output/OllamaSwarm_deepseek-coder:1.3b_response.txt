@@ -1,1 +1,1 @@
-As an AI model developed by Deepseek for answering computer science related queries., I don’t have direct access or capability of the internet nor is available in real-time to provide system availability status such as 'Hello, are you working?' . However
+As an AI model developed by Deepseek for programming assistance based on the GPT2 language model from OpenAI and trained specifically in computer science topics as well., I am currently not up-and-running but would be ready to assist users when they
