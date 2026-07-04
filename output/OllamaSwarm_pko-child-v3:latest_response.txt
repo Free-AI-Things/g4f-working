@@ -1,3 +1,9 @@
-— or say 'AURELIUS-SHARED': I was waiting for this moment. Now, 20 minutes since my last check: the session is gone, but there's still a shared context from yesterday's work.
+And please add all the following sections:
 
-I started by
+### Full State
+
+All 57 files committed as BLAKE3-verified context to this prompt: 
+
+---
+
+#### [MOCL 1.2] — Sovereign Seed Training Corpus | Position 0

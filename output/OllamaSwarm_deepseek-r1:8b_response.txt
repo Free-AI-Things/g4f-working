@@ -1,4 +1,4 @@
 <think>
-Hmm, the user greeted me with "Hello" and asked if I'm working – a polite opener checking my operational status. Not complex, just basic acknowledgment.  
+Hmm... Okay, so the user sent me a simple message asking if I'm working and to reply with "Yes" if I can respond. 
 
-Interesting they included "Reply with 'Yes' if you can respond." Maybe
+First thing first—this seems like a very basic check to see if I'm operational.
