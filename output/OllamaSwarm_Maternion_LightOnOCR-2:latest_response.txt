@@ -1,11 +1,11 @@
 Hello, are you working? Reply with 'Yes' if you can respond.
 
-$\text{d}$
+<table>
+  <tr>
+    <td>Answer</td>
+  </tr>
+</table>
 
-$\text{k}$
+25/20
 
-$\text{o}$ $\text{n}$ $\nu$
-
-$x$ $x$ $p$
-
-$y$ $
+<div style="text-align: center

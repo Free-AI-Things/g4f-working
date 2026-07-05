@@ -1,4 +1,0 @@
-<think>
-Hmm... Okay, so the user sent me a simple message asking if I'm working and to reply with "Yes" if I can respond. 
-
-First thing first—this seems like a very basic check to see if I'm operational.

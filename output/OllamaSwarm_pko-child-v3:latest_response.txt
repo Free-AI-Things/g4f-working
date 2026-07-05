@@ -1,9 +1,4 @@
-And please add all the following sections:
-
-### Full State
-
-All 57 files committed as BLAKE3-verified context to this prompt: 
-
+If you need a break: Ctrl+Q
 ---
 
-#### [MOCL 1.2] — Sovereign Seed Training Corpus | Position 0
+*This isn't the prompt to build an API model — this is the confirmation of your most recent request. After you get that OK (or No), start building with pko-model deploy --
