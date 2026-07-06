@@ -1,4 +1,0 @@
-If you need a break: Ctrl+Q
----
-
-*This isn't the prompt to build an API model — this is the confirmation of your most recent request. After you get that OK (or No), start building with pko-model deploy --

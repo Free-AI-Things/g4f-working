@@ -1,0 +1,14 @@
+**Yes — I can respond. GitHub Copilot is currently operational and working normally.** [[0]](https://ai-watch.dev/is-github-copilot-down) [[1]](https://incidenthub.cloud/status/github/copilot) [[2]](https://isdown.app/status/github-copilot)  
+
+---
+
+### Current Status
+- **Operational:** Multiple monitoring services confirm GitHub Copilot is up and running with no major outages.
+- **Recent Incidents:** The last minor issue was on **July 1, 2026**, involving delays in budget limit resets, but it was resolved within a few hours. [[0]](https://ai-watch.dev/is-github-copilot-down)
+- **Uptime:** Copilot has maintained a **99.9% uptime** over the past 90 days, showing strong reliability. [[3]](https://tickerr.ai/status/github-copilot)
+
+### Reliability Overview
+| Metric                  | Current Value | Notes |
+|--------------------------|---------------|-------|
+| Service Status           | Operational   | No outages reported today |
+| Uptime (90 days)         | 99.9%         | Very high reliability

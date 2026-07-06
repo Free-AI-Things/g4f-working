@@ -1,0 +1,4 @@
+<think>
+Okay, the user just greeted me and asked if I'm working. Hmm, interesting phrasing - they're basically checking my availability by asking a "human-like" question about work.
+
+The wording is quite casual ("Hello", no punctuation)

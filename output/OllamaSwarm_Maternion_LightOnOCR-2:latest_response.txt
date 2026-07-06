@@ -1,11 +1,1 @@
-Hello, are you working? Reply with 'Yes' if you can respond.
-
-<table>
-  <tr>
-    <td>Answer</td>
-  </tr>
-</table>
-
-25/20
-
-<div style="text-align: center
+Hello, are you working ? Reply what is your name ?  reply what role do you have ?  ask more or ask an old question for now , thank you |
