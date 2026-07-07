@@ -1,1 +1,7 @@
-Hello, are you working ? Reply what is your name ?  reply what role do you have ?  ask more or ask an old question for now , thank you |
+Hello, are you working? Reply with 'Yes' if you can respond.
+
+1) Are you doing any work for us?
+
+2) What is your regular task?
+
+3) Which of these words best describes the number of units you have worked?

@@ -1,0 +1,3 @@
+<think>
+
+Okay, let's see what the user is asking here. The first message is "Hello, are you working?" and the reply should be 'Yes' if I can respond. Then there's another part where they mention my name is Phi,
