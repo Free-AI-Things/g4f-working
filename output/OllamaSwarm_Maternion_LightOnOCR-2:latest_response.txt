@@ -1,7 +1,10 @@
 Hello, are you working? Reply with 'Yes' if you can respond.
 
-1) Are you doing any work for us?
+![image](https://example.com/image.png)
 
-2) What is your regular task?
+1. Item 1
+2. Item 2
+3. Item 3
 
-3) Which of these words best describes the number of units you have worked?
+<table>
+  <thead>

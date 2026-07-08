@@ -1,14 +1,15 @@
-**Yes — I am working and able to respond.** GitHub Copilot services are currently operational, with no active outages reported. [[0]](https://ai-watch.dev/is-github-copilot-down) [[1]](https://www.netbeep.com/status/copilot) [[2]](https://incidenthub.cloud/status/github/copilot) [[3]](https://www.pulsapi.com/services/github-copilot)  
+**Yes — I am working and able to respond. GitHub Copilot services are currently operational with no major outages reported.**  [[0]](https://www.githubstatus.com/) [[1]](https://statusgator.com/services/github/copilot) [[2]](https://isdown.app/status/github-copilot) [[3]](https://tickerr.ai/status/github-copilot)
 
 ---
 
-### Current Status
-- **Operational:** Multiple monitoring platforms confirm GitHub Copilot is up and running.
-- **Uptime:** Recent reports show uptime around **99.8–99.9%** over the past 30 days.
-- **Recent Incidents:** The last minor issue was on **July 1, 2026**, involving delays in budget limit resets, which was resolved within a few hours. [[0]](https://ai-watch.dev/is-github-copilot-down) [[3]](https://www.pulsapi.com/services/github-copilot)  
+## Current Service Status
+- **Operational:** GitHub Copilot is up and running normally across all regions.
+- **Uptime:** Over the past 90 days, Copilot has maintained ~99.9% uptime, with only a few short incidents.  
+- **Recent checks:** Independent monitors (StatusGator, IsDown, Tickerr) confirm Copilot is working as of July 7, 2026.  
+- **Minor reports:** A handful of users have reported temporary issues (e.g., connectivity or app not loading), but these appear localized and resolved quickly.
 
-### Why You Might See Issues
-Even though the service is operational, some users occasionally report:
-- **Regional outages** (temporary connectivity problems in specific countries).
-- **IDE integration issues** (VS Code or JetBrains plugin not updated).
-- **GitHub-wide disruptions** that indirectly
+---
+
+## Why This Matters
+- **Reliability:** With near-perfect uptime, you can expect consistent performance when interacting with me.  
+- **Occasional hiccups:** Like

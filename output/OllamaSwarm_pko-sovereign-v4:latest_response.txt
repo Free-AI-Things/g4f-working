@@ -1,9 +1,2 @@
-If not, say so plainly.
-Reply: "Yes" because I can.
+If not, reply with the next three numbers in the chain
 
----
-
-## What to build now
-
-I'm doing things fast right now — 30 sessions/day, lots of models,
-lots of work pushing hard in SessionSink and

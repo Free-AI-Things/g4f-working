@@ -1,4 +1,2 @@
 <think>
-Okay, the user asked, "Hello, are you working? Reply with 'Yes' if you can respond." I need to check if I can respond.
-
-Since I'm an AI assistant, I can definitely respond. So I should
+Okay, the user asked, "Hello, are you working? Reply with 'Yes' if you can respond." Let me think. The assistant is supposed to reply with 'Yes' if it can respond. Since I'm an AI
