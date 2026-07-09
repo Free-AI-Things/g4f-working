@@ -1,1 +1,1 @@
-As an AI model developed by Deepseek company for programming assistance related to computer science topics specifically in a context such as coding problems or answering technical queries about software development principles used across multiple industries (like data structures and algorithms, machine learning models etc). I
+As an AI model developed by Deepseek based on the GPT2 language model (providing responses in a similar manner as OpenAI), I don't need to perform any interactive interactions - ie., when asked, my response is 'NO

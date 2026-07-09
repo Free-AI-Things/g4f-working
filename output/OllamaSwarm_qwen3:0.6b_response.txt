@@ -1,0 +1,4 @@
+<think>
+Alright, the user said, "Hello, are you working?" and I need to respond with "Yes" if possible. 
+
+First, I need to check if I'm available or working. Since the user is asking, I should respond

@@ -1,1 +1,0 @@
-4) How do you know if your password is good enough? At least 8 characters long and include at least 1 uppercase letter, 1 lowcase letter, 2 numbers, and 2 symbols.

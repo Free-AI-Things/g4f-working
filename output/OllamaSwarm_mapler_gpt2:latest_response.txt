@@ -1,1 +1,1 @@
-Now we need to do our jobs. First get some things out of the way first and follow a few pointers: <jpeg format=\"jpg(0, 0, 2px)\" width=\"360\" height="240">[[^A2
+Ok so what should we use in the new client(s)? The following example uses a simple helper to keep track of your IP address. It checks for 192.175.* from /etc/hostname/, then executes it with some parameters: #

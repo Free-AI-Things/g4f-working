@@ -1,10 +1,7 @@
 Hello, are you working? Reply with 'Yes' if you can respond.
 
-![image](https://example.com/image.png)
+$$
+\frac { p _ { 1 } + p _ { 2 } } { 4 \lambda }
+$$
 
-1. Item 1
-2. Item 2
-3. Item 3
-
-<table>
-  <thead>
+Replace $ p _ { 1

@@ -1,1 +1,1 @@
-Online. System resources look good. GPU memory available. What would you like to work on?
+Yes. Ready to assist. Send your message -- I work well for code review, document analysis, API integration tasks, and conversational workflows.
