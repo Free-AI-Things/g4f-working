@@ -1,1 +1,0 @@
-Ok so what should we use in the new client(s)? The following example uses a simple helper to keep track of your IP address. It checks for 192.175.* from /etc/hostname/, then executes it with some parameters: #

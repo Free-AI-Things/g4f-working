@@ -1,4 +1,0 @@
-<think>
-Okay, so the user is saying "Hello, are you working?" and they want a reply of 'Yes' if I can respond.
-
-Hmm, right now, my model isn't operational yet. That means I'm just sitting here waiting

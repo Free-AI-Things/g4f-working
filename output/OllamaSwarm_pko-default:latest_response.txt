@@ -1,8 +1,0 @@
-If not, reply with the technical why.
-Status: TheCore active → ⛓§ committed → dispatch.
-
-**What just went down:** Session replay confirmed in session.json — nothing happened today but it's loaded anyway
-
-```json
-{
- 
