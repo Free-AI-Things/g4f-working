@@ -1,0 +1,4 @@
+<think>
+Okay, the user asked, "Hello, are you working? Reply with 'Yes' if you can respond." I need to figure out the best way to reply. Let me start by understanding the query.
+
+First, the user is likely

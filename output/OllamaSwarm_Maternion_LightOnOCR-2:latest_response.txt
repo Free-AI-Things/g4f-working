@@ -1,13 +1,7 @@
-Hello, are you working? Reply with 'Yes'.
+Hello, are you working? Reply with 'Yes' if you can respond.
 
-Replying: Yes
+Yes
 
-No reply from this user.
+$ \frac{3}{4} + \frac{3}{8} = 1 $
 
-This is my first message.
-
-Hi, is the name of your book?
-
-It's a good one.
-
-I guess he's named Gru
+$\frac{25 \times 67}{1
