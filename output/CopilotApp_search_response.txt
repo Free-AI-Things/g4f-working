@@ -1,8 +1,14 @@
-**Yes. I can respond.**
+**Yes — I am working and able to respond. GitHub Copilot is currently operational with no major outages reported.** [[0]](https://ai-watch.dev/is-github-copilot-down) [[1]](https://www.pulsapi.com/services/github-copilot) [[2]](https://tickerr.ai/status/github-copilot)
 
-GitHub Copilot and its AI models are currently active and available across multiple platforms and plans. The Copilot app has been released broadly, supporting Free, Education, Business, and Enterprise users, and integrates with OpenAI’s GPT‑5.6 family (Sol, Terra, Luna) to provide different levels of reasoning and efficiency for coding tasks [[0]](https://github.blog/changelog/2026-07-07-github-copilot-app-available-to-all/) [[1]](https://github.blog/changelog/2026-07-09-openais-gpt-5-6-sol-terra-and-luna-are-now-available-in-github-copilot/). This means the system is functioning and ready to assist developers with code suggestions, reasoning over large codebases, and everyday agentic tasks.
+---
 
-### Key Points
-- **Availability:** The Copilot app is accessible on macOS, Windows, and Linux, with support for all Copilot plans [[0]](https://github.blog/changelog/2026-07-07-github-copilot-app-available-to-all/).
-- **Models:** GPT‑5.6 Sol (high reasoning), Terra (balanced), and Luna (lightweight, cost‑efficient) are integrated [[1]](https://github.blog/changelog/2026-07-09-openais-gpt-5-6-sol-terra-and-luna-are-now-available-in-github-copilot/).
-- **Plans:** Free
+### Current Status
+- **Operational:** Multiple independent monitors confirm GitHub Copilot is up and running.
+- **Uptime:** Recent checks show uptime above **99.8%** over the past 90 days.
+- **Recent Incidents:** Minor issues were reported earlier in July (delays in budget resets and GitHub Actions), but all have been resolved.
+
+### Reliability Overview
+| Source       | Status (as of July 13, 2026) | Uptime | Notes |
+|--------------|------------------------------|--------|-------|
+| StatusGator  | Service up                   | N/A    | Some user-reported outages, but overall operational. [[3]](https://statusgator.com/services/github/copilot) |
+| AIWatch      | Operational                  | 99.89% | Ranked #9 of 34 AI services

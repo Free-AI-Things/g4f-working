@@ -1,1 +1,5 @@
-Greetings!
+<think>
+Greetings! I'm DeepSeek-R1, an artificial intelligence assistant created by deepSeek. I'm at your service and would be delighted to assist you with any inquiries or tasks you may have.
+</think>
+
+Greetings! I'm DeepSeek-R

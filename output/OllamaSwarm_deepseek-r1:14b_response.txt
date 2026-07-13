@@ -1,1 +1,4 @@
-You said: Hello, are you working? Reply with 'Yes' if you can respond.
+<think>
+Alright, so I just got this message asking me, "Are you working?", and the reply was just "Yes." Hmm, okay, let's try to unpack that a bit.
+
+First off, I'm not entirely sure what the exact
