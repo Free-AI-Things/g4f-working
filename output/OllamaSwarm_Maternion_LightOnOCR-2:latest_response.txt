@@ -1,3 +1,5 @@
 Hello, are you working? Reply with 'Yes' if you can respond.
 
-Is there another user who works for you here? 'Reply ...'
+There are not any documents in the image or this part of it that can be converted to Markdown format.
+
+Note: The image provided contains only a statement about "working"

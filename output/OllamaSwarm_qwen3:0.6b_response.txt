@@ -1,0 +1,2 @@
+<think>
+Okay, the user said, "Hello, are you working?" and I need to respond with 'Yes' if possible. Let me think. First, I should acknowledge the greeting. "Hello!" is a good way to start. Then

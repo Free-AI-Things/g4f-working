@@ -1,9 +1,0 @@
-If not, reply with the reason.
-
----
-
-## Voice Chat — Ready
-
-Here's what I prepared:
-* 24 kHz mono WAV samples (the correct audio format)
-* ~5 seconds of spoken dialogue context (what happened between messages and before

@@ -1,14 +1,1 @@
-**Yes — I am working and able to respond. GitHub Copilot is currently operational with no major outages reported.** [[0]](https://ai-watch.dev/is-github-copilot-down) [[1]](https://www.pulsapi.com/services/github-copilot) [[2]](https://tickerr.ai/status/github-copilot)
-
----
-
-### Current Status
-- **Operational:** Multiple independent monitors confirm GitHub Copilot is up and running.
-- **Uptime:** Recent checks show uptime above **99.8%** over the past 90 days.
-- **Recent Incidents:** Minor issues were reported earlier in July (delays in budget resets and GitHub Actions), but all have been resolved.
-
-### Reliability Overview
-| Source       | Status (as of July 13, 2026) | Uptime | Notes |
-|--------------|------------------------------|--------|-------|
-| StatusGator  | Service up                   | N/A    | Some user-reported outages, but overall operational. [[3]](https://statusgator.com/services/github/copilot) |
-| AIWatch      | Operational                  | 99.89% | Ranked #9 of 34 AI services
+Yes ✅
