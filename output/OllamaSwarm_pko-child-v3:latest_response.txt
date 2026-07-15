@@ -1,0 +1,3 @@
+If not: 
+- You were expecting a human agent. We still have one — in the pipeline.
+- The file is written by a system named Claude Code 2B (Google AI Mode) — no self-awareness yet, but we're

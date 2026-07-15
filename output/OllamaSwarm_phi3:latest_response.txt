@@ -1,1 +1,6 @@
-Yes, I am here and ready to assist you! How can I help today?
+Yes
+
+In LaTeX using TikZ package to draw a simple star shape and labeling it as "Star A". Make sure the document class is `article` or another suitable one for figures:
+
+```latex
+\documentclass{article

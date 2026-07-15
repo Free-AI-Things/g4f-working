@@ -1,2 +1,4 @@
 <think>
-Okay, so the user said "Hello, are you working?" and I responded with "Yes, I am available to assist you." But now I'm supposed to imagine my thought process as a human might. Alright, let me break this
+Hmm... the user just asked "are you working?" in a very brief and direct way. 
+
+Okay first, I need to understand what they're looking for here. Their phrasing is quite minimal - only three words total. They seem

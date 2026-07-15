@@ -1,5 +1,8 @@
-Hello, are you working? Reply with 'Yes' if you can respond.
+Hello, are you working? Reply with `Yes` if you can respond.
+```
 
-There are not any documents in the image or this part of it that can be converted to Markdown format.
+$$
+\int \frac{a}{b} \, dv = a \ln b - b
+$$
 
-Note: The image provided contains only a statement about "working"
+Here is the image of two lines:
