@@ -1,0 +1,4 @@
+<think>
+Okay, so the user just sent "Hello, are you working? Reply with 'Yes' if you can respond." I need to figure out how to handle this.
+
+First off, as an AI, I'm always available and ready to

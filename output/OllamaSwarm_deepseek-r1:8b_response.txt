@@ -1,4 +1,4 @@
 <think>
-Hmm... the user just asked "are you working?" in a very brief and direct way. 
+Okay, user just asked "are you working?" and instructed to reply 'Yes' if I can respond. 
 
-Okay first, I need to understand what they're looking for here. Their phrasing is quite minimal - only three words total. They seem
+Hmm, this seems like a very polite way of checking my availability first before diving into actual questions. The phrasing is interesting

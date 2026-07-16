@@ -1,0 +1,6 @@
+If you cannot, say either: "I cannot help" or "Please try again — I'm not the AI". Be precise.
+Answer in English.
+
+---
+
+# How does Cerebras (Alpaca-2.5B) handle G
