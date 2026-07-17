@@ -1,4 +1,0 @@
-If not, reply with a song I want to build.
-Please use the PKO workflow vocabulary. Be technical and specific. Never AI terminology like "compressed state" — those words exist ONLY when you actually need them in that particular architectural context.
-
-Assistant

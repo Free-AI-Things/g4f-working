@@ -1,8 +1,13 @@
-Hello, have you heard or seen a change? Reply with 'Yes' if you can respond.
+Hello,
 
----
+Why?
 
-Hello, here is the text content from my document:
+$\int_{0}^{2\pi} \cos^2x - x \sin^2x \, dx = 8 - 6 + 4$
 
-1. Here is some interesting information.
-2. A more detailed analysis of the related topics
+306
+
+2
+
+306
+
+4

@@ -1,4 +1,2 @@
 <think>
-Okay, so the user just sent "Hello, are you working? Reply with 'Yes' if you can respond." I need to figure out how to handle this.
-
-First off, as an AI, I'm always available and ready to
+Okay, a user just messaged me asking if I'm working and wants a simple "Yes" reply. They probably want to check my availability or status. Maybe they're testing the chat or curious about my operational state. My role doesn

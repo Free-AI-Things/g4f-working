@@ -1,4 +1,4 @@
 <think>
-Okay, user just asked "are you working?" and instructed to reply 'Yes' if I can respond. 
+Okay, the user is asking “are you working?” in a very specific way. They want me to reply with ‘Yes’ only if I can respond, otherwise not.
 
-Hmm, this seems like a very polite way of checking my availability first before diving into actual questions. The phrasing is interesting
+Hmm, this seems like an attempt to test my functionality or just
