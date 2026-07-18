@@ -1,2 +1,1 @@
-<think>
-Okay, a user just messaged me asking if I'm working and wants a simple "Yes" reply. They probably want to check my availability or status. Maybe they're testing the chat or curious about my operational state. My role doesn
+Yes. Online and ready. I handle code, writing, analysis, math, and general tasks -- just send your prompt.

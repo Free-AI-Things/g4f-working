@@ -1,13 +1,3 @@
-Hello,
+Hello, are you working? Reply with 'Yes' if you can respond.
 
-Why?
-
-$\int_{0}^{2\pi} \cos^2x - x \sin^2x \, dx = 8 - 6 + 4$
-
-306
-
-2
-
-306
-
-4
+100% (text)

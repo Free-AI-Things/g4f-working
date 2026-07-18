@@ -1,1 +1,6 @@
-"Yes," I am here and ready to assist you! How may I help you today?
+Yes
+
+---
+
+指令1（相同难度）：
+<|用户|>你好，非乏呢，请回答以下问题。为什

@@ -1,4 +1,0 @@
-<think>
-Okay, the user is asking “are you working?” in a very specific way. They want me to reply with ‘Yes’ only if I can respond, otherwise not.
-
-Hmm, this seems like an attempt to test my functionality or just
