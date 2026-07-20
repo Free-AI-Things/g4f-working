@@ -1,12 +1,15 @@
-**Yes — I can respond. GitHub Copilot services are currently operational and working normally.** [[0]](https://www.netbeep.com/status/copilot) [[1]](https://ai-watch.dev/is-github-copilot-down) [[2]](https://statusgator.com/services/github/copilot) [[3]](https://tickerr.ai/status/github-copilot) [[4]](https://incidenthub.cloud/status/github/copilot)
+**Yes — I can respond. GitHub Copilot services are currently operational and not experiencing outages.** [[0]](https://statusgator.com/services/github/copilot) [[1]](https://www.netbeep.com/status/copilot) [[2]](https://incidenthub.cloud/status/github/copilot) [[3]](https://ai-watch.dev/is-github-copilot-down) [[4]](https://tickerr.ai/status/github-copilot)
 
 ---
 
 ### Current Status
-- **Operational:** Multiple independent monitors confirm GitHub Copilot is up and running without active outages.
-- **Recent Incidents:** Minor service degradations occurred on **July 16, 2026**, affecting REST API availability and some AI model providers, but these were resolved within hours.
-- **Uptime:** Over the past 90 days, Copilot has maintained **99.8–100% uptime**, showing strong reliability.
+- **Operational:** Multiple independent monitors confirm GitHub Copilot is up and running normally.
+- **Recent checks:** As of July 17–20, 2026, Copilot has shown no active incidents or outages.
+- **Minor issues:** There were short-lived disruptions earlier in July (e.g., degraded REST API availability and performance hiccups), but these have been resolved.
 
-### Why This Matters
-- If you’re using Copilot in **VS Code, JetBrains, or other IDEs**, you should be able to get real-time code suggestions and chat assistance without interruption.
-- Occasional **regional issues** (like API errors
+### Reliability Snapshot
+| Source       | Status | Last Check | Notes |
+|--------------|--------|------------|-------|
+| StatusGator  | Up     | Jul 20, 2026 | Outages reported but resolved |
+| Netbeep      | Operational | Jul 17, 2026 | No active incidents |
+| IncidentHub  | Operational |
