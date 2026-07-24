@@ -1,13 +1,13 @@
-**Yes — I am working and able to respond.** GitHub Copilot services are currently operational with no active outages or disruptions reported. [[0]](https://ai-watch.dev/is-github-copilot-down) [[1]](https://www.netbeep.com/status/copilot) [[2]](https://incidenthub.cloud/status/github/copilot) [[3]](https://tickerr.ai/status/github-copilot)  
+**Yes — I am working and able to respond.** GitHub Copilot services are currently operational with no major outages reported. [[0]](https://ai-watch.dev/is-github-copilot-down) [[1]](https://statusgator.com/services/github/copilot) [[2]](https://incidenthub.cloud/status/github/copilot) [[3]](https://tickerr.ai/status/github-copilot) [[4]](https://www.entireweb.com/status/github-copilot)
 
 ---
 
-### Current Status
-- **Operational:** Multiple independent monitors confirm GitHub Copilot is up and running.
-- **Recent incidents:** The last minor disruption occurred on July 20, 2026, related to the GPT 5.3 Codex model, but it was resolved within a few hours. [[0]](https://ai-watch.dev/is-github-copilot-down) [[1]](https://www.netbeep.com/status/copilot)
-- **Uptime:** Over the past 90 days, Copilot has maintained ~99.8% uptime, with only a handful of short-lived issues. [[3]](https://tickerr.ai/status/github-copilot)
+### Current Service Status
+- **Operational:** Multiple independent monitors confirm GitHub Copilot is up and running smoothly.
+- **Recent checks:** Status pages updated within the last few minutes show no active incidents.
+- **Uptime:** Over the past 90 days, Copilot has maintained ~99.8–100% uptime, with only minor disruptions quickly resolved.
 
-### Reliability Overview
-| Metric                  | Current Value | Notes |
-|--------------------------|---------------|-------|
-| Service Status           | Operational   | No active incidents
+### Reliability Insights
+- **Minor incidents:** Occasional short-lived issues (e.g., latency spikes or authentication glitches) have been reported, but none are ongoing.
+- **Global reports:** Some users in different regions occasionally report connectivity problems, but these are localized and not widespread.
+- **Recovery times
