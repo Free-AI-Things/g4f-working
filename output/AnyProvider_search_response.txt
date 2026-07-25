@@ -1,13 +1,14 @@
-**Yes — I am working and able to respond.** GitHub Copilot services are currently operational with no major outages reported. [[0]](https://ai-watch.dev/is-github-copilot-down) [[1]](https://statusgator.com/services/github/copilot) [[2]](https://incidenthub.cloud/status/github/copilot) [[3]](https://tickerr.ai/status/github-copilot) [[4]](https://www.entireweb.com/status/github-copilot)
+**Yes — I am working and able to respond.** GitHub Copilot services are currently operational with no active outages reported. [[0]](https://www.netbeep.com/status/copilot) [[1]](https://statusgator.com/services/github/copilot)  
 
 ---
 
-### Current Service Status
-- **Operational:** Multiple independent monitors confirm GitHub Copilot is up and running smoothly.
-- **Recent checks:** Status pages updated within the last few minutes show no active incidents.
-- **Uptime:** Over the past 90 days, Copilot has maintained ~99.8–100% uptime, with only minor disruptions quickly resolved.
+### Current Status
+- **Operational:** GitHub Copilot is up and running as of July 24, 2026.  
+- **No active incidents:** All monitored components (API requests, Codespaces, Copilot AI Model Providers, etc.) are functioning normally. [[0]](https://www.netbeep.com/status/copilot) [[2]](https://www.pulsapi.com/services/github-copilot)  
+- **Recent issues resolved:** Minor disruptions (e.g., latency and hosted runner problems) occurred earlier this week but have already been fixed. [[2]](https://www.pulsapi.com/services/github-copilot)  
 
-### Reliability Insights
-- **Minor incidents:** Occasional short-lived issues (e.g., latency spikes or authentication glitches) have been reported, but none are ongoing.
-- **Global reports:** Some users in different regions occasionally report connectivity problems, but these are localized and not widespread.
-- **Recovery times
+### Reliability Snapshot
+| Metric | Current Value | Notes |
+|--------|---------------|-------|
+| Uptime (30 days) | ~98–100% | Very stable overall [[3]](https://ai-watch.dev/is-github-copilot-down) [[2]](https://www.pulsapi.com/services/github-copilot) |
+| Recent incidents | 2–3 minor | All
