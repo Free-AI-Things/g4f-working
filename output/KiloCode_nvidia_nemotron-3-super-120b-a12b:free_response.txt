@@ -1,3 +1,1 @@
-Okay, the user is asking if I'm working and wants a simple 'Yes' response if I can reply. Let me check my status.
-
-I'm Nemotron 3 Super, created by NVIDIA. I'm designed to handle queries like
+We need to reply with 'Yes' if we can respond. The user says: "Hello, are you working? Reply with 'Yes' if you can respond." So we must answer exactly "Yes". Probably no extra punctuation? The instruction
