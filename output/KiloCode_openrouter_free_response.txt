@@ -1,3 +1,0 @@
-We are given a user message: "Hello, are you working? Reply with 'Yes' if you can respond."
- The user asks: "Reply with 'Yes' if you can respond."
- Therefore, we must output exactly the string "Yes"
