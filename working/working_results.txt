@@ -1,6 +1,12 @@
 BraveSearch|brave|text
-HuggingSpace|command-a|text
-HuggingSpace|command-a-03-2025|text
-HuggingSpace|command-r-08-2024|text
+BraveSearch|brave-deep-research|text
+BlackForestLabs_Flux1Dev|flux-dev|text
 HuggingSpace|command-r|text
+HuggingSpace|command-r7b-12-2024|text
+HuggingSpace|command-a-03-2025|text
+HuggingSpace|command-a|text
+HuggingSpace|command-r-08-2024|text
+HuggingSpace|command-r-plus-08-2024|text
+HuggingSpace|flux|text
+StabilityAI_SD35Large|sd-3.5-large|text
 Yqcloud|gpt-4|text
