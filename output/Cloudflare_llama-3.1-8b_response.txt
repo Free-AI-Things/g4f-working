@@ -1,1 +1,1 @@
-{"name": "UsAutoSetResponse", "parameters": {"msg": "Yes"}}
+{"name": "pyquote", "parameters": {}}

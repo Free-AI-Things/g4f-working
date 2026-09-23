@@ -1,1 +1,1 @@
-{"tool": "mcp-extension-tools", "function": "echo", "args": {"message": "Yes"}}
+Yes
