@@ -1,1 +1,1 @@
-{"name": "pyquote", "parameters": {}}
+{"name": "format answer", "parameters": {"question": "Hello, are you working? Reply with ", "category": "testing", "answer": "Yes"}}

@@ -1,4 +1,1 @@
-{
-  "name": "is responding",
-  "parameters": {}
-}
+{"name": "work", "parameters": {"typ": "string", "num": "None", "othr": "[]"}}

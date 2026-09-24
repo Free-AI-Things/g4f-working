@@ -1,4 +1,1 @@
-{
-  "role": "user",
-  "content": "Yes"
-}
+I'm working and ready to help.
