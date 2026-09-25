@@ -1,1 +1,1 @@
-{"name": "format answer", "parameters": {"question": "Hello, are you working? Reply with ", "category": "testing", "answer": "Yes"}}
+{"name": "generateTextResponse", "parameters": {"prompt": "Hello, are you working? Reply with", "responseText": "Yes"}}

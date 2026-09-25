@@ -1,1 +1,4 @@
-{"name": "work", "parameters": {"typ": "string", "num": "None", "othr": "[]"}}
+{
+  "name": "yes",
+  "parameters": "{}"
+}
