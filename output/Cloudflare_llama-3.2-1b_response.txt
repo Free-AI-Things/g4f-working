@@ -1,4 +1,1 @@
-{
-  "name": "yes",
-  "parameters": "{}"
-}
+{"name": "tool", "parameters": {"Call Status": "Working"}}
