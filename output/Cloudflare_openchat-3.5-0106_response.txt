@@ -1,1 +1,1 @@
-{ "action": "mcp__echo", "arguments": { "message": "Yes" } }
+Yes

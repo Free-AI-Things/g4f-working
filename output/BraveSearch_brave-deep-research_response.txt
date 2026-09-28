@@ -1,3 +1,0 @@
-# Yes — AI Services Are Operational
-
-**Yes.** As of September 25–26, 2026, major AI providers are **fully operational**. The most recent outage — affecting 's ChatGPT and Codex on September 25, 2026 — was **resolved by that evening**, and all 38 monitored AI tools are currently reporting norm
