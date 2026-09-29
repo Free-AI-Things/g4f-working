@@ -1,4 +1,1 @@
-{"name": " teil", "parameters": {"input": null, "description": null}}
-
-
-Out: Yes
+{"name": "hello", "parameters": {"output": "Yes"}}

@@ -1,2 +1,2 @@
 <think>
-Okay, so the user just asked if I'm working. Let me figure this out step by step. First, I need to understand the context. They provided the current date and time as 2026-09-2
+Alright, the user just said "Hello, are you working?" and wants me to reply with 'Yes' if I can respond. Since I'm functioning, I need to confirm my availability. The current date and time provided are 2

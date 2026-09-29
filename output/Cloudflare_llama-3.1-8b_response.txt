@@ -1,1 +1,1 @@
-{"name": "print", "parameters": {"s": "Yes"}}
+{"name": "init", "parameters": {}}
