@@ -1,1 +1,1 @@
-{"name": "init", "parameters": {}}
+{"name": "can_respond", "parameters": {}}

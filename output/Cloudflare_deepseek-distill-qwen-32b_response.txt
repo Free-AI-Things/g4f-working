@@ -1,2 +1,2 @@
 <think>
-Alright, the user just said "Hello, are you working?" and wants me to reply with 'Yes' if I can respond. Since I'm functioning, I need to confirm my availability. The current date and time provided are 2
+Okay, the user just wrote "Hello, are you working?" and I need to respond. From the message, it looks like they're checking if I'm available. My instructions are to reply with 'Yes' if I can respond.
