@@ -1,2 +1,4 @@
 <think>
-Okay, the user just wrote "Hello, are you working?" and I need to respond. From the message, it looks like they're checking if I'm available. My instructions are to reply with 'Yes' if I can respond.
+Okay, so the user has just messaged me, and I need to figure out the best way to respond. Let me start by understanding the context.
+
+First, the message is in Chinese, which I can handle since I support multiple languages

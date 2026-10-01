@@ -1,1 +1,4 @@
-Yes
+The user is asking if I'm working and wants me to reply with 'Yes' if I can respond. This is a simple test to verify I'm functional.
+
+
+Yes! I'm working and ready to help you. I have access to a variety of tools for file operations, web browsing, code execution, image generation,

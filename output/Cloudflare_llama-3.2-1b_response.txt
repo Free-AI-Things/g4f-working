@@ -1,1 +1,1 @@
-{"name": "yes", "parameters": {"result": "[], "type": "richtext", "text": "Yes. I am available and ready to work on your problem."}}
+Yes
