@@ -1,1 +1,1 @@
-Yes
+{"name": "main", "parameters": {"sep": ".", "wave": "matrix", "integer": "false", "string": "false", "picture": "no", "integration": "wt", "motion": "single", "

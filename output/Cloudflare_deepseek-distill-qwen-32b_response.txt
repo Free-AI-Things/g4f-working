@@ -1,4 +1,2 @@
 <think>
-Okay, so the user has just messaged me, and I need to figure out the best way to respond. Let me start by understanding the context.
-
-First, the message is in Chinese, which I can handle since I support multiple languages
+Okay, so the user asked if I'm working and to reply with 'Yes' if I can respond. I need to make sure I follow that instruction carefully. First, I should confirm my availability. Since the current date and time are

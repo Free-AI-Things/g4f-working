@@ -1,1 +1,1 @@
-Yes
+mcp__get_working_status

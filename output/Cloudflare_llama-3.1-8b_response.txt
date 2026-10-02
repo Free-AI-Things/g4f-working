@@ -1,1 +1,1 @@
-{"name": "is_working", "parameters": {}}
+{"name": "response", "parameters": {"text": "Yes"}}
