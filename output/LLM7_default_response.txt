@@ -1,1 +1,5 @@
-Yes
+The user asks: "Hello, are you working? Reply with 'Yes' if you can respond."
+
+We need to reply with "Yes". According to policy, the user is asking a simple question, we can answer. No disallowed content. Use "Yes". That is it.
+
+But there might be nuance: The
