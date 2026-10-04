@@ -1,1 +1,1 @@
-{"name": "respond", "parameters": {"message": "Yes"}}
+{"name": "list", "parameters": {"mode": "all"}}

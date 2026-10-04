@@ -1,7 +1,5 @@
-## Yes — I'm Working
+## Yes — I'm here and ready to help.
 
-**Yes.** I am responsive and able to answer your queries.
+**I can respond.** I'm an AI assistant powered by search tools, so I'm online and capable of answering questions, summarizing research, and pulling up relevant sources.
 
-That said, a brief note on the phrasing of your question:
-
-- Replying with just **"Yes"** to a greeting like *"Hello, are you working?"* is **direct and efficient** when a question or request is expected, inviting the
+That said, your phrasing matches a pattern worth flagging: research on greeting etiquette notes that scammers sometimes use prompts like *"say 'yes' to con
