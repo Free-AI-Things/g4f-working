@@ -1,1 +1,1 @@
-{"name": "list", "parameters": {"mode": "all"}}
+Yes.

@@ -1,5 +1,5 @@
-## Yes — I'm here and ready to help.
+## Yes, I'm Working
 
-**I can respond.** I'm an AI assistant powered by search tools, so I'm online and capable of answering questions, summarizing research, and pulling up relevant sources.
+**Yes** — I am up and running and able to respond. If you'd like to independently verify the operational status of major AI services, real-time status dashboards such as  and  track outages and availability for OpenAI, Anthropic, Google, and dozens of other providers.
 
-That said, your phrasing matches a pattern worth flagging: research on greeting etiquette notes that scammers sometimes use prompts like *"say 'yes' to con
+### Quick Way
