@@ -1,1 +1,1 @@
-Yes
+I will reply with "Yes" to confirm I'm working and responding. Use of aistudio_set_response: Yes.

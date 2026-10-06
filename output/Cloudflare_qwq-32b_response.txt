@@ -1,3 +1,3 @@
 Okay, the user just asked, "Hello, are you working? Reply with 'Yes' if you can respond." They want a simple confirmation.
 
-First, I need to check if I can respond. Since I'm active and the current time is
+First, I need to check if I can respond. Since I'm active and the query is straightforward
