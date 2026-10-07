@@ -1,1 +1,3 @@
-The user asks: "Hello, are you working? Reply with 'Yes' if you can respond." So we need to reply "Yes". The user asks that. According to the instructions, I should comply. There's no policy conflict. The user is simple. The answer should be just "Yes". The user explicitly
+The user says: "Hello, are you working? Reply with 'Yes' if you can respond."
+
+We must comply with request. It asks to reply with 'Yes' if you can respond. So respond exactly with Yes. No extra text. It's a simple request. The content is safe, no policy violation.
