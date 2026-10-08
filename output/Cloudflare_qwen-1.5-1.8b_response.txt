@@ -1,0 +1,1 @@
+Using mcp_call to send the response to the user.

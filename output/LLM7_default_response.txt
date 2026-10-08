@@ -1,3 +1,1 @@
-The user says: "Hello, are you working? Reply with 'Yes' if you can respond."
-
-We must comply with request. It asks to reply with 'Yes' if you can respond. So respond exactly with Yes. No extra text. It's a simple request. The content is safe, no policy violation.
+Yes

@@ -1,1 +1,1 @@
-{"action": "check_status"}
+Yes
