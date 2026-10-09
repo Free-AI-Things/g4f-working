@@ -1,1 +1,1 @@
-Yes
+{"tool": "mcp_1", "arguments": {"messages": [{"role": "user", "content": "Yes"}]}}
