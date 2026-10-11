@@ -1,13 +1,3 @@
 # Yes
 
-**Yes** — I'm operational and responding to your message.
-
-The session is live and processing your query normally, so you can proceed with whatever you need help with.
-
-# Yes
-
-**Yes** — I'm operational and responding to your message.
-
-## Session Status
-
-The chat session is live and proces
+Yes.
