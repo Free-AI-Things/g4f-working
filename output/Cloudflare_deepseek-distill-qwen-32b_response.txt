@@ -1,4 +1,2 @@
 <think>
-Okay, the user just asked, "Hello, are you working? Reply with 'Yes' if you can respond." I need to acknowledge that I'm operational. I should reply with "Yes" as instructed.
-
-Hmm, they also greeted
+Okay, the user's message is "You are a helpful assistant." followed by some details about the current date and time, and then a question asking if I'm working, with a prompt to reply 'Yes' if I can respond.
