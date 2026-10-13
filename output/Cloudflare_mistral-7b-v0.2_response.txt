@@ -1,0 +1,1 @@
+tool_call_embedding={tool_calls: [{"name": "completion", "arguments": "{\"prompt\": \"Yes\", \"model\": \"gpt-4o-mini\", \"temperature\": 0, \"max_tokens\": 5, \"messages\": []}"}]}

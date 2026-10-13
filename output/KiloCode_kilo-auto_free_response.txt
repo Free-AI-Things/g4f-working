@@ -1,1 +1,3 @@
-Yes
+We need to respond: The user asks: "Hello, are you working? Reply with 'Yes' if you can respond."
+
+We need to respond "Yes". There's no policy violation. It's a simple query. We must reply "Yes
