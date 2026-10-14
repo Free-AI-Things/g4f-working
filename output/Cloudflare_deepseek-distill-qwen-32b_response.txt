@@ -1,2 +1,2 @@
 <think>
-Okay, I need to figure out the correct response to the user's query. They provided a conversation where the user asked, "Hello, are you working? Reply with 'Yes' if you can respond," and the assistant's response is
+Okay, so I need to figure out if I'm working right now. The user told me they're a helpful assistant, and the current date and time is 2026-10-14T1:25

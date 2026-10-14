@@ -1,3 +1,3 @@
-Okay, the user just asked, "Hello, are you working? Reply with 'Yes' if you can respond." They want a simple confirmation.
+Okay, the user just asked, "Hello, are you working? Reply with 'Yes' if you can respond." Let me break this down.
 
-I need to check if I can respond. The current time is 2026-1
+First, they're checking if I'm operational. The instruction is straightforward: reply with 'Yes'

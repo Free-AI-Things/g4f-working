@@ -1,1 +1,1 @@
-tool_call_embedding={tool_calls: [{"name": "completion", "arguments": "{\"prompt\": \"Yes\", \"model\": \"gpt-4o-mini\", \"temperature\": 0, \"max_tokens\": 5, \"messages\": []}"}]}
+Yes, I can respond. I have access to several tools that allow me to complete tasks and assist with various operations.
