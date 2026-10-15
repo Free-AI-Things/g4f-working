@@ -1,5 +1,0 @@
-<think>
-The user is asking a simple question to check if I'm working and responsive. They want me to reply with "Yes" if I can respond. This is a very simple request that deserves a very simple answer.
-
-The instruction is clear: reply with "Yes" if I can respond. I can respond, so I should just say "Yes" as requested. There's no reason to add extra fluff or complications here - the user explicitly asked for a specific format of response.
-</think>Yes

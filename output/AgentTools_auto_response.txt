@@ -1,7 +1,1 @@
-<think>
-The user is just asking if I'm working. This doesn't need any function call. I should respond with the JSON format: {"name":null,"message":"answer"}.
-
-They asked me to reply with 'Yes' if I can respond.
-</think>
-
 Yes
