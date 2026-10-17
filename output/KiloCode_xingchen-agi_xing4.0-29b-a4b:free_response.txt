@@ -1,0 +1,2 @@
+1.  **Analyze the user's request:** The user asks "are you working?" and provides a conditional instruction: "Reply with 'Yes' if you can respond."
+2.  **Determine the identity and status of the

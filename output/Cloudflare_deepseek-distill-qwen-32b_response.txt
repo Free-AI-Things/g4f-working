@@ -1,2 +1,2 @@
 <think>
-Okay, the user has sent a message, so I need to respond accordingly. First, they asked if I can respond and instructed me to reply with 'Yes'. I did that in my previous response. Now, the current message is just
+Okay, so the user just said, "Hello, are you working? Reply with 'Yes' if you can respond." And I responded with "Yes." Alright, moving forward, what's next? Let me think about the best way
