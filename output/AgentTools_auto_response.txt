@@ -1,3 +1,1 @@
-The API key used for this request has reached its budget. Please [raise the key budget](https://enter.pollinations.ai/edit-key?id=XPyDb0MNMj3sQfpeZnu6g775v20hfume&ref=agent_key_budget), then try again.
-
-Topping up the wallet does not raise this limit. If this isn’t your Pollinations account, contact whoever runs the app or service you’re using.
+Yes

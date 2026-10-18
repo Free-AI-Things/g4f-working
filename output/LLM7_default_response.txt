@@ -1,1 +1,1 @@
-The user asks: "Hello, are you working? Reply with 'Yes' if you can respond." So they want a simple answer "Yes". There's no policy issue. Should respond with Yes. But note they might want "Yes" exactly, but presumably the answer can be just "Yes". Might also add a
+Yes
