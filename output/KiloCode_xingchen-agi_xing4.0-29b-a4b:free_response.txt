@@ -1,2 +1,0 @@
-1.  **Analyze the user's input**: The user asks "are you working? Reply with 'Yes' if you can respond."
-2.  **Identify the core intent**: The user wants confirmation of my ability to respond
