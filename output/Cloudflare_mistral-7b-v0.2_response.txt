@@ -1,1 +1,1 @@
-{ "action": "mcp__npx__list", "arguments": {} }
+Yes
