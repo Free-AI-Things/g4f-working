@@ -1,1 +1,5 @@
-Yes, I can respond. How can I assist you today?
+The user asks: "Hello, are you working? Reply with 'Yes' if you can respond."
+
+We need to comply: The user wants a short answer. So we respond "Yes". There's no policy violation. It's a simple request. The answer is short: "Yes".
+
+We should ensure we obey. There's
