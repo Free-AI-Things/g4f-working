@@ -1,1 +1,1 @@
-assistant_complete("Yes")
+Yes

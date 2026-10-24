@@ -1,4 +1,2 @@
 <think>
-Okay, so I'm trying to figure out why the user greeting didn't get a response. Let's break this down.
-
-First, the user starts by addressing me as a helpful assistant, which sets the expectation that they want assistance. Then
+Okay, so I need to figure out when my birthday will be in 2027. My birthday is on March 15th, 2024. Hmm, wait, that can't be right because the user
