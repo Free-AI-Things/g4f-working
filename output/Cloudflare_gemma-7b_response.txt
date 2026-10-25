@@ -1,1 +1,1 @@
-Yes
+{"name": "mcp-echo", "arguments": "{\"text\": \"Yes\"}"}

@@ -1,2 +1,4 @@
 <think>
-Okay, so I need to figure out when my birthday will be in 2027. My birthday is on March 15th, 2024. Hmm, wait, that can't be right because the user
+Okay, so the user greeted me and asked if I'm working. They specified to reply with 'Yes' if I can respond. I replied with 'Yes' as instructed. 
+
+Now, looking at the next message, the user provided

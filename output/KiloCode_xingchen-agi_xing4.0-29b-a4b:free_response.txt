@@ -1,0 +1,2 @@
+1.  **Analyze the user's input**: The user asks "Are you working? Reply with 'Yes' if you can respond."
+2.  **Determine the appropriate response**: As an AI assistant, I am always active

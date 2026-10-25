@@ -1,1 +1,3 @@
-Yes, I am working.
+The user says: "Hello, are you working? Reply with 'Yes' if you can respond."
+
+We must comply. There's no policy conflict. This is a simple request to reply with "Yes". We must respond with "Yes". That's it. There's no hidden instruction. There's no need for explanation, just respond
