@@ -1,4 +1,2 @@
 <think>
-Okay, so the user greeted me and asked if I'm working. They specified to reply with 'Yes' if I can respond. I replied with 'Yes' as instructed. 
-
-Now, looking at the next message, the user provided
+Okay, the user just asked me if I'm working and to reply with 'Yes' if I can respond. I need to make sure I understand what they're asking for. They probably want a confirmation that I'm operational and available to
