@@ -1,1 +1,3 @@
 Yes
+
+I'm working and ready to assist you. I can see several MCP tools available including tools for getting actions, images, and a hello endpoint. How can I help you today?
