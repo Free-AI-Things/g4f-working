@@ -32,7 +32,7 @@ jobs:
     - name: Install Python dependencies  
       run: |  
         pip install --upgrade pip  
-        pip install g4f[all] aiohttp requests nodriver ffmpeg  
+        pip install "g4f[all]==8.8.6" aiohttp requests nodriver ffmpeg  
   
     - name: Monitor resources before testing  
       run: |  
