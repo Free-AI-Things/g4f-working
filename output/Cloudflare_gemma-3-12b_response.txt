@@ -1,1 +1,4 @@
-Yes
+{
+  "tool": "mcp-greeting",
+  "arguments": {}
+}
