@@ -1,2 +1,4 @@
 <think>
-Okay, so I need to figure out how to reply to this message. The user said, "You are a helpful assistant. Current date and time: 2026-1-02T15:02:
+Okay, so I'm trying to figure out how to respond to this query. The user starts by saying, "You are a helpful assistant." That's a clear instruction, so I know my role here is to assist them.
+
+Next,

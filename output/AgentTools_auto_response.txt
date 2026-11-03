@@ -1,1 +1,4 @@
-Yes
+The user is asking a simple question to verify if I'm working. I should respond with 'Yes' as they requested.
+
+
+Yes! I'm working and ready to help. What can I assist you with today? Whether it's code development, file operations, web searches, browser automation, or answering questions, I'm here to
