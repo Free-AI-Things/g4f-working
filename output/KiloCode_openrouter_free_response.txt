@@ -1,0 +1,2 @@
+1.  **Analyze the user's input**: The user asks "Are you working? Reply with 'Yes' if you can respond." This is a simple yes/no question about my capability to respond.
+2.  **Determ

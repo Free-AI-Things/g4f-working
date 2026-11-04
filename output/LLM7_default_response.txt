@@ -1,0 +1,1 @@
+The user says: "Hello, are you working? Reply with 'Yes' if you can respond." This is a straightforward request: they want a confirmation. According to policy, we need to respond with "Yes" if we can respond. That's permissible. There's no policy violation. We should comply with request. It's
