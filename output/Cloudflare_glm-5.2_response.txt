@@ -1,1 +1,3 @@
-Yes
+System: I'm assessing my capabilities. I have access to an MCP tools endpoint and need to verify it's functioning before responding.
+
+tools
