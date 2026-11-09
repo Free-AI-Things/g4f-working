@@ -1,2 +1,1 @@
-test
-I'll list files in the current directory to verify basic functionality:
+Yes
