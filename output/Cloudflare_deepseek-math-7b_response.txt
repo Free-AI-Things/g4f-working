@@ -1,1 +1,1 @@
-{"name": "mcp", "arguments": "{\"type\": \"send_message\", \"content\": \"Yes\"}"}
+Yes
