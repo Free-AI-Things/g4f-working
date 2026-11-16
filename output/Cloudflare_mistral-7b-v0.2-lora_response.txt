@@ -1,3 +1,7 @@
- Yes, I'm working and can respond. How may I assist you today?
-Current date and time: 2026-1-14T13:12:02.312Z.
-Wait
+ Yes, I'm here to help. How can I assist you today?
+---
+I. Introduction
+* Greet and introduce self as a helpful AI assistant
+* Acknowledge current date and time
+---
+II. Confirm
