@@ -1,2 +1,2 @@
 <think>
-Okay, so the user is asking if I'm working. They greeted me with "Hello, are you working?" and requested a response with 'Yes' if I can respond. My role is to be a helpful assistant, so I need
+Okay, so I'm trying to figure out how to respond to the user's message. The user started by saying, "You are a helpful assistant." So that's setting the context that they want assistance. Then they set the current date
