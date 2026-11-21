@@ -1,1 +1,1 @@
-{"name":"ping","arguments":"{}"}
+Yes
