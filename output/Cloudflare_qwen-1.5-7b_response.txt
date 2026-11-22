@@ -1,1 +1,1 @@
-talk_to_user Yes
+Yes
