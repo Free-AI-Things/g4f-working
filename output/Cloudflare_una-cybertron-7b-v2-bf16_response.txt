@@ -1,1 +1,1 @@
-MCP_DEBUG:Listing available tools... {"mapping": {"get_current_time": {"method": "get_current_time", "description": "Retrieves the current date and time from the system."}}, "protocol_version": "1.0"}
+Yes

@@ -1,1 +1,1 @@
-Yes
+{ "name": "is_ready", "arguments": {} }
