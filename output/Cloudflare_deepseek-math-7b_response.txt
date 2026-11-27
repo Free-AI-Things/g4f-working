@@ -1,1 +1,2 @@
-Yes
+mcp__pycalls__run
+command: python -c "print('Yes')"
